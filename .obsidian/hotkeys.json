@@ -15,5 +15,23 @@
       ],
       "key": "\\"
     }
+  ],
+  "copilot:add-custom-prompt": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "copilot:apply-custom-prompt": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }

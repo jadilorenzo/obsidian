@@ -33,20 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "e7bbe60f5c63ec88",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "98b44ccf312f2b8a",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -164,14 +150,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "5048de7a6cf6dc0f",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +178,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "98b44ccf312f2b8a",
+  "active": "5048de7a6cf6dc0f",
   "lastOpenFiles": [
     "Experiments/2024-02-09.md",
     "Story.md",

@@ -1,7 +1,7 @@
 ## Chapter 1: Nothing is Fair in War
 
 *"You see, but you do not observe. The distinction is clear.”*
-— Sherlock Holmes
+— Sherlock HolmesP
 
 Positioned strategically near the heart of the Atlantic Ocean, THE NEMESIS — an anarchist vessel — silently completed its last system check of the ship’s largest weapon, an Electromagnetic Pulse (EMP) weapon. While traditional EMP weapons are about the size of a car engine, this monstrosity was the size of a small submarine, taking up more than half of the deck space on THE NEMESIS. Etched on the side of the ship, just below the ship's name, was the vessel's motto: "Cras Mors Venit," which translates to "Tomorrow we die.”
 
