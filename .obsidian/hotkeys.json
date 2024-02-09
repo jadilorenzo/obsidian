@@ -33,5 +33,22 @@
       ],
       "key": "P"
     }
+  ],
+  "copilot:set-chat-note-context": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
   ]
 }
