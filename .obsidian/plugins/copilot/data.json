@@ -1,5 +1,5 @@
 {
-  "openAIApiKey": "",
+  "openAIApiKey": "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",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
   "anthropicApiKey": "",
@@ -11,9 +11,10 @@
   "googleApiKey": "",
   "openRouterAiApiKey": "",
   "openRouterModel": "cognitivecomputations/dolphin-mixtral-8x7b",
+  "defaultModel": "gpt-4-turbo-preview",
   "defaultModelDisplayName": "LM STUDIO (LOCAL)",
   "embeddingModel": "text-embedding-3-small",
-  "temperature": 0.1,
+  "temperature": 0.3,
   "maxTokens": 1000,
   "contextTurns": 15,
   "userSystemPrompt": "",
@@ -25,6 +26,6 @@
   "stream": true,
   "embeddingProvider": "openai",
   "defaultSaveFolder": "copilot-conversations",
-  "chatNoteContextPath": "",
-  "debug": false
+  "chatNoteContextPath": "Story",
+  "debug": true
 }
