@@ -33,6 +33,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "e7bbe60f5c63ec88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98b44ccf312f2b8a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,21 +164,14 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "8b32b238c7ddd09a",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +185,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a276dca5c4497a1a",
+  "active": "98b44ccf312f2b8a",
   "lastOpenFiles": [
-    "Home.md",
-    "Story.md",
     "Experiments/2024-02-09.md",
+    "Story.md",
+    "Home.md",
     "Experiments",
     "Experiments/Untitled 1.canvas",
     "Experiments/Untitled.canvas"
