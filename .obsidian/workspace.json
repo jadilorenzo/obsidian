@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -167,10 +167,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "cca1359c5d326f45",
+  "active": "ddf06187317bded3",
   "lastOpenFiles": [
-    "Daily Note/2024-02-10.md",
+    "Untitled.canvas",
     "2024-02-10.md",
+    "Daily Note/2024-02-10.md",
     "Daily Note/2024-02-09.md",
     "Daily Note",
     "Home.md",
