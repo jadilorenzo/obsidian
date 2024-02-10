@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/EMP Introduction Scene.md",
+                "file": "Experiments/2024-02-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/EMP Introduction Scene.md",
+                "file": "Experiments/2024-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/EMP Introduction Scene.md",
+                "file": "Experiments/2024-02-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/EMP Introduction Scene.md"
+                "file": "Experiments/2024-02-09.md"
               }
             }
           },
@@ -166,8 +167,9 @@
   },
   "active": "917b41fb95fc74c3",
   "lastOpenFiles": [
-    "Story/Story.md",
     "Story/EMP Introduction Scene.md",
+    "Story/Story.md",
+    "Untitled.md",
     "Story",
     "Experiments/Mindmap.canvas",
     "Experiments/2024-02-09 1.md",
