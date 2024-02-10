@@ -16,7 +16,7 @@
                 "file": "Daily Note/2024-02-10.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -164,15 +163,16 @@
       "graph:Open graph view": false,
       "templates:Insert template": true,
       "workspaces:Manage workspace layouts": true,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "ddf06187317bded3",
+  "active": "0d0531884fa2653d",
   "lastOpenFiles": [
+    "Daily Note/2024-02-09.md",
+    "Daily Note/2024-02-10.md",
     "Untitled.canvas",
     "2024-02-10.md",
-    "Daily Note/2024-02-10.md",
-    "Daily Note/2024-02-09.md",
     "Daily Note",
     "Home.md",
     "2024-02-09.md",
