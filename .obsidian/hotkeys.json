@@ -16,15 +16,6 @@
       "key": "\\"
     }
   ],
-  "copilot:add-custom-prompt": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
   "copilot:apply-custom-prompt": [
     {
       "modifiers": [
@@ -49,6 +40,23 @@
         "Ctrl"
       ],
       "key": "C"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }
