@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"d0005b01bcdf712c","type":"text","text":"Canvas Experiment","x":40,"y":-100,"width":250,"height":190,"color":"5"},
-		{"id":"c00d35280ff8bfe4","type":"file","file":"Experiments/2024-02-09.md","x":40,"y":140,"width":250,"height":140}
+		{"id":"c00d35280ff8bfe4","type":"file","file":"Daily Note/2024-02-09.md","x":40,"y":140,"width":250,"height":140}
 	],
 	"edges":[
 		{"id":"f37e65ac81199c51","fromNode":"d0005b01bcdf712c","fromSide":"right","toNode":"c00d35280ff8bfe4","toSide":"right"}
