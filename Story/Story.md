@@ -3,7 +3,7 @@
 *"You see, but you do not observe. The distinction is clear.”*
 — Sherlock HolmesP
 
-[[EMP Introduction Scene]]
+![[EMP Introduction Scene]]
 
 ---
 
