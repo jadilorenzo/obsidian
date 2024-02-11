@@ -5,6 +5,8 @@
 - [ ] Finish Calc for the Week by Wednesday
 - [ ] Some Christendom
 - [ ] Some Grammar
+- [ ] Submit Second Draft
+- [ ] Create Second Draft
 ### What I got done:
 
 - [x] Finish the A Mind map
@@ -14,6 +16,8 @@
 	- [ ] Finished Thursday
 - [ ] Some Christendom
 - [ ] Some Grammar
+- [ ] Submit Second Draft
+- [x] Create Second Draft
 
 ### What I will commit to doing better next week
 - [ ] Get up on time (I woke up at 8 or 8:30 every day except today at 7:15)
