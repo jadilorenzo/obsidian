@@ -11,8 +11,13 @@
             "id": "83632a74b9fffc8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Other/Reflections on What Happened this Week.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Other/Reflections on What Happened this Week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Other/Reflections on What Happened this Week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Other/Reflections on What Happened this Week.md"
+              }
             }
           },
           {
@@ -160,8 +170,10 @@
   },
   "active": "83632a74b9fffc8b",
   "lastOpenFiles": [
-    "Experiments/Untitled.md",
     "Daily Note/2024-02-10.md",
+    "Other/Reflections on What Happened this Week.md",
+    "Other",
+    "Experiments/Untitled.md",
     "Daily Note/2024-02-09.md",
     "Experiments/Mindmap.canvas",
     "Untitled.canvas",
@@ -173,7 +185,6 @@
     "Experiments/Untitled.canvas",
     "Story/EMP Introduction Scene.md",
     "Story/Story.md",
-    "Untitled.md",
     "Story",
     "Experiments/2024-02-09 1.md",
     "Experiments/Untitled 2.canvas",
