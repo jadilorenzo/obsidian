@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4716553269d63f43",
+        "id": "f9351d01e1f4b272",
         "type": "tabs",
         "children": [
           {
-            "id": "737c1915032addd7",
+            "id": "0467d20506518215",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2024-02-12.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Note/2024-02-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Note/2024-02-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Note/2024-02-12.md"
+              }
             }
           },
           {
@@ -142,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +168,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "737c1915032addd7",
+  "active": "0467d20506518215",
   "lastOpenFiles": [
+    "Daily Note/2024-02-12.md",
     "Story/Story.md",
     "Story/EMP Introduction Scene.md",
     "Experiments/Untitled 2.canvas",
