@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -182,7 +181,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f558094817419d39",
+  "active": "1d15abac4e796297",
   "lastOpenFiles": [
     "Daily Note/2024-02-13.md",
     "Math/Week 18 Problem 7 (27076).md",
