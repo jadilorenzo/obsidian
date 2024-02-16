@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-02-15.md",
+                "file": "Daily Note/2024-02-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-02-15.md",
+                "file": "Daily Note/2024-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-02-15.md",
+                "file": "Daily Note/2024-02-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-02-15.md"
+                "file": "Daily Note/2024-02-16.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "f5ea55fe9ad4612e",
   "lastOpenFiles": [
-    "Daily Note/2024-02-14.md",
     "Daily Note/2024-02-15.md",
+    "Daily Note/2024-02-16.md",
+    "Daily Note/2024-02-14.md",
     "Personal/2024-02-13 Screencast Review.md",
     "Personal/2024-02-12 Screencast Review.md",
     "Daily Note/2024-02-13.md",
