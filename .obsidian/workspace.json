@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/A Great Day on The Mountain.md",
+                "file": "Daily Note/2024-02-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/A Great Day on The Mountain.md",
+                "file": "Daily Note/2024-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/A Great Day on The Mountain.md",
+                "file": "Daily Note/2024-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/A Great Day on The Mountain.md"
+                "file": "Daily Note/2024-02-24.md"
               }
             }
           },
@@ -152,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +169,10 @@
   },
   "active": "b44c92a655bb1ba6",
   "lastOpenFiles": [
-    "Writing",
-    "Untitled 1.md",
     "Writing/A Great Day on The Mountain.md",
     "Daily Note/2024-02-24.md",
+    "Writing",
+    "Untitled 1.md",
     "Daily Note/2024-02-23.md",
     "Daily Note/2024-02-22.md",
     "Daily Note/2024-02-21.md",
