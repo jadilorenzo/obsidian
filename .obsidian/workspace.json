@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8d351b226f73825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/2024-02-26 Screencast Review.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-02-26.md",
+                "file": "Personal/2024-02-26 Screencast Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-02-26.md",
+                "file": "Personal/2024-02-26 Screencast Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-02-26.md"
+                "file": "Personal/2024-02-26 Screencast Review.md"
               }
             }
           },
@@ -167,10 +181,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "b44c92a655bb1ba6",
+  "active": "e8d351b226f73825",
   "lastOpenFiles": [
-    "Daily Note/2024-02-24.md",
+    "Personal/2024-02-26 Screencast Review.md",
     "Daily Note/2024-02-26.md",
+    "Daily Note/2024-02-24.md",
     "Writing/A Great Day on The Mountain.md",
     "Writing",
     "Untitled 1.md",
@@ -202,7 +217,6 @@
     "Daily Note/2024-02-09.md",
     "Home.md",
     "Other/Reflections on What Happened this Week.md",
-    "Daily Note/2024-02-10.md",
     "Other",
     "Daily Note",
     "Story",
