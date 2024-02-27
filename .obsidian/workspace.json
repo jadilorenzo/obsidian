@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/2024-02-26 Screencast Review.md",
+                "file": "Daily Note/2024-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/2024-02-26 Screencast Review.md",
+                "file": "Daily Note/2024-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/2024-02-26 Screencast Review.md"
+                "file": "Daily Note/2024-02-26.md"
               }
             }
           },
@@ -181,7 +180,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "e8d351b226f73825",
+  "active": "b44c92a655bb1ba6",
   "lastOpenFiles": [
     "Personal/2024-02-26 Screencast Review.md",
     "Daily Note/2024-02-26.md",
