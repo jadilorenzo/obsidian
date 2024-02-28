@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-02-26.md",
+                "file": "Daily Note/2024-02-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-02-26.md",
+                "file": "Daily Note/2024-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-02-26.md",
+                "file": "Daily Note/2024-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-02-26.md"
+                "file": "Daily Note/2024-02-27.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "b44c92a655bb1ba6",
   "lastOpenFiles": [
-    "Personal/2024-02-26 Screencast Review.md",
     "Daily Note/2024-02-26.md",
+    "Daily Note/2024-02-27.md",
+    "Personal/2024-02-26 Screencast Review.md",
     "Daily Note/2024-02-24.md",
     "Writing/A Great Day on The Mountain.md",
     "Writing",
@@ -215,7 +216,6 @@
     "Experiments/Mindmap.canvas",
     "Daily Note/2024-02-09.md",
     "Home.md",
-    "Other/Reflections on What Happened this Week.md",
     "Other",
     "Daily Note",
     "Story",
