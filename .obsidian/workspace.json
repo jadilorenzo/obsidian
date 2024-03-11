@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/2024-02-26 Screencast Review.md",
+                "file": "Story/EMP Introduction Scene.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-02-29.md",
+                "file": "Story/EMP Introduction Scene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-02-29.md",
+                "file": "Story/EMP Introduction Scene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-02-29.md"
+                "file": "Story/EMP Introduction Scene.md"
               }
             }
           },
@@ -180,13 +181,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "b44c92a655bb1ba6",
+  "active": "e8d351b226f73825",
   "lastOpenFiles": [
-    "Daily Note/2024-02-28.md",
+    "Story/Story.md",
+    "Personal/2024-02-26 Screencast Review.md",
     "Daily Note/2024-02-29.md",
+    "Daily Note/2024-02-28.md",
     "Daily Note/2024-02-27.md",
     "Daily Note/2024-02-26.md",
-    "Personal/2024-02-26 Screencast Review.md",
     "Daily Note/2024-02-24.md",
     "Writing/A Great Day on The Mountain.md",
     "Writing",
@@ -209,7 +211,6 @@
     "Personal",
     "Untitled.canvas",
     "Daily Note/2024-02-12.md",
-    "Story/Story.md",
     "Story/EMP Introduction Scene.md",
     "Experiments/Untitled 2.canvas",
     "Experiments/Untitled 1.canvas",
