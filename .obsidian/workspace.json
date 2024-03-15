@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b44c92a655bb1ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-02-29.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e8d351b226f73825",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/EMP Introduction Scene.md",
+                "file": "Daily Note/2024-03-14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/EMP Introduction Scene.md",
+                "file": "Daily Note/2024-03-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/EMP Introduction Scene.md",
+                "file": "Daily Note/2024-03-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/EMP Introduction Scene.md"
+                "file": "Daily Note/2024-03-14.md"
               }
             }
           },
@@ -183,6 +169,8 @@
   },
   "active": "e8d351b226f73825",
   "lastOpenFiles": [
+    "Story/EMP Introduction Scene.md",
+    "Daily Note/2024-03-14.md",
     "Story/Story.md",
     "Personal/2024-02-26 Screencast Review.md",
     "Daily Note/2024-02-29.md",
@@ -211,10 +199,8 @@
     "Personal",
     "Untitled.canvas",
     "Daily Note/2024-02-12.md",
-    "Story/EMP Introduction Scene.md",
     "Experiments/Untitled 2.canvas",
     "Experiments/Untitled 1.canvas",
-    "Experiments/Untitled.md",
     "Experiments/Untitled.canvas",
     "Experiments/Mindmap.canvas",
     "Other",
