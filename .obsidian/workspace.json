@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33b1e3d7f0f60f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/2024-03-18 Screencast Review.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-03-18.md",
+                "file": "Personal/2024-03-18 Screencast Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-03-18.md",
+                "file": "Personal/2024-03-18 Screencast Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-03-18.md"
+                "file": "Personal/2024-03-18 Screencast Review.md"
               }
             }
           },
@@ -167,8 +182,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "62037bca2d29168e",
+  "active": "33b1e3d7f0f60f17",
   "lastOpenFiles": [
+    "Personal/2024-03-18 Screencast Review.md",
     "Daily Note/2024-03-18.md",
     "Daily Note/2024-03-14.md",
     "Personal/2024-03-16 Screencast Review.md",
@@ -195,7 +211,6 @@
     "Daily Note/2024-02-14.md",
     "Personal/2024-02-13 Screencast Review.md",
     "Personal/2024-02-12 Screencast Review.md",
-    "Daily Note/2024-02-13.md",
     "Math",
     "Personal",
     "Untitled.canvas",
