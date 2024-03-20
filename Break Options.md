@@ -1,0 +1,5 @@
+- [ ] Run
+- [ ] Pull-ups
+- [ ] Exercise
+- [ ] Jumping
+- [ ] Piano
