@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e624f3b8a801fc9e",
+        "id": "31f975ecbd9edfa3",
         "type": "tabs",
         "children": [
           {
-            "id": "62037bca2d29168e",
+            "id": "623459007b10c2e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-03-20.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4154bf50b0c60235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grammar/ACTIVE & PASSIVE VOICE - EXERCISE 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16e5bc3b0948ebfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACTIVE & PASSIVE VOICE - TEST.md",
+                "file": "Daily Note/2024-04-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -113,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACTIVE & PASSIVE VOICE - TEST.md",
+                "file": "Daily Note/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACTIVE & PASSIVE VOICE - TEST.md",
+                "file": "Daily Note/2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACTIVE & PASSIVE VOICE - TEST.md"
+                "file": "Daily Note/2024-04-04.md"
               }
             }
           },
@@ -194,13 +168,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "16e5bc3b0948ebfe",
+  "active": "623459007b10c2e3",
   "lastOpenFiles": [
+    "Daily Note/2024-04-04.md",
+    "Daily Note/2024-03-20.md",
     "ACTIVE & PASSIVE VOICE - TEST.md",
     "Grammar/ACTIVE & PASSIVE VOICE - EXERCISE 3.md",
     "Grammar/ACTIVE & PASSIVE VOICE EX 2.md",
     "Grammar",
-    "Daily Note/2024-03-20.md",
     "Break Options.md",
     "Daily Note/2024-03-19.md",
     "Untitled 1.md",
@@ -223,7 +198,6 @@
     "Writing",
     "Daily Note/2024-02-23.md",
     "Daily Note/2024-02-22.md",
-    "Daily Note/2024-02-21.md",
     "Math",
     "Personal",
     "Untitled.canvas",
