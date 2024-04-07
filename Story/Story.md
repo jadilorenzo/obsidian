@@ -83,5 +83,12 @@ These drones served a dual purpose. Firstly, they monitored any new technology e
 
 Central to the Novar festival was its famed tournament, drawing hundreds of skilled competitors from far and wide. Yet, amidst the excitement of the event, Novar found itself inundated with a less savory crowd — opportunistic miscreants seeking easy prey among the festival-goers. Though the Novar security force prided itself on its swift response time, the city's labyrinthine streets often allowed criminals to vanish into the shadows before justice could be served.
 
+**
+
+Life was dangerous. Despite the presence of police drones patrolling both countryside and urban areas, the likelihood of meeting a violent end was substantial. Surviving to forty years old required not just skill, but a significant stroke of luck.
+
+**
+
+
 
 
