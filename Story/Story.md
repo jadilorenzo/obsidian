@@ -72,3 +72,16 @@ However, the sound of steel on steel was inconsistent. In addition to the irregu
 The struggle between the two men was intense, drawing the attention of the onlookers. The hubbub of conversation turned into gasps and murmurs as the scene unfolded. The forest path became a battleground of its own, the skirmish contrasting starkly with the peaceful surroundings.
 
 Amidst the chaos, a shriveled man, barely noticeable in the crowd, crawled through the throng of spectators. His gnarled fingers reached out, his eyes fixed on a small, square-inch-sized jewel hanging from the old man's belt. The credit token,
+
+
+
+This was the main lines to Novar. The city braced itself for the annual Novar festival. Weapons, more than usual, adorned the belts of the festival attendees, a stark reminder of the city's heightened state of vigilance.
+
+Novar, a formidable fortress in its own right, stood proudly, its grandeur evident in every aspect. Encircled by a massive wall, the city boasted an unmistakable defense against potential invaders. However, during the festival, an additional layer of protection enveloped Novar's airspace, the shimmering shield casting a radiant glow across the sky. Countless military-grade surveillance drones hovered above, their watchful eyes scanning the cityscape, ever vigilant.
+
+These drones served a dual purpose. Firstly, they monitored any new technology entering the city, ensuring that Governor Marcus Kane remained informed and in control. Secondly, they acted as a deterrent against crime, their presence serving as a stark warning to would-be wrongdoers.
+
+Central to the Novar festival was its famed tournament, drawing hundreds of skilled competitors from far and wide. Yet, amidst the excitement of the event, Novar found itself inundated with a less savory crowd — opportunistic miscreants seeking easy prey among the festival-goers. Though the Novar security force prided itself on its swift response time, the city's labyrinthine streets often allowed criminals to vanish into the shadows before justice could be served.
+
+
+
