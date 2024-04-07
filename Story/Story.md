@@ -11,27 +11,21 @@ A century later, the world had changed. Contrary to visions of aliens, spaceship
 
 With the abrupt cessation of the technological symphony that had been the modern world, the landscape transformed. Once-proud skyscrapers, monuments to human achievement, now stood as silent skeletons of progress.
 
-“First time on a lightning train?” an attendant in a dark blue uniform and jacket asked of an uneasy passenger. The uniform and jacket were without adornment — or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding. The symbol was a_____.
+“First time on a lightning train?” an attendant in a dark blue uniform and jacket asked an uneasy passenger. The uniform and jacket were without adornment — or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding. The symbol was a [blank], the insignia of Novar's governor, Marcus Kane.
 
-An unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems initially designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades. Depending on the size and variety, these shields could deflect up to full-blown tank shells, metal or not. The edges, or more technically destructive magnetic fields, could easily tear through sheet metal. However, when brought to bear in hand-to-hand combat, each blade counteracted the other.
+An unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems initially designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades. Depending on the size and variety, these shields could deflect up to full-blown tank shells, metal or otherwise. The edges, or more technically destructive magnetic fields, could easily tear through sheet metal. However, when brought to bear in hand-to-hand combat, each blade counteracted the other.
 
-"Headed to Novar?" The merchant posed the question, his hand casually resting on the hilt of a short sword hanging from his belt. But to call it a “sword” would do the weapon little justice.
+The man whom the attendant had addressed was a boy roughly 16 years old. Strapped to his waist was a bare-bladed curved saber, an ornament worn by every passenger and attendant in some form or other. There were the standard straight short swords worn by the attendants. Then there were the plethora of other shapes and sizes: small axes, large axes, double swords, knives, and even the occasional hammer.
 
-According to the day's standards, it was a relatively high-end weapon. Though in terms of salary, it was the price equivalent of a luxury SUV. ————
+The boy coyly answered the attendant with a "Uh, yeah." and adjusted himself into his seat.
 
-Alan, a man of twenty hard years’ worth of intensity in his gaze, met the stranger's audacious intrusion with a tightened jaw. "Yes," he confirmed, his tone even.
+A few rows behind him,
 
-The stranger leaned in, unperturbed by Alan's blank stare. "Tournament contender, perhaps?"
-
-"No," he stated matter of factly. "It’s unnecessary exposure. Worthy soldiers are smarter than that."
-
-Disappointed with Alan's response, the merchant dropped the conversation, and they both continued their walk silent amid the hubbub of conversation on the rocky mountain path that led toward Novar.
-
-As Alan walked, the state of the world was often on his mind. The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy, and the weak struggled without hope to survive under the shadow of war, execution, starvation, or assasination. Trust was rare and power was the ultimate currency.
+As Alan walked, the state of the world was often on his mind. The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy, and the weak struggled without hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare and power was the ultimate currency.
 
 Far before the merchant had spoken, Alan had taken stock of every weapon on the hillside, instinctively assessing all potential threats or weaknesses, from the merchant’s short sword to the concealed knife on a relatively elderly man fifty yards distant. It was a habit ingrained in him from a lifetime of guarding the defenseless and stepping in when the odds seemed insurmountable.
 
-Alan was born an orphan in a violent world, and he looked the part. Alan was of an agile build and wore tight-fitting, flexible brown fabric blending into black, accompanied by dark metal armor adorning his shins and forearms to preserve the utmost flexibility and agility. He was covered in dirt and grime from his cloak to his boots.
+Alan was born an orphan in a violent world, and he looked the part. Alan was of an agile build. He wore tight-fitting, flexible brown fabric blending into black, accompanied by dark metal armor adorning his shins and forearms to preserve the utmost flexibility and agility. He was covered in dirt and grime from his cloak to his boots.
 
 Alan was a master of combat _and_ technology. A tall staff of dark seamless metal rested, magnetically suspended on his back, ready to be drawn at a moment's notice. It was more than a quarterstaff of medieval times.
 
@@ -53,7 +47,7 @@ With measured steps, he approached the elderly man, a smile curving his lips as 
 
 The old man's gaze met his, and for an instant, time seemed to pause as the old man looked up in gentle expectation. In the next breath, the man collapsed, his descent to the ground eerily silent, leaving all but one of his attendants frozen in shock.
 
-Almost as soon as the old man’s unconscious body hit the ground, one seemingly unassuming attendant sprang into action. Nothing about this man's appearance would have suggested action. If one had to describe the smooth face and intelligent eyes behind his round glasses, one would have thought he had never seen the world outside his mental landscape.
+Almost as soon as the old man’s unconscious body hit the ground, one seemingly unassuming attendant sprang into action. Nothing about this man's appearance would have suggested action. If one had to describe the smooth face and intelligent eyes behind his round glasses, one would have thought he had never seen the world outside his mind.
 
 He lunged forward with a remarkable burst of swiftness, intercepting the concealed knife mid-air as it ricocheted off the ground. The weapon had slipped from the old man's coat amidst the chaos.
 

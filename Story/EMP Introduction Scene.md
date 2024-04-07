@@ -8,4 +8,4 @@ Moments later, without warning, THE NEMESIS erupted into a colossal fireball, va
 
 Many said they were the lucky ones.
 
-As the invisible wave of the EMP raced across the globe, skylines instantly went dark, and the world's technological infrastructure crumbled instantly. The dazzling screens that once commanded attention in every household turned into gaping black mirrors. Cars stalled on highways, their electronic brains fried. The crackle of electricity that had become the backdrop of modern life fell into an eerie silence — a silence soon filled with screams of pain.
+As the invisible wave of the EMP raced across the globe, skylines instantly went dark, and the world's technological infrastructure crumbled instantly. The dazzling screens that once commanded attention in every household turned into gaping black mirrors. Cars stalled on highways, their electronic brains fried. The crackle of electricity that had become the backdrop of modern life fell into an eerie silence — a silence soon filled with screams. It was anarchy.
