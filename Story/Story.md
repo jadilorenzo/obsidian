@@ -7,11 +7,11 @@
 
 ---
 
-A century later, the world had changed. Contrary to visions of aliens, spaceships, and teleportation, the world was not somehow bizarre. It was dangerous.
+A century later, the world had changed. Contrary to visions of aliens, spaceships, and teleportation, the world was not so bizarre; it was dangerous.
 
-With the abrupt cessation of the technological symphony that had been the modern world, the landscape transformed. Once-proud skyscrapers, monuments to human achievement, now stood as silent sentinels against the backdrop of green, wooded hills. ***
+With the abrupt cessation of the technological symphony that had been the modern world, the landscape transformed. Once-proud skyscrapers, monuments to human achievement, now stood as silent skeletons of progress.
 
-“First time on a lightning train?” asked an attendant in a dark blue uniform and jacket. The uniform and jacket were without adornment — or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding. The symbol was a_____.
+“First time on a lightning train?” an attendant in a dark blue uniform and jacket asked of an uneasy passenger. The uniform and jacket were without adornment — or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding. The symbol was a_____.
 
 An unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems initially designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades. Depending on the size and variety, these shields could deflect up to full-blown tank shells, metal or not. The edges, or more technically destructive magnetic fields, could easily tear through sheet metal. However, when brought to bear in hand-to-hand combat, each blade counteracted the other.
 
@@ -27,7 +27,7 @@ The stranger leaned in, unperturbed by Alan's blank stare. "Tournament contender
 
 Disappointed with Alan's response, the merchant dropped the conversation, and they both continued their walk silent amid the hubbub of conversation on the rocky mountain path that led toward Novar.
 
-As Alan walked, the state of the world was often on his mind. The days of unified nations were long gone, replaced by a patchwork of city-states and powerful corporations that governed their territories. The strong ruled without mercy, and the weak struggled to survive under the shadow of war, execution, or starvation. Trust was rare and power was the ultimate currency.
+As Alan walked, the state of the world was often on his mind. The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy, and the weak struggled without hope to survive under the shadow of war, execution, starvation, or assasination. Trust was rare and power was the ultimate currency.
 
 Far before the merchant had spoken, Alan had taken stock of every weapon on the hillside, instinctively assessing all potential threats or weaknesses, from the merchant’s short sword to the concealed knife on a relatively elderly man fifty yards distant. It was a habit ingrained in him from a lifetime of guarding the defenseless and stepping in when the odds seemed insurmountable.
 

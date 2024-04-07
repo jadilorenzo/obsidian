@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "623459007b10c2e3",
+            "id": "948a78be24b7a26d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-04-04.md",
+                "file": "Story/EMP Introduction Scene.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "948a78be24b7a26d",
+            "id": "7cda8101ce0c0743",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/EMP Introduction Scene.md",
+                "file": "Story/Story.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/EMP Introduction Scene.md",
+                "file": "Story/Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/EMP Introduction Scene.md",
+                "file": "Story/Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/EMP Introduction Scene.md"
+                "file": "Story/Story.md"
               }
             }
           },
@@ -181,8 +181,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "cca1359c5d326f45",
+  "active": "7cda8101ce0c0743",
   "lastOpenFiles": [
+    "Story/EMP Introduction Scene.md",
     "Story/Story.md",
     "Daily Note/2024-04-05.md",
     "Daily Note/2024-04-04.md",
@@ -202,7 +203,6 @@
     "Personal/2024-02-26 Screencast Review.md",
     "Music.md",
     "Untitled.md",
-    "Story/EMP Introduction Scene.md",
     "Daily Note/2024-02-29.md",
     "Daily Note/2024-02-28.md",
     "Daily Note/2024-02-27.md",
