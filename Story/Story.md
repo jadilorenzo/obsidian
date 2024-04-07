@@ -17,21 +17,23 @@ As the invisible wave of the EMP raced across the globe, skylines instantly went
 
 ---
 
-A century later, the world had changed. Contrary to visions of aliens, spaceships, and teleportation, the world was not so bizarre; it was dangerous.
+A century later, the world had changed. Contrary to visions of aliens, spaceships, and teleportation, the world was not so bizarre; it was dangerous. 
 
 With the abrupt cessation of the technological symphony that had been the modern world, the landscape transformed. Once-proud skyscrapers, monuments to human achievement, now stood as silent skeletons of progress.
 
+The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy, and the weak struggled without hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare and power was the ultimate currency.
+
 “First time on a lightning train?” an attendant in a dark blue uniform and jacket asked an uneasy passenger. The uniform and jacket were without adornment — or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding. The symbol was a [blank], the insignia of Novar's governor, Marcus Kane.
 
-An unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems initially designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades. Depending on the size and variety, these shields could deflect up to full-blown tank shells, metal or otherwise. The edges, or more technically destructive magnetic fields, could easily tear through sheet metal. However, when brought to bear in hand-to-hand combat, each blade counteracted the other.
+An unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades. Depending on the size and variety, these shields could deflect up to full-blown tank shells, metal or otherwise. The edges, or more technically, destructive magnetic fields, could tear through sheet metal. However, when brought to bear in hand-to-hand combat, each blade counteracted the other.
 
-The man whom the attendant had addressed was a boy roughly 16 years old. Strapped to his waist was a bare-bladed curved saber, an ornament worn by every passenger and attendant in some form or other. There were the standard straight short swords worn by the attendants. Then there were the plethora of other shapes and sizes: small axes, large axes, double swords, knives, and even the occasional hammer.
+The man whom the attendant had addressed was a boy, 16 years old. Strapped to his waist was a bare-bladed curved saber, an ornament worn by every passenger and attendant in some form or other. There were the standard straight short swords worn by the attendants. Then there were the plethora of other shapes and sizes: small axes, large axes, double swords, knives, and even the occasional hammer.
 
-The boy coyly answered the attendant with a "Uh, yeah." and adjusted himself into his seat.
+The boy answered the attendant with a "Uh, yeah." and adjusted himself into his seat.
 
 A few rows behind him,
 
-As Alan walked, the state of the world was often on his mind. The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy, and the weak struggled without hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare and power was the ultimate currency.
+As Alan walked, the state of the world was often on his mind.  
 
 Far before the merchant had spoken, Alan had taken stock of every weapon on the hillside, instinctively assessing all potential threats or weaknesses, from the merchant’s short sword to the concealed knife on a relatively elderly man fifty yards distant. It was a habit ingrained in him from a lifetime of guarding the defenseless and stepping in when the odds seemed insurmountable.
 
