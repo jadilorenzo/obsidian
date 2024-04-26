@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "31f975ecbd9edfa3",
+        "id": "84532cfd4a33af70",
         "type": "tabs",
         "children": [
           {
-            "id": "7cda8101ce0c0743",
+            "id": "9d2094544841c17a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Story.md",
+                "file": "Daily Note/2024-04-13.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Story.md",
+                "file": "Daily Note/2024-04-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Story.md",
+                "file": "Daily Note/2024-04-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Story.md"
+                "file": "Daily Note/2024-04-13.md"
               }
             }
           },
@@ -168,10 +167,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "7cda8101ce0c0743",
+  "active": "9d2094544841c17a",
   "lastOpenFiles": [
-    "Story/EMP Introduction Scene.md",
+    "Daily Note/2024-04-13.md",
     "Story/Story.md",
+    "Story/EMP Introduction Scene.md",
     "Daily Note/2024-04-05.md",
     "Daily Note/2024-04-04.md",
     "Daily Note/2024-03-20.md",
@@ -197,7 +197,6 @@
     "Daily Note/2024-02-24.md",
     "Writing/A Great Day on The Mountain.md",
     "Writing",
-    "Daily Note/2024-02-23.md",
     "Math",
     "Personal",
     "Untitled.canvas",
