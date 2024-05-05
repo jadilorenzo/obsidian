@@ -31,7 +31,11 @@ The man whom the attendant had addressed was a boy, 16 years old. Strapped to hi
 
 The boy answered the attendant with a "Uh, yeah." and adjusted himself into his seat.
 
-A few rows behind him,
+A few rows behind him, 
+
+
+
+
 
 As Alan walked, the state of the world was often on his mind.  
 
