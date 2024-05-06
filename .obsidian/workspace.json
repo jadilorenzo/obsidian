@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84532cfd4a33af70",
+        "id": "1fd5f90cb0deed16",
         "type": "tabs",
         "children": [
           {
-            "id": "9d2094544841c17a",
+            "id": "b9fa09717c33248d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,9 +147,17 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "fc1d41198e7beb13",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -169,10 +177,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "9d2094544841c17a",
+  "active": "b9fa09717c33248d",
   "lastOpenFiles": [
-    "4.28.2024 McKay Home Fellowship - Study Outline.md",
+    "Daily Note/2024-05-05.md",
     "Story/Story.md",
+    "4.28.2024 McKay Home Fellowship - Study Outline.md",
     "Daily Note/2024-04-13.md",
     "Story/EMP Introduction Scene.md",
     "Daily Note/2024-04-05.md",
@@ -197,7 +206,6 @@
     "Daily Note/2024-02-28.md",
     "Daily Note/2024-02-27.md",
     "Daily Note/2024-02-26.md",
-    "Daily Note/2024-02-24.md",
     "Writing",
     "Math",
     "Personal",

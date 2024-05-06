@@ -28,13 +28,27 @@ And during Novar’s annual festival, things reached a feverish mayhem. Foreigne
 
 But when the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. The branding was intense: the words “The Fate” were inscribed over every arch and painted in diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
 
-These weren’t slave fights or battles to the death; this event was decent — and strictly non-partisan. Though the policy of Marcus Kane forbade any political violence (murder most definitely included), none were secure against you from a political kamikaze assassin.
+These weren’t slave fights or battles to the death; this event was decent — and strictly non-partisan. Though the policy of Marcus Kane forbade any political violence (murder most definitely included), none were secure against a political kamikaze assassin.
 
-Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning trains coming from their different locations never paused. They never slowed — bar bombing.
+Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning trains from their different origins never paused. They never stopped — bar bombing.
 
-In one lightning train in the 11th car, a 
+In one lightning train in the 11th car, an unnoticeable man around twenty years old sat in the far corner. Vambraces and greaves of a dark, brushed metal were on his forearms and shins, while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. His name was Alan. Not that anyone else knew it yet. 
+
+An attendant in a dark blue uniform and jacket sat at the front of the train car. The uniform and jacket were without adornment — or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding, the device of Novar's governor, Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
+
+Without warning, Alan flung off his safety harness and stood up. 
+
+"Stop the train," Alan commanded.
+
+"Please remain seated." The attendant replied in an unaffected manner, resting his hand on the hilt of his sword.
+
+Alan strode toward the attendant, his eyes fixed on the attendant. "Let me make this easier. Press the emergency brake button in the compartment just above your left hand."
+
+But instead of pressing 
 
 
+
+###### other
 
 One lightning train sped on toward Novar, its few passengers a particularly no-nonsense, practical lot. There were merchants and salesmen looking to sell their products to the festival attendees. There were a variety of sketchy characters, including a rather serious man wearing a dirty brown cloak and a boy of about 15 years old who had heard (although a little later than his compatriots) that Novar was the place to be. A mother and her 10-year-old son completed the eclectic mix.
 
