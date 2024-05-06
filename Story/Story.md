@@ -1,31 +1,50 @@
-## Chapter 1: Nothing is Fair in War
+## 0: Cras Mors Venit
 
-*"You see, but you do not observe. The distinction is clear.”*
-— Sherlock Holmes
-
-Positioned strategically near the heart of the Atlantic Ocean, THE NEMESIS — an anarchist vessel — silently completed its last system check of the ship’s most dangerous weapon, an Electromagnetic Pulse (EMP) weapon with an effective range greater than any hydrogen bomb. While traditional EMP weapons are about the size of a suitcase, this monstrosity was the size of a twin mattress and covered from top to bottom in wiring. 
+Positioned strategically near the heart of the Atlantic Ocean, THE NEMESIS — an anarchist vessel — silently completed its last system check of the ship’s most dangerous weapon, an Electromagnetic Pulse (EMP) weapon with a range of 100+ kilometers. While traditional EMP weapons are about the size of a suitcase, this monstrosity was the size of a twin mattress and covered from top to bottom in wiring. 
 
 Etched on the ship's side, just below its name, was the vessel's motto: "Cras Mors Venit," which translates to "Tomorrow we die.”
 
-As the appointed time for detonation arrived amid the final preparations, near silent anticipation filled the air as the crew prepared to witness the “definitive,” as they called it, eradication of technology and government — a menace that had plagued the world for centuries. At precisely 9:59:59 AM, the EMP weapon unleashed its devastating power, sending forth an electromagnetic pulse that raced through the vast expanse of space at the speed of light. In 0.133 seconds, this overwhelming wave of electromagnetic energy engulfed the entire surface of the globe, obliterating all electronic components in its path.
-
-Moments later, without warning, THE NEMESIS erupted into a colossal fireball, vanishing in a blaze of destruction from the seascape.
-
-Many said they were the lucky ones.
+As the appointed time for detonation arrived amid the final preparations, near silent anticipation filled the air as the crew prepared to witness the “definitive” eradication of a menace that had plagued the world for centuries — technology. At precisely 9:59:59 AM, the EMP weapon unleashed its devastating power, sending forth an electromagnetic pulse that raced through the vast expanse of space at the speed of light. In 0.133 seconds, this overwhelming wave of electromagnetic energy engulfed the entire surface of the globe, obliterating all electronic components in its path.
 
 As the invisible wave of the EMP raced across the globe, skylines instantly went dark, and the world's technological infrastructure crumbled instantly. The dazzling screens that once commanded attention in every household turned into gaping black mirrors. Cars stalled on highways, their electronic brains fried. The crackle of electricity that had become the backdrop of modern life fell into an eerie silence — a silence soon filled with screams. It was anarchy.
 
----
+## 1: Nothing is Fair in War
 
-A century later, the world had changed. Contrary to visions of aliens, spaceships, and teleportation, the world was not so bizarre; it was dangerous. 
+"You see, but you do not observe. The distinction is clear.”
+— Sherlock Holmes
+
 
 With the abrupt cessation of the technological symphony that had been the modern world, the landscape transformed. Once-proud skyscrapers, monuments to human achievement, now stood as silent skeletons of progress.
 
+A century later, the world had changed. Contrary to visions of aliens, spaceships, and teleportation, the world was not so bizarre; it was dangerous. 
+
 The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy, and the weak struggled without hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare and power was the ultimate currency.
 
-“First time on a lightning train?” an attendant in a dark blue uniform and jacket asked an uneasy passenger. The uniform and jacket were without adornment — or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding. The symbol was a [blank], the insignia of Novar's governor, Marcus Kane.
+However, an unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades. Depending on the size and variety, these shields could deflect up to full-blown tank shells, metal or otherwise. The edges, or more technically, destructive magnetic fields, could tear through sheet metal. However, when brought to bear in hand-to-hand combat, each blade counteracted the other. Fights like these were a matter of life or death.
 
-An unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades. Depending on the size and variety, these shields could deflect up to full-blown tank shells, metal or otherwise. The edges, or more technically, destructive magnetic fields, could tear through sheet metal. However, when brought to bear in hand-to-hand combat, each blade counteracted the other.
+And there were fights everywhere. Even in Novar, the capital of the most prosperous and peaceful region west of the war zone, the clustered streets had to be inundated with military-grade surveillance drones to keep the diverse visitors from murdering each other for their possessions or, worse, because of their precious political affiliations.
+
+And during Novar’s annual festival, things reached a feverish mayhem. Foreigners and miscreants invaded the city.
+
+But when the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. The branding was intense: the words “The Fate” were inscribed over every arch and painted in diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
+
+These weren’t slave fights or battles to the death; this event was decent — and strictly non-partisan. Though the policy of Marcus Kane forbade any political violence (murder most definitely included), none were secure against you from a political kamikaze assassin.
+
+Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning trains coming from their different locations never paused. They never slowed — bar bombing.
+
+In one lightning train in the 11th car, a 
+
+
+
+One lightning train sped on toward Novar, its few passengers a particularly no-nonsense, practical lot. There were merchants and salesmen looking to sell their products to the festival attendees. There were a variety of sketchy characters, including a rather serious man wearing a dirty brown cloak and a boy of about 15 years old who had heard (although a little later than his compatriots) that Novar was the place to be. A mother and her 10-year-old son completed the eclectic mix.
+
+An attendant in a dark blue uniform and jacket traversed the train’s passage, diligently ensuring  everyone was seated. The uniform and jacket were without adornment — or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding. The symbol was a [blank], the insignia of Novar's governor, Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
+
+
+
+
+
+
 
 The man whom the attendant had addressed was a boy, 16 years old. Strapped to his waist was a bare-bladed curved saber, an ornament worn by every passenger and attendant in some form or other. There were the standard straight short swords worn by the attendants. Then there were the plethora of other shapes and sizes: small axes, large axes, double swords, knives, and even the occasional hammer.
 
@@ -37,7 +56,13 @@ A few rows behind him,
 
 
 
-As Alan walked, the state of the world was often on his mind.  
+
+
+
+
+
+
+As Alan walked, the state of the world was often on his mind.
 
 Far before the merchant had spoken, Alan had taken stock of every weapon on the hillside, instinctively assessing all potential threats or weaknesses, from the merchant’s short sword to the concealed knife on a relatively elderly man fifty yards distant. It was a habit ingrained in him from a lifetime of guarding the defenseless and stepping in when the odds seemed insurmountable.
 
