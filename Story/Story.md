@@ -44,7 +44,11 @@ Without warning, Alan flung off his safety harness and stood up.
 
 Alan strode toward the attendant, his eyes fixed on the attendant. "Let me make this easier. Press the emergency brake button in the compartment just above your left hand."
 
-But instead of pressing 
+The attendant drew his sword saying "Stay back, or I'll have no choice."
+
+Alan drew no weapon but continued his confident stride.
+
+As Alan drew near, the attendant's uniform transformed into geometrical armor. It was an artistic hologram of course, and any magnetic scan would have revealed the true surface of the attendants chest. Individual multi-mode scanning units were ubiquitous. There were thermal cameras, 
 
 
 
