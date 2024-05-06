@@ -48,7 +48,9 @@ The attendant drew his sword saying "Stay back, or I'll have no choice."
 
 Alan drew no weapon but continued his confident stride.
 
-As Alan drew near, the attendant's uniform transformed into geometrical armor. It was an artistic hologram of course, and any magnetic scan would have revealed the true surface of the attendants chest. Individual multi-mode scanning units were ubiquitous. There were thermal cameras, 
+As Alan drew near, the attendant's uniform transformed into geometrical armor. It was an artistic hologram of course, and any magnetic scan would have revealed the true surface of the attendant's chest. Individual multi-mode scanning units (thermal vision, magnetic vision, sonar vision) were ubiquitous.
+
+
 
 
 
