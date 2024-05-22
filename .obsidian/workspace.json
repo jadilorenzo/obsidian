@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-05-21.md",
+                "file": "Daily Note/2024-05-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"  \"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-05-21.md",
+                "file": "Daily Note/2024-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-05-21.md",
+                "file": "Daily Note/2024-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-05-21.md"
+                "file": "Daily Note/2024-05-22.md"
               }
             }
           },
@@ -179,8 +178,9 @@
   },
   "active": "b9fa09717c33248d",
   "lastOpenFiles": [
-    "Story/Story.md",
     "Daily Note/2024-05-21.md",
+    "Daily Note/2024-05-22.md",
+    "Story/Story.md",
     "Daily Note/2024-05-05.md",
     "4.28.2024 McKay Home Fellowship - Study Outline.md",
     "Daily Note/2024-04-13.md",
@@ -205,7 +205,6 @@
     "Untitled.md",
     "Daily Note/2024-02-29.md",
     "Daily Note/2024-02-28.md",
-    "Daily Note/2024-02-27.md",
     "Writing",
     "Math",
     "Personal",
