@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd26aed7df287840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2024-05-28.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-05-27.md",
+                "file": "Daily Note/2024-05-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-05-27.md",
+                "file": "Daily Note/2024-05-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-05-27.md"
+                "file": "Daily Note/2024-05-28.md"
               }
             }
           },
@@ -176,8 +190,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "8ac2c2f3c4e49333",
+  "active": "bd26aed7df287840",
   "lastOpenFiles": [
+    "Daily Note/2024-05-28.md",
     "Daily Note/2024-05-27.md",
     "Daily Note/2024-05-25.md",
     "Untitled 2.md",
@@ -204,7 +219,6 @@
     "Personal/2024-03-16 Screencast Review.md",
     "Daily Note/2024-03-16.md",
     "Personal/2024-02-26 Screencast Review.md",
-    "Music.md",
     "Writing",
     "Math",
     "Personal",
