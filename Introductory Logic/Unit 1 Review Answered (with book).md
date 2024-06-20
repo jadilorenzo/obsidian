@@ -43,16 +43,18 @@ Lesson 1: The Purposes and Types of Definitions,
 	﻿﻿﻿A term is represented by a word, though a word may have more than one meaning.
 	﻿﻿﻿One word can carry the meaning of many terms; the same term can be expressed with different words.
 ﻿﻿﻿3. What does it mean to define a term?  What are six purposes for defining terms?
-﻿﻿﻿
-﻿﻿﻿3. What are the five types of definitions?
-﻿﻿﻿4. Which types would you likely find in a dictionary?
-﻿﻿﻿5. What is an ambiguous word?
-﻿﻿﻿6. What is a vague word?
-﻿﻿﻿7. What is a lexical definition?
-﻿﻿﻿8. What is a precising definition?
-﻿﻿﻿9. What is a stipulative definition?
-﻿﻿﻿10. What is a theoretical definition?
-﻿﻿﻿11. What is a persuasive definition?
+	﻿Definitions show relationships.
+	﻿Definitions remove ambiguous﻿﻿.
+	﻿Definitions reduce vagueness.
+﻿﻿﻿1. What are the five types of definitions?
+﻿﻿﻿2. Which types would you likely find in a dictionary?
+﻿﻿﻿3. What is an ambiguous word?
+﻿﻿﻿4. What is a vague word?
+﻿﻿﻿5. What is a lexical definition?
+﻿﻿﻿6. What is a precising definition?
+﻿﻿﻿7. What is a stipulative definition?
+﻿﻿﻿8. What is a theoretical definition?
+﻿﻿﻿9. What is a persuasive definition?
 
 Lesson 2: Genus and Species
 ﻿﻿﻿1. What is a genus?
