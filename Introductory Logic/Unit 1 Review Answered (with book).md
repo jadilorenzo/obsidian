@@ -46,15 +46,26 @@ Lesson 1: The Purposes and Types of Definitions,
 	﻿Definitions show relationships.
 	﻿Definitions remove ambiguous﻿﻿.
 	﻿Definitions reduce vagueness.
-﻿﻿﻿1. What are the five types of definitions?
-﻿﻿﻿2. Which types would you likely find in a dictionary?
-﻿﻿﻿3. What is an ambiguous word?
-﻿﻿﻿4. What is a vague word?
-﻿﻿﻿5. What is a lexical definition?
-﻿﻿﻿6. What is a precising definition?
-﻿﻿﻿7. What is a stipulative definition?
-﻿﻿﻿8. What is a theoretical definition?
-﻿﻿﻿9. What is a persuasive definition?
+	﻿Definitions increase vocabulary.
+	﻿Definitions can explain concepts theoretically.
+	﻿Definitions can influence attitudes.
+﻿﻿﻿4. What are the five types of definitions?
+	﻿﻿﻿lexical 
+	﻿﻿﻿precising 
+	﻿﻿﻿stipulative 
+	﻿﻿﻿theoretical 
+	﻿﻿﻿persuasive
+﻿﻿﻿5. Which types would you likely find in a dictionary?
+	﻿﻿﻿lexical 
+	﻿﻿﻿theoretical
+﻿﻿﻿6. What is an ambiguous word?
+	﻿﻿﻿An ambiguous word is one which has multiple meaningsar
+﻿﻿﻿1. What is a vague word?
+﻿﻿﻿2. What is a lexical definition?
+﻿﻿﻿3. What is a precising definition?
+﻿﻿﻿4. What is a stipulative definition?
+﻿﻿﻿5. What is a theoretical definition?
+﻿﻿﻿6. What is a persuasive definition?
 
 Lesson 2: Genus and Species
 ﻿﻿﻿1. What is a genus?
