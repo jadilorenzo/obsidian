@@ -38,17 +38,21 @@ Introduction
 
 Lesson 1: The Purposes and Types of Definitions,
 1. ﻿﻿﻿What is a term?
+	A concept expressed precisely in words.
 ﻿﻿﻿2. What is the connection between a term and a word?
+	﻿﻿﻿A term is represented by a word, though a word may have more than one meaning.
+	﻿﻿﻿One word can carry the meaning of many terms; the same term can be expressed with different words.
 ﻿﻿﻿3. What does it mean to define a term?  What are six purposes for defining terms?
-﻿﻿﻿4. What are the five types of definitions?
-﻿﻿﻿5. Which types would you likely find in a dictionary?
-﻿﻿﻿6. What is an ambiguous word?
-﻿﻿﻿7. What is a vague word?
-﻿﻿﻿8. What is a lexical definition?
-﻿﻿﻿9. What is a precising definition?
-﻿﻿﻿10. What is a stipulative definition?
-﻿﻿﻿11. What is a theoretical definition?
-﻿﻿﻿12. What is a persuasive definition?
+﻿﻿﻿
+﻿﻿﻿3. What are the five types of definitions?
+﻿﻿﻿4. Which types would you likely find in a dictionary?
+﻿﻿﻿5. What is an ambiguous word?
+﻿﻿﻿6. What is a vague word?
+﻿﻿﻿7. What is a lexical definition?
+﻿﻿﻿8. What is a precising definition?
+﻿﻿﻿9. What is a stipulative definition?
+﻿﻿﻿10. What is a theoretical definition?
+﻿﻿﻿11. What is a persuasive definition?
 
 Lesson 2: Genus and Species
 ﻿﻿﻿1. What is a genus?
