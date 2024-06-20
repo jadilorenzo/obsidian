@@ -3,19 +3,22 @@ Answers can be found in the lesson under which the questions are listed.
 
 Introduction
 ﻿﻿﻿1. What is reasoning?
-﻿﻿﻿2. Why has God given men the ability to reason?
-﻿﻿﻿3. What is formal logic? In what way is logic an "attribute" of God?
-﻿﻿﻿4. What is the Law of Excluded Middle?
-﻿﻿﻿5. What is the Law of Identity?
-﻿﻿﻿6. What is the Law of Non-contradiction?
-﻿﻿﻿7. How does formal logic differ from informal logic?
-﻿﻿﻿8. What are some of the topics dealt with under informal logic?
-﻿﻿﻿9. What are the two branches of formal logic?
-﻿﻿﻿10. What are some differences between induction and deduction?
-﻿﻿﻿11. What are two branches of deduction?
-﻿﻿﻿12. Who first developed categorical logic, and when did he live?
-﻿﻿﻿13. What is one difference between categorical logic and propositional logic?
-﻿﻿﻿14. What are the branches of logic dealt with in this book?
+	Reasoning is drawing proper conclusions from other information.
+﻿﻿﻿1. Why has God given men the ability to reason?
+	﻿﻿﻿God has given men reason to interact with each other and, in the end, with God.
+﻿﻿﻿2. What is formal logic? In what way is logic an "attribute" of God?
+	﻿﻿﻿Formal logic is the science and art of reasoning well.
+﻿﻿﻿3. What is the Law of Excluded Middle?
+﻿﻿﻿4. What is the Law of Identity?
+﻿﻿﻿5. What is the Law of Non-contradiction?
+﻿﻿﻿6. How does formal logic differ from informal logic?
+﻿﻿﻿7. What are some of the topics dealt with under informal logic?
+﻿﻿﻿8. What are the two branches of formal logic?
+﻿﻿﻿9. What are some differences between induction and deduction?
+﻿﻿﻿10. What are two branches of deduction?
+﻿﻿﻿11. Who first developed categorical logic, and when did he live?
+﻿﻿﻿12. What is one difference between categorical logic and propositional logic?
+﻿﻿﻿13. What are the branches of logic dealt with in this book?
 
 Lesson 1: The Purposes and Types of Definitions,
 1. ﻿﻿﻿What is a term?
