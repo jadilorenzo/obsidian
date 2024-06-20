@@ -9,7 +9,9 @@ Introduction
 ﻿﻿﻿2. What is formal logic? In what way is logic an "attribute" of God?
 	﻿﻿﻿Formal logic is the science and art of reasoning well.
 ﻿﻿﻿3. What is the Law of Excluded Middle?
+	﻿﻿﻿A statement is either true or false.
 ﻿﻿﻿4. What is the Law of Identity?
+	﻿﻿﻿If a statement is true
 ﻿﻿﻿5. What is the Law of Non-contradiction?
 ﻿﻿﻿6. How does formal logic differ from informal logic?
 ﻿﻿﻿7. What are some of the topics dealt with under informal logic?
