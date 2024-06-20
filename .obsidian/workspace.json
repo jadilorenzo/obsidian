@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d343f6531b936030",
+        "id": "8e5852f580e55fcc",
         "type": "tabs",
         "children": [
           {
-            "id": "b03ba87bb06ee6c3",
+            "id": "01e74c49a0898c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1 Review Answered (with book).md",
+                "file": "Introductory Logic/Unit 1 Review Answered (with book).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1 Review Answered (with book).md",
+                "file": "Introductory Logic/Unit 1 Review Answered (with book).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1 Review Answered (with book).md",
+                "file": "Introductory Logic/Unit 1 Review Answered (with book).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1 Review Answered (with book).md"
+                "file": "Introductory Logic/Unit 1 Review Answered (with book).md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "cca1359c5d326f45",
   "lastOpenFiles": [
-    "Unit 1 Review Answered (with book).md",
     "Introductory Logic/Unit 1 Review.md",
+    "copilot-conversations/Chat-2024_06_20-14_33_14.md",
+    "Introductory Logic/Unit 1 Review Answered (with book).md",
+    "copilot-conversations",
     "Untitled 1.md",
     "Introductory Logic",
     "Music.md",
@@ -204,7 +206,6 @@
     "Grammar/ACTIVE & PASSIVE VOICE EX 2.md",
     "Grammar",
     "Personal/Break Options.md",
-    "Daily Note/2024-03-19.md",
     "Writing",
     "Math",
     "Personal",
