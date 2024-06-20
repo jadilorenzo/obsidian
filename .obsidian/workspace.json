@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce2a4dcd797bad14",
+        "id": "d343f6531b936030",
         "type": "tabs",
         "children": [
           {
-            "id": "e169cf9e409edf99",
+            "id": "b03ba87bb06ee6c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-06-15.md",
+                "file": "Unit 1 Review Answered (with book).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-06-15.md",
+                "file": "Unit 1 Review Answered (with book).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-06-15.md",
+                "file": "Unit 1 Review Answered (with book).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-06-15.md"
+                "file": "Unit 1 Review Answered (with book).md"
               }
             }
           },
@@ -176,8 +175,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "e169cf9e409edf99",
+  "active": "b03ba87bb06ee6c3",
   "lastOpenFiles": [
+    "Unit 1 Review Answered (with book).md",
+    "Introductory Logic/Unit 1 Review.md",
+    "Untitled 1.md",
+    "Introductory Logic",
+    "Music.md",
+    "Home.md",
     "Daily Note/2024-06-15.md",
     "Daily Note/2024-06-03.md",
     "Daily Note/2024-05-28.md",
@@ -188,23 +193,18 @@
     "Daily Note/2024-05-21.md",
     "Story/Story.md",
     "Daily Note/2024-05-05.md",
-    "4.28.2024 McKay Home Fellowship - Study Outline.md",
+    "Other/4.28.2024 McKay Home Fellowship - Study Outline.md",
     "Daily Note/2024-04-13.md",
     "Story/EMP Introduction Scene.md",
     "Daily Note/2024-04-05.md",
     "Daily Note/2024-04-04.md",
     "Daily Note/2024-03-20.md",
-    "ACTIVE & PASSIVE VOICE - TEST.md",
+    "Grammar/ACTIVE & PASSIVE VOICE - TEST.md",
     "Grammar/ACTIVE & PASSIVE VOICE - EXERCISE 3.md",
     "Grammar/ACTIVE & PASSIVE VOICE EX 2.md",
     "Grammar",
-    "Break Options.md",
+    "Personal/Break Options.md",
     "Daily Note/2024-03-19.md",
-    "Untitled 1.md",
-    "Daily Note/2024-03-18.md",
-    "Personal/2024-03-18 Screencast Review.md",
-    "Daily Note/2024-03-14.md",
-    "Personal/2024-03-16 Screencast Review.md",
     "Writing",
     "Math",
     "Personal",
