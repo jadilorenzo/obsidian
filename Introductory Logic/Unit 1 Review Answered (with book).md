@@ -59,7 +59,7 @@ Lesson 1: The Purposes and Types of Definitions,
 	﻿﻿﻿lexical 
 	﻿﻿﻿theoretical
 ﻿﻿﻿6. What is an ambiguous word?
-	﻿﻿﻿An ambiguous word is one which has multiple meaningsar
+	﻿﻿﻿An ambiguous word is one which has multiple meanings
 ﻿﻿﻿1. What is a vague word?
 ﻿﻿﻿2. What is a lexical definition?
 ﻿﻿﻿3. What is a precising definition?
