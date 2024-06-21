@@ -87,19 +87,43 @@ Lesson 2: Genus and Species
 
 Lesson 3: Extension and Intension
 1. ﻿﻿﻿What is the extension of a term?
-	
+	The extension of a term is the sum of all the individual objects to which the term applies.
 2. What is the intension of a term?
+	The intension of a term is the sum of it's common attributes.
 3. How are extension and intension related in any given genus and species chart?
+	The higher the term the greater the extension and the smaller the intension.
 
 Lesson 4: Methods of Defining
 1. ﻿﻿﻿What are three methods of defining terms?
-2. Do other methods exist?
-3. What are some limitations of defining by synonym?
-4. What are some rules for defining by example?
-5. How is a term defined by genus and difference?
+	 synonym 
+	 genus and difference
+	 example
+1. Do other methods exist?
+	Yes
+2. What are some limitations of defining by synonym?
+	Not every word has a synonym
+3. What are some rules for defining by example?
+	Must include several varied examples
+4. How is a term defined by genus and difference?
+	Stating the genus of a term and then describing what differentiates that term from every other term in it's genus.
 
 Lesson 5: Rules for Defining by Genus and Difference
 1. What are the six rules for defining by genus and difference?
-2. Can you restate these rules in your own words?
-3. What is the difference between an essential and an accidental attribute?
-4. What are three ways that a definition can be unclear?
+	A definition should state the essential attributes of the term.
+	A definition should not be circular.
+	A definition should not be too broad nor too narrow.
+	A definition should not be unclear or figurative.
+	A definition should be stated positively, if possible.
+	A definition should be of the same part of speech as the term.
+1. Can you restate these rules in your own words?
+	Should include all essential attributes
+	Shouldn't contain the word you're trying to define
+	Should have the same extension and intension as the term.
+	Should be literal
+	Should state what thing thing is — not what it isn't
+1. What is the difference between an essential and an accidental attribute?
+	An essential attribute is the cause of accidental attributes
+2. What are three ways that a definition can be unclear?
+	If it uses ambiguous words that create ambiguous definitions
+	If it gives you only tangential/accidental attributes
+	If it simply quotes a common cliché
