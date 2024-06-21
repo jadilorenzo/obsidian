@@ -59,22 +59,35 @@ Lesson 1: The Purposes and Types of Definitions,
 	﻿﻿﻿lexical 
 	﻿﻿﻿theoretical
 ﻿﻿﻿6. What is an ambiguous word?
-	﻿﻿﻿An ambiguous word is one which has multiple meanings
+	﻿﻿﻿An ambiguous word is one which has multiple meanings.
 ﻿﻿﻿1. What is a vague word?
+	﻿﻿﻿A vague word is one that has has unclear extent (precising definition).
 ﻿﻿﻿2. What is a lexical definition?
+	﻿﻿﻿A definition that shows relationships or reduces ambiguity by providing a single, established meaning of a term.
 ﻿﻿﻿3. What is a precising definition?
-﻿﻿﻿4. What is a stipulative definition?
-﻿﻿﻿5. What is a theoretical definition?
-﻿﻿﻿6. What is a persuasive definition?
+	A precising definition seeks to make what was unclear or fuzzy more precise according to the needs at hand.
+﻿﻿﻿1. What is a stipulative definition?
+	﻿﻿﻿A stipulative definition is a stipulated definition, meaning the definer says this word means this thing in this instance.
+﻿﻿﻿2. What is a theoretical definition?
+	﻿﻿﻿A theoretical definition is a definition that explains a particularly theory behind a term, such as "H2O" for "water."
+﻿﻿﻿3. What is a persuasive definition?
+	﻿﻿﻿A persuasive definition aims to change a listener's view of a term by changing the definition.
 
 Lesson 2: Genus and Species
 ﻿﻿﻿1. What is a genus?
+	﻿﻿﻿A genus is the category or broader idea behind a species.
 ﻿﻿﻿2. What is a species? 
+	﻿﻿﻿A species is a more specific instance of a genus.
 ﻿﻿﻿3. Can a term be both the genus of one term and the species of another?
-﻿﻿﻿4. What are some of the common errors made in constructing genus and species charts?
+	﻿﻿﻿Of course
+﻿﻿﻿1. What are some of the common errors made in constructing genus and species charts?
+	﻿﻿﻿overlapping species
+	﻿﻿﻿ambiguous terms
+	﻿﻿﻿part/whole
 
 Lesson 3: Extension and Intension
 1. ﻿﻿﻿What is the extension of a term?
+	
 2. What is the intension of a term?
 3. How are extension and intension related in any given genus and species chart?
 
