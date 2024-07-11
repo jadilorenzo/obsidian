@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac7ef6a22086b57e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +186,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "01e74c49a0898c00",
+  "active": "ac7ef6a22086b57e",
   "lastOpenFiles": [
     "copilot-conversations/Chat-2024_06_20-14_33_14.md",
     "Introductory Logic/Unit 1 Review Answered (with book).md",
