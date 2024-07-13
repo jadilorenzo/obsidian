@@ -1,0 +1,1 @@
+In 1920, Edward de Vere emerged as a potential alternate author
