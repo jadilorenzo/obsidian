@@ -1,1 +1,1 @@
-In 1920, Edward de Vere emerged as a potential alternate author
+In 1920, Edward de Vere emerged as a potential alternate author, and a noble of the 
