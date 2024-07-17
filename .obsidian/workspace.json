@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7586a4ad000fdcd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shakespeare SB/07 17 2024 Class.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shakespeare SB/Original Sonnet.md",
+                "file": "Shakespeare SB/07 17 2024 Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shakespeare SB/Original Sonnet.md",
+                "file": "Shakespeare SB/07 17 2024 Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shakespeare SB/Original Sonnet.md"
+                "file": "Shakespeare SB/07 17 2024 Class.md"
               }
             }
           },
@@ -175,10 +189,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d629054326b89a1f",
+  "active": "7586a4ad000fdcd5",
   "lastOpenFiles": [
-    "Shakespeare SB",
     "Shakespeare SB/Original Sonnet.md",
+    "Shakespeare SB/07 17 2024 Class.md",
+    "Shakespeare SB",
     "Shakespeare SB/Shakespeare Authorship Controversy.md",
     "Introductory Logic/Unit 1 Review Answered (with book).md",
     "copilot-conversations/Chat-2024_06_20-14_33_14.md",
@@ -216,7 +231,6 @@
     "Experiments/Mindmap.canvas",
     "Other",
     "Daily Note",
-    "Story",
-    "Experiments"
+    "Story"
   ]
 }
