@@ -24,22 +24,32 @@ Universal theme - a theme that connects all humankind across time and space. (lo
 
    5. Read your sonnet aloud to ensure it sounds like a sonnet!
 
-| A
+```
+| A - Introduction
 | B
 | A
 | B
 
-|
-|
-|
-|
+| C
+| D
+| C
+| D - Problem
 
-|
-|
-|
-|
+| E
+| F
+| E
+| F
 
-|
-|
+| G - Resolution
+| G
+```
 
 Ideas:
+Darkness
+silence
+sight
+deception
+hearing your own thoughts
+words are heard not seen
+anonymity
+isolate reason
