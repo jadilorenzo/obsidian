@@ -75,11 +75,16 @@ Electricity (lightning and in the brain)
 
 Had I thought I held my life in my hand,
 Would I have made life's song a chapel hymn?
-
+What substance is man if man, none can see?
+A glass vessel filled with coarse streaming sand
 - - - - - - - - - - - - -
 
+
 Am I shadow if in the dark I stand?
-What substance is man if man, none can see?
-What substance man, if man no one can see?
+What substance is man, if man none can see?
+Time, the invisible glass streaming sand
+Is louder than a screaming sea to me.
+
+Is the sole sound 'side the voice in me.
 
 In the dark
