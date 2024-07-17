@@ -53,3 +53,33 @@ hearing your own thoughts
 words are heard not seen
 anonymity
 isolate reason
+do I exist if not even I can see me
+
+I know I exist
+I know I think
+is the light of the body the eyes or the mind?
+“The lamp of the body is the eye. If therefore your eye is good, your whole body will be full of light. But if your eye is bad, your whole body will be full of darkness. If therefore the light that is in you is darkness, how great is that darkness!"
+or is it the mind's eye
+
+scene and land
+obstacle and land
+hymn?
+
+sand
+me, thee, tree, fee, flee, free, sea, key
+
+him, rim, 
+Would I have made life's song a chapel hymn
+
+Electricity (lightning and in the brain)
+
+Had I thought I held my life in my hand,
+Would I have made life's song a chapel hymn?
+
+- - - - - - - - - - - - -
+
+Am I shadow if in the dark I stand?
+What substance is man if man, none can see?
+What substance man, if man no one can see?
+
+In the dark
