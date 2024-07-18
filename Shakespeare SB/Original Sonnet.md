@@ -95,3 +95,5 @@ Mind illuminated by cognition
 Is the sole sound 'side the voice in me.
 
 In the dark
+
+the hollow crown
