@@ -77,13 +77,20 @@ Had I thought I held my life in my hand,
 Would I have made life's song a chapel hymn?
 What substance is man if man, none can see?
 A glass vessel filled with coarse streaming sand
+What substance is man, if man none can see?
+
+Time, the invisible glass streaming sand
+Is louder than a screaming sea to me.
 - - - - - - - - - - - - -
 
 
 Am I shadow if in the dark I stand?
-What substance is man, if man none can see?
-Time, the invisible glass streaming sand
-Is louder than a screaming sea to me.
+What substance am I, if man's form none see?
+Is it man that surely rules sweeping land?
+Shall mere man subjugate the stormy sea?
+
+Dark silence deafened by silent lightning
+Mind illuminated by cognition
 
 Is the sole sound 'side the voice in me.
 

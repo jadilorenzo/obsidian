@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shakespeare SB/07 17 2024 Class.md",
+                "file": "Shakespeare SB/Original Sonnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shakespeare SB/07 17 2024 Class.md",
+                "file": "Shakespeare SB/Original Sonnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shakespeare SB/07 17 2024 Class.md"
+                "file": "Shakespeare SB/Original Sonnet.md"
               }
             }
           },
@@ -189,10 +188,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "7586a4ad000fdcd5",
+  "active": "d629054326b89a1f",
   "lastOpenFiles": [
-    "Shakespeare SB/Original Sonnet.md",
     "Shakespeare SB/07 17 2024 Class.md",
+    "Shakespeare SB/Original Sonnet.md",
     "Shakespeare SB",
     "Shakespeare SB/Shakespeare Authorship Controversy.md",
     "Introductory Logic/Unit 1 Review Answered (with book).md",
