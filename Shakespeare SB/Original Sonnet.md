@@ -82,6 +82,11 @@ Is darkness worth obstacles unperceived?
 Time, the invisible glass streaming sand
 Is louder than a screaming sea to me.
 Neurons electricity firing
+Does brightness and banging stay cognition?
+Does brightness and banging free conception?
+Is silence empty if emptiness is silent?
+Is silence empty if silence is empty?
+Is silence void if silence void of sound is?
 - - - - - - - - - - - - -
 
 
@@ -93,17 +98,37 @@ Shall mere man subjugate the stormy sea?
 Dark silence deafened by silent lightning,
 The mind electrified in perception.
 Is dark danger worth such enlightening?
-Does brightness and banging stay cognition?
+Does light permit the same deep conception?
+
+But is darkness shame if shame it conceals?
+Is silence void if void of overture?
+What if light and loud sound too much reveals?
+So keen insight is dulled by exposure.
+
+I'll resume my muse whether or not I'm right,
+And let you stumble in your world of light.
 
 
+Leave me to my minds eye
+And I'll leave you to your 
+
+Leave me to my thoughts
+And I'll leave you to your rushing/business
+
+mind's eye
+contemplation
+meditation
+musings
+
+rushing
+hurried fixation
+buzzings
+
+I'll resume my muse whether or not I'm right,
+And let you stumble in your world of light.
 
 
-   overpower for brightness
+overpower for brightness
 In the dark
 
 the hollow crown
-
---- rogue hotspur
-weak wifey 
-
-quiz
