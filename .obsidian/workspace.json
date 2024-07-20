@@ -32,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cf9cac94d26f6d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sons of God.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shakespeare SB/Original Sonnet.md",
+                "file": "Sons of God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shakespeare SB/Original Sonnet.md",
+                "file": "Sons of God.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shakespeare SB/Original Sonnet.md"
+                "file": "Sons of God.md"
               }
             }
           },
@@ -189,10 +203,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d629054326b89a1f",
+  "active": "6cf9cac94d26f6d6",
   "lastOpenFiles": [
-    "Shakespeare SB/07 17 2024 Class.md",
+    "Sons of God.md",
     "Shakespeare SB/Original Sonnet.md",
+    "Shakespeare SB/07 17 2024 Class.md",
     "Shakespeare SB",
     "Shakespeare SB/Shakespeare Authorship Controversy.md",
     "Introductory Logic/Unit 1 Review Answered (with book).md",
@@ -219,7 +234,6 @@
     "Daily Note/2024-04-05.md",
     "Daily Note/2024-04-04.md",
     "Daily Note/2024-03-20.md",
-    "Grammar/ACTIVE & PASSIVE VOICE - TEST.md",
     "Grammar",
     "Writing",
     "Math",
