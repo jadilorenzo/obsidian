@@ -90,6 +90,13 @@ Is silence void if silence void of sound is?
 - - - - - - - - - - - - -
 
 
+
+
+
+
+
+
+
 Am I shadow if in the dark I stand?
 What substance am I, if man's form none see?
 Is it man that surely rules sweeping land?
@@ -107,6 +114,16 @@ So keen insight is dulled by exposure.
 
 I'll resume my muse whether or not I'm right,
 And let you stumble in your world of light.
+
+
+
+
+
+
+
+
+
+
 
 
 Leave me to my minds eye
