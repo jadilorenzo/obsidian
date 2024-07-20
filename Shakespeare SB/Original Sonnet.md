@@ -78,9 +78,10 @@ Would I have made life's song a chapel hymn?
 What substance is man if man, none can see?
 A glass vessel filled with coarse streaming sand
 What substance is man, if man none can see?
-
+Is darkness worth obstacles unperceived?
 Time, the invisible glass streaming sand
 Is louder than a screaming sea to me.
+Neurons electricity firing
 - - - - - - - - - - - - -
 
 
@@ -89,11 +90,15 @@ What substance am I, if man's form none see?
 Is it man that surely rules sweeping land?
 Shall mere man subjugate the stormy sea?
 
-Dark silence deafened by silent lightning
-Mind illuminated by cognition
+Dark silence deafened by silent lightning,
+The mind electrified in perception.
+Is dark danger worth such enlightening?
+Does brightness and banging stay cognition?
 
-Is the sole sound 'side the voice in me.
 
+
+
+   overpower for brightness
 In the dark
 
 the hollow crown
