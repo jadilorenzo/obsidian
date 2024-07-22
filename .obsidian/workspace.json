@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sons of God.md",
+                "file": "Shakespeare SB/Falstaff Journal 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sons of God.md",
+                "file": "Shakespeare SB/Falstaff Journal 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sons of God.md",
+                "file": "Shakespeare SB/Falstaff Journal 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sons of God.md"
+                "file": "Shakespeare SB/Falstaff Journal 1.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   "active": "6cf9cac94d26f6d6",
   "lastOpenFiles": [
     "Sons of God.md",
+    "Shakespeare SB/Falstaff Journal 1.md",
     "Shakespeare SB/Original Sonnet.md",
     "Shakespeare SB/07 17 2024 Class.md",
     "Shakespeare SB",
@@ -233,7 +234,6 @@
     "Story/EMP Introduction Scene.md",
     "Daily Note/2024-04-05.md",
     "Daily Note/2024-04-04.md",
-    "Daily Note/2024-03-20.md",
     "Grammar",
     "Writing",
     "Math",
