@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "587549521732d259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercise 17a.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shakespeare SB/Falstaff Journal 1.md",
+                "file": "Exercise 17a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shakespeare SB/Falstaff Journal 1.md",
+                "file": "Exercise 17a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shakespeare SB/Falstaff Journal 1.md"
+                "file": "Exercise 17a.md"
               }
             }
           },
@@ -203,10 +216,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6cf9cac94d26f6d6",
+  "active": "587549521732d259",
   "lastOpenFiles": [
-    "Shakespeare SB/Original Sonnet.md",
+    "Exercise 17a.md",
     "Shakespeare SB/Falstaff Journal 1.md",
+    "Shakespeare SB/Original Sonnet.md",
     "Sons of God.md",
     "Shakespeare SB/07 17 2024 Class.md",
     "Shakespeare SB",
@@ -233,7 +247,6 @@
     "Daily Note/2024-04-13.md",
     "Story/EMP Introduction Scene.md",
     "Daily Note/2024-04-05.md",
-    "Daily Note/2024-04-04.md",
     "Grammar",
     "Writing",
     "Math",
