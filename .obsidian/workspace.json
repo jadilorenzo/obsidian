@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13ae24a1d03b3a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Falstaff Journal 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -139,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shakespeare SB/Brightest Heaven of Invention Review.md",
+                "file": "Falstaff Journal 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shakespeare SB/Brightest Heaven of Invention Review.md",
+                "file": "Falstaff Journal 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shakespeare SB/Brightest Heaven of Invention Review.md"
+                "file": "Falstaff Journal 1.md"
               }
             }
           },
@@ -228,12 +242,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6ac6e79adfc032a2",
+  "active": "13ae24a1d03b3a64",
   "lastOpenFiles": [
-    "Shakespeare SB/07 17 2024 Class.md",
-    "Shakespeare SB/Brightest Heaven of Invention Review.md",
-    "Shakespeare SB/Exercise 17a.md",
     "Shakespeare SB/Falstaff Journal 1.md",
+    "Falstaff Journal 1.md",
+    "Shakespeare SB/Brightest Heaven of Invention Review.md",
+    "Shakespeare SB/07 17 2024 Class.md",
+    "Shakespeare SB/Exercise 17a.md",
     "Shakespeare SB/Original Sonnet.md",
     "Logic/Sons of God.md",
     "Shakespeare SB",
@@ -258,7 +273,6 @@
     "Daily Note/2024-05-05.md",
     "Other/4.28.2024 McKay Home Fellowship - Study Outline.md",
     "Daily Note/2024-04-13.md",
-    "Story/EMP Introduction Scene.md",
     "Grammar",
     "Writing",
     "Math",
