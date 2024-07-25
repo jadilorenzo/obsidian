@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c35c1cce022b3ec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Follow-up On Schedule Adjustments.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shakespeare SB/Falstaff Journal 2.md",
+                "file": "Follow-up On Schedule Adjustments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shakespeare SB/Falstaff Journal 2.md",
+                "file": "Follow-up On Schedule Adjustments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shakespeare SB/Falstaff Journal 2.md"
+                "file": "Follow-up On Schedule Adjustments.md"
               }
             }
           },
@@ -241,14 +254,15 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "1d15abac4e796297",
+  "active": "c35c1cce022b3ec3",
   "lastOpenFiles": [
-    "Shakespeare SB/Falstaff Journal 1.md",
+    "Shakespeare SB/Original Sonnet.md",
+    "Shakespeare SB/07 17 2024 Class.md",
+    "Shakespeare SB/Falstaff Journal 2.md",
     "Shakespeare SB/Exercise 17a.md",
     "Shakespeare SB/Brightest Heaven of Invention Review.md",
-    "Shakespeare SB/Falstaff Journal 2.md",
-    "Shakespeare SB/07 17 2024 Class.md",
-    "Shakespeare SB/Original Sonnet.md",
+    "Follow-up On Schedule Adjustments.md",
+    "Shakespeare SB/Falstaff Journal 1.md",
     "Logic/Sons of God.md",
     "Shakespeare SB",
     "Shakespeare SB/Shakespeare Authorship Controversy.md",
@@ -271,7 +285,6 @@
     "Story/Story.md",
     "Daily Note/2024-05-05.md",
     "Other/4.28.2024 McKay Home Fellowship - Study Outline.md",
-    "Daily Note/2024-04-13.md",
     "Grammar",
     "Writing",
     "Math",

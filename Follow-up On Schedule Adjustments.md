@@ -1,0 +1,3 @@
+**Follow-up On Schedule Adjustments**
+
+Currently, I can only maintain my schedule of working all day on Fridays, with an additional 1 hour and 45 minutes of work on the remaining days of the week till the end of summer classes on [insert specific week]. However, during the week of [insert specific week], I anticipate being able to work full-time. After that week, I should be available to work most of the day on both Thursdays and Fridays.
