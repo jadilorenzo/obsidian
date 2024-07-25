@@ -77,21 +77,33 @@ A ⊃ (B • C)
 (~A ∨ B) • (~A ∨ C)
 (~A ∨ B) 
 (~A ∨ B) ∨ C 
-A ⊃ \[A • (B • C)\]
-~A ∨ ~B ∨ ~C ⊃ A
+~A ∨ (B ∨ C)
+A ⊃ (B ∨ C)
+A ⊃ D
 
-(B ∨ C) ⊃ \[D • (B ∨ C)\]
-(B ∨ C) ⊃ \[(D • B) ∨ (D • C)\]
+10)
 
-~A ∨ (B • C)
-(~B • ~C) ∨ D
+E / ∴ F ⊃ F
+E ∨ ~F
+~F ∨ E
+F ⊃ E
+F ⊃ (F • E)
+~F ∨ (F • E)
+(~F ∨ F) • (~F ∨ E)
+~F ∨ F
+F ⊃ F
 
-(~B • ~C) ⊃ D
-~B ⊃ (~C ⊃ D)
+11)
 
-(~B ∨ ~C) ⊃ A
+(G ∨ H) ⊃ I
+(J ∨ K) ⊃ ~I
+K / ∴ ~H
+I ⊃ ~(J ∨ K)
+(G ∨ H) ⊃ ~(J ∨ K)
+(J ∨ K) ⊃ ~(G ∨ H)
+(J ∨ K) ⊃ (~G • ~H)
+J ∨ K
+~G • ~H
+~H
 
-~A ∨ D
-
-(~A ∨ ~B ∨ ~C) ⊃ A
-(~B ∨ ~C) ⊃ A
+12)
