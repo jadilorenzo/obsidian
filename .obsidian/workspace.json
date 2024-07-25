@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercise 17a.md",
+                "file": "Shakespeare SB/Exercise 17a.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ac6e79adfc032a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shakespeare SB/Brightest Heaven of Invention Review.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercise 17a.md",
+                "file": "Shakespeare SB/Brightest Heaven of Invention Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercise 17a.md",
+                "file": "Shakespeare SB/Brightest Heaven of Invention Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercise 17a.md"
+                "file": "Shakespeare SB/Brightest Heaven of Invention Review.md"
               }
             }
           },
@@ -216,21 +228,22 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "587549521732d259",
+  "active": "6ac6e79adfc032a2",
   "lastOpenFiles": [
-    "Shakespeare SB/Falstaff Journal 1.md",
     "Shakespeare SB/07 17 2024 Class.md",
+    "Shakespeare SB/Brightest Heaven of Invention Review.md",
+    "Shakespeare SB/Exercise 17a.md",
+    "Shakespeare SB/Falstaff Journal 1.md",
     "Shakespeare SB/Original Sonnet.md",
-    "Exercise 17a.md",
-    "Sons of God.md",
+    "Logic/Sons of God.md",
     "Shakespeare SB",
     "Shakespeare SB/Shakespeare Authorship Controversy.md",
-    "Introductory Logic/Unit 1 Review Answered (with book).md",
+    "Logic/Unit 1 Review Answered (with book).md",
     "copilot-conversations/Chat-2024_06_20-14_33_14.md",
-    "Introductory Logic/Unit 1 Review.md",
+    "Logic/Unit 1 Review.md",
     "copilot-conversations",
     "Untitled 1.md",
-    "Introductory Logic",
+    "Logic",
     "Music.md",
     "Home.md",
     "Daily Note/2024-06-15.md",
@@ -246,7 +259,6 @@
     "Other/4.28.2024 McKay Home Fellowship - Study Outline.md",
     "Daily Note/2024-04-13.md",
     "Story/EMP Introduction Scene.md",
-    "Daily Note/2024-04-05.md",
     "Grammar",
     "Writing",
     "Math",
