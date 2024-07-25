@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shakespeare SB/Falstaff Journal 1.md",
+                "file": "Shakespeare SB/Falstaff Journal 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Falstaff Journal 1.md",
+                "file": "Shakespeare SB/Brightest Heaven of Invention Review.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Falstaff Journal 1.md",
+                "file": "Shakespeare SB/Falstaff Journal 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Falstaff Journal 1.md",
+                "file": "Shakespeare SB/Falstaff Journal 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Falstaff Journal 1.md"
+                "file": "Shakespeare SB/Falstaff Journal 2.md"
               }
             }
           },
@@ -242,13 +241,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "13ae24a1d03b3a64",
+  "active": "1d15abac4e796297",
   "lastOpenFiles": [
     "Shakespeare SB/Falstaff Journal 1.md",
-    "Falstaff Journal 1.md",
-    "Shakespeare SB/Brightest Heaven of Invention Review.md",
-    "Shakespeare SB/07 17 2024 Class.md",
     "Shakespeare SB/Exercise 17a.md",
+    "Shakespeare SB/Brightest Heaven of Invention Review.md",
+    "Shakespeare SB/Falstaff Journal 2.md",
+    "Shakespeare SB/07 17 2024 Class.md",
     "Shakespeare SB/Original Sonnet.md",
     "Logic/Sons of God.md",
     "Shakespeare SB",
