@@ -107,3 +107,21 @@ J ∨ K
 ~H
 
 12)
+
+(L ∨ M) ⊃ N
+P ⊃ M
+~N / ∴ ~P • ~L
+~(L ∨ M)
+~L • ~M
+~M
+~P
+~L
+~P • ~L
+
+13)
+
+I like apples. Therefore, if I like blueberries, I like apples.
+
+14)
+
+We are enemies. Therefore, if we are friends, then we are friends.
