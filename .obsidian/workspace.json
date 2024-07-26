@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Exercise 17a.md",
+                "file": "Follow-up On Schedule Adjustments.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Exercise 17a.md",
+                "file": "Follow-up On Schedule Adjustments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Exercise 17a.md",
+                "file": "Follow-up On Schedule Adjustments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Exercise 17a.md"
+                "file": "Follow-up On Schedule Adjustments.md"
               }
             }
           },
@@ -254,13 +254,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "1d15abac4e796297",
+  "active": "c35c1cce022b3ec3",
   "lastOpenFiles": [
+    "Logic/Exercise 17a.md",
     "Follow-up On Schedule Adjustments.md",
     "Shakespeare SB/Original Sonnet.md",
     "Shakespeare SB/07 17 2024 Class.md",
     "Shakespeare SB/Falstaff Journal 2.md",
-    "Logic/Exercise 17a.md",
     "Shakespeare SB/Brightest Heaven of Invention Review.md",
     "Shakespeare SB/Falstaff Journal 1.md",
     "Logic/Sons of God.md",
