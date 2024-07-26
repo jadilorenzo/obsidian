@@ -5,7 +5,8 @@ Week after next I should be able to work all day Thursday and Friday, excepting 
 I really appreciate the opportunity with RoleModel.
 
 
+**Follow-up On Schedule Adjustments**
 
-I will be out of town next week, but from the following week of 8/4 to the week of 8/25, I will be able to work all day Friday and all day Thursday except for a class from 11 A.M. - 2 P.M.. I'll let you know about the schedule after that as soon as I know.
+I will be out of town next week, but from the following week of 8/4 to the week of 8/25, I will be able to work all day Friday and all day Thursday except for an online summer class from 11 A.M. - 2 P.M. We're still finalizing next year's class schedule, but I'll likely have a class from 2 P.M to 4:10 P.M. on Thursdays.
 
 Again, I appreciate the opportunity with RoleModel.
