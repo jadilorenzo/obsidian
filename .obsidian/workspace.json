@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shakespeare SB/Brightest Heaven of Invention Review.md",
+                "file": "Daily Note/2024-07-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Story.md",
+                "file": "Daily Note/2024-07-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Story.md",
+                "file": "Daily Note/2024-07-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Story.md"
+                "file": "Daily Note/2024-07-27.md"
               }
             }
           },
@@ -254,11 +254,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c35c1cce022b3ec3",
+  "active": "13ae24a1d03b3a64",
   "lastOpenFiles": [
+    "Shakespeare SB/Brightest Heaven of Invention Review.md",
+    "Story/Story.md",
     "Story/EMP Introduction Scene.md",
     "Daily Note/2024-07-27.md",
-    "Shakespeare SB/Brightest Heaven of Invention Review.md",
     "Logic/Exercise 17a.md",
     "Follow-up On Schedule Adjustments.md",
     "Shakespeare SB/Original Sonnet.md",
@@ -284,7 +285,6 @@
     "Untitled 2.md",
     "Daily Note/2024-05-22.md",
     "Daily Note/2024-05-21.md",
-    "Story/Story.md",
     "Grammar",
     "Writing",
     "Math",
