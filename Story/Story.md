@@ -141,3 +141,4 @@ Life was dangerous. Despite the presence of police drones patrolling both countr
 
 
 
+It's like a bubble

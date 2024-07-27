@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-07-27.md",
+                "file": "Story/Story.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-07-27.md",
+                "file": "Story/Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-07-27.md",
+                "file": "Story/Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-07-27.md"
+                "file": "Story/Story.md"
               }
             }
           },
@@ -257,9 +256,10 @@
   },
   "active": "c35c1cce022b3ec3",
   "lastOpenFiles": [
+    "Story/EMP Introduction Scene.md",
+    "Daily Note/2024-07-27.md",
     "Shakespeare SB/Brightest Heaven of Invention Review.md",
     "Logic/Exercise 17a.md",
-    "Daily Note/2024-07-27.md",
     "Follow-up On Schedule Adjustments.md",
     "Shakespeare SB/Original Sonnet.md",
     "Shakespeare SB/07 17 2024 Class.md",
@@ -285,7 +285,6 @@
     "Daily Note/2024-05-22.md",
     "Daily Note/2024-05-21.md",
     "Story/Story.md",
-    "Daily Note/2024-05-05.md",
     "Grammar",
     "Writing",
     "Math",
