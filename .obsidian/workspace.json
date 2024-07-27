@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Exercise 17a.md",
+                "file": "Daily Note/2024-07-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Exercise 17a.md",
+                "file": "Daily Note/2024-07-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Exercise 17a.md"
+                "file": "Daily Note/2024-07-27.md"
               }
             }
           },
@@ -255,15 +255,15 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "587549521732d259",
+  "active": "c35c1cce022b3ec3",
   "lastOpenFiles": [
+    "Shakespeare SB/Brightest Heaven of Invention Review.md",
+    "Logic/Exercise 17a.md",
     "Daily Note/2024-07-27.md",
     "Follow-up On Schedule Adjustments.md",
-    "Logic/Exercise 17a.md",
     "Shakespeare SB/Original Sonnet.md",
     "Shakespeare SB/07 17 2024 Class.md",
     "Shakespeare SB/Falstaff Journal 2.md",
-    "Shakespeare SB/Brightest Heaven of Invention Review.md",
     "Shakespeare SB/Falstaff Journal 1.md",
     "Logic/Sons of God.md",
     "Shakespeare SB",
