@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Follow-up On Schedule Adjustments.md",
+                "file": "Daily Note/2024-07-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Follow-up On Schedule Adjustments.md",
+                "file": "Logic/Exercise 17a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Follow-up On Schedule Adjustments.md",
+                "file": "Logic/Exercise 17a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Follow-up On Schedule Adjustments.md"
+                "file": "Logic/Exercise 17a.md"
               }
             }
           },
@@ -255,10 +255,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c35c1cce022b3ec3",
+  "active": "587549521732d259",
   "lastOpenFiles": [
-    "Logic/Exercise 17a.md",
+    "Daily Note/2024-07-27.md",
     "Follow-up On Schedule Adjustments.md",
+    "Logic/Exercise 17a.md",
     "Shakespeare SB/Original Sonnet.md",
     "Shakespeare SB/07 17 2024 Class.md",
     "Shakespeare SB/Falstaff Journal 2.md",
@@ -285,7 +286,6 @@
     "Daily Note/2024-05-21.md",
     "Story/Story.md",
     "Daily Note/2024-05-05.md",
-    "Other/4.28.2024 McKay Home Fellowship - Study Outline.md",
     "Grammar",
     "Writing",
     "Math",

@@ -121,7 +121,9 @@ P ⊃ M
 13)
 
 I like apples. Therefore, if I like blueberries, I like apples.
+This is structurally true; an if statement can only be false if the first value is true and the second value is false.
 
 14)
 
 We are enemies. Therefore, if we are friends, then we are friends.
+This is also structurally true for the same reason.
