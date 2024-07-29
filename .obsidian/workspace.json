@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ab79a0130eb3349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Message.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-07-27.md",
+                "file": "Message.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-07-27.md",
+                "file": "Message.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-07-27.md"
+                "file": "Message.md"
               }
             }
           },
@@ -254,12 +267,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "13ae24a1d03b3a64",
+  "active": "3ab79a0130eb3349",
   "lastOpenFiles": [
+    "Message.md",
+    "Daily Note/2024-07-27.md",
     "Shakespeare SB/Brightest Heaven of Invention Review.md",
     "Story/Story.md",
     "Story/EMP Introduction Scene.md",
-    "Daily Note/2024-07-27.md",
     "Logic/Exercise 17a.md",
     "Follow-up On Schedule Adjustments.md",
     "Shakespeare SB/Original Sonnet.md",
@@ -284,7 +298,6 @@
     "Daily Note/2024-05-25.md",
     "Untitled 2.md",
     "Daily Note/2024-05-22.md",
-    "Daily Note/2024-05-21.md",
     "Grammar",
     "Writing",
     "Math",
