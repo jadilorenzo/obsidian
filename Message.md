@@ -1,5 +1,11 @@
-Unfortunately, it may not have been clear in my prior message that I only have classes on Thursdays and not on Fridays.  In finishing high school this year, my Thursday summer schedule is from 11 AM - 2 PM and then in September my Thursday schedule switches to classes from 2-4:10 PM.  
 
-Longer term, I do plan on pursuing a computer science degree at Regis University. The Regis classes are asynchronous and eight weeks in length.  This format is what gave Christian tremendous flexibility and allowed him to work on a variety of projects at RoleModel while finishing his Regis degree.  Next year, my focus will be on the general education courses: testing out of some and taking others at local community colleges and many of these core classes are now also being offered online and asynchronous.
+
+Next year's plan:
+I plan to focus on general education courses, testing out of some and taking others at Wake Tech. Additionally, several of these courses 
+
+The long-term plan: 
+I plan to pursue a computer science degree at Regis University. Regis classes are asynchronous and only eight weeks long. (providing schedule flexibility)
+
+Longer term, I do plan on pursuing a computer science degree at Regis University. The Regis classes are asynchronous and eight weeks in length.  This format is what gave Christian tremendous flexibility and allowed him to work on a variety of projects at RoleModel while finishing his Regis degree.  Next year, my focus will be on the general education courses: testing out some and taking others at local community colleges and many of these core classes are now also being offered online and asynchronous.
 
 Thank you for considering the new assignment.  I anticipate working on a team will help me to learn more and to contribute more.  No doubt, it certainly sounds more enjoyable than working solo. Thanks again for the opportunity.
