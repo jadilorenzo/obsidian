@@ -1,5 +1,3 @@
-
-
 Next year's plan:
 I plan to focus on general education courses, testing out of some and taking others at Wake Tech. Additionally, some of these courses are asynchronous and online which may give me greater schedule flexibility.
 
