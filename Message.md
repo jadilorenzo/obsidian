@@ -1,10 +1,12 @@
 
 
 Next year's plan:
-I plan to focus on general education courses, testing out of some and taking others at Wake Tech. Additionally, several of these courses 
+I plan to focus on general education courses, testing out of some and taking others at Wake Tech. Additionally, several of these courses are asynchronous and online.
 
 The long-term plan: 
-I plan to pursue a computer science degree at Regis University. Regis classes are asynchronous and only eight weeks long. (providing schedule flexibility)
+I plan to pursue a computer science degree at Regis University. Regis classes also are asynchronous and only eight weeks long. (providing schedule flexibility)
+
+I appreciate the opportunity to potentially work with a team, as I will learn more from the people at RoleModel. Thanks again for the opportunity to work for you.
 
 Longer term, I do plan on pursuing a computer science degree at Regis University. The Regis classes are asynchronous and eight weeks in length.  This format is what gave Christian tremendous flexibility and allowed him to work on a variety of projects at RoleModel while finishing his Regis degree.  Next year, my focus will be on the general education courses: testing out some and taking others at local community colleges and many of these core classes are now also being offered online and asynchronous.
 
