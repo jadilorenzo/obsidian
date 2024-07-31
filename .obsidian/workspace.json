@@ -86,19 +86,6 @@
             }
           },
           {
-            "id": "c35c1cce022b3ec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Story.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ab79a0130eb3349",
             "type": "leaf",
             "state": {
@@ -117,7 +104,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Falstaff Journal 3.md",
+                "file": "Story/Story.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbbcefd9993c5fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "d.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Falstaff Journal 3.md",
+                "file": "d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Falstaff Journal 3.md",
+                "file": "d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Falstaff Journal 3.md"
+                "file": "d.md"
               }
             }
           },
@@ -281,14 +281,15 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "882692e1ee00aadb",
+  "active": "fbbcefd9993c5fd4",
   "lastOpenFiles": [
+    "d.md",
+    "Story/Story.md",
+    "Falstaff Journal 3.md",
     "Shakespeare SB/Falstaff Journal 2.md",
     "Logic/Exercise 17a.md",
     "Shakespeare SB/Original Sonnet.md",
     "Shakespeare SB/07 17 2024 Class.md",
-    "Falstaff Journal 3.md",
-    "Story/Story.md",
     "Message.md",
     "Daily Note/2024-07-27.md",
     "Shakespeare SB/Brightest Heaven of Invention Review.md",
@@ -311,7 +312,6 @@
     "Daily Note/2024-05-28.md",
     "Daily Note/2024-05-27.md",
     "Daily Note/2024-05-25.md",
-    "Untitled 2.md",
     "Grammar",
     "Writing",
     "Math",

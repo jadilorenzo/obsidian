@@ -1,0 +1,7 @@
+SHYLOCK 
+Man, he looks so prim and proper. I hate him; he's a Christian. But more than that, he loans money for free, lowering our interest rates. If I can catch him off balance just once, I will knock him clean over... He hates us Jews and rails (even in large groups of us merchants) against my bargains and my well-won thrift
+How like a fawning publican he looks! I hate him for he is a Christian, But more for that in low simplicity 11 He lends out money gratis and brings down The rate of usance here with us in Venice. If I can catch him once upon the hip, I will feed fat the ancient grudge I bear him. He hates our sacred nation, and he rails, Even there where merchants most do congregate, On me, my bargains and my well-won thrift, Which he calls interest. Cursed be my tribe, If I forgive him! 
+BASSANIO Shylock, do you hear? 
+SHYLOCK I am debating of my present store, And, by the near guess of my memory, I cannot instantly raise up the gross Of full three thousand ducats. What of that? Tubal, a wealthy Hebrew of my tribe, Will furnish me. But soft! how many months Do you desire? To 
+ANTONIO Rest you fair, good signior; Your worship was the last man in our mouths. 
+ANTONIO Shylock, although I neither lend nor borrow By taking nor by giving of excess, Yet, to supply the ripe wants of my friend, I'll break a custom. Is he y
