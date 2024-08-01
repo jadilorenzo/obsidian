@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "d.md",
+                "file": "Shakespeare SB/Merchant of Venice.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -192,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "d.md",
+                "file": "Shakespeare SB/Merchant of Venice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "d.md",
+                "file": "Shakespeare SB/Merchant of Venice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d.md"
+                "file": "Shakespeare SB/Merchant of Venice.md"
               }
             }
           },
@@ -284,6 +283,8 @@
   "active": "fbbcefd9993c5fd4",
   "lastOpenFiles": [
     "d.md",
+    "Merchant of Venise.md",
+    "Shakespeare SB/Merchant of Venice.md",
     "Story/Story.md",
     "Falstaff Journal 3.md",
     "Shakespeare SB/Falstaff Journal 2.md",
@@ -310,8 +311,6 @@
     "Daily Note/2024-06-15.md",
     "Daily Note/2024-06-03.md",
     "Daily Note/2024-05-28.md",
-    "Daily Note/2024-05-27.md",
-    "Daily Note/2024-05-25.md",
     "Grammar",
     "Writing",
     "Math",
