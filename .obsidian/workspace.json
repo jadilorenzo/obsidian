@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-08-02.md",
+                "file": "Daily Note/2024-08-03.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-08-02.md",
+                "file": "Daily Note/2024-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-08-02.md",
+                "file": "Daily Note/2024-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-08-02.md"
+                "file": "Daily Note/2024-08-03.md"
               }
             }
           },
@@ -283,8 +283,9 @@
   },
   "active": "fbbcefd9993c5fd4",
   "lastOpenFiles": [
-    "Shakespeare SB/Merchant of Venice.md",
     "Daily Note/2024-08-02.md",
+    "Daily Note/2024-08-03.md",
+    "Shakespeare SB/Merchant of Venice.md",
     "Story/Story.md",
     "d.md",
     "Merchant of Venise.md",
@@ -311,7 +312,6 @@
     "Music.md",
     "Home.md",
     "Daily Note/2024-06-15.md",
-    "Daily Note/2024-06-03.md",
     "Grammar",
     "Writing",
     "Math",
