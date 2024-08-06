@@ -1,0 +1,1 @@
+In The Merchant of Venice, Antonio borrows money from Shylock for his friend Bassanio to court Portia. Their bond demands a pound of Antonio’s flesh if unpaid. When Antonio loses his fortune, Shylock comes for his due, and Portia, disguised as a lawyer, saves Antonio by finding a legal loophole. 
