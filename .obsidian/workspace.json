@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f21e1827fc42dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -205,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brevity is the Soul of Wit.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brevity is the Soul of Wit.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brevity is the Soul of Wit.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -294,8 +307,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "03a4be14a6533a30",
+  "active": "6f21e1827fc42dbd",
   "lastOpenFiles": [
+    "Untitled.md",
     "Brevity is the Soul of Wit.md",
     "Daily Note/2024-08-06.md",
     "Daily Note/2024-08-04.md",
@@ -323,7 +337,6 @@
     "copilot-conversations/Chat-2024_06_20-14_33_14.md",
     "Logic/Unit 1 Review.md",
     "copilot-conversations",
-    "Untitled 1.md",
     "Logic",
     "Grammar",
     "Writing",
