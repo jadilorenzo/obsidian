@@ -149,9 +149,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ceabfc3054933d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -218,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -307,8 +320,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6f21e1827fc42dbd",
+  "active": "ceabfc3054933d99",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Untitled.md",
     "Brevity is the Soul of Wit.md",
     "Daily Note/2024-08-06.md",
@@ -335,7 +349,6 @@
     "Shakespeare SB/Shakespeare Authorship Controversy.md",
     "Logic/Unit 1 Review Answered (with book).md",
     "copilot-conversations/Chat-2024_06_20-14_33_14.md",
-    "Logic/Unit 1 Review.md",
     "copilot-conversations",
     "Logic",
     "Grammar",
