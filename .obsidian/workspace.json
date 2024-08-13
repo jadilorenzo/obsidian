@@ -175,9 +175,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57097c7831e8b5df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Merchant of Venice – Shylock Act 3, Scene 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -244,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Where are you now... Francis!.md",
+                "file": "The Merchant of Venice – Shylock Act 3, Scene 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Where are you now... Francis!.md",
+                "file": "The Merchant of Venice – Shylock Act 3, Scene 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Where are you now... Francis!.md"
+                "file": "The Merchant of Venice – Shylock Act 3, Scene 1.md"
               }
             }
           },
@@ -333,8 +346,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "104db6f5e2880a31",
+  "active": "57097c7831e8b5df",
   "lastOpenFiles": [
+    "The Merchant of Venice – Shylock Act 3, Scene 1.md",
     "Where are you now... Francis!.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -361,7 +375,6 @@
     "Logic/Sons of God.md",
     "Shakespeare SB",
     "Shakespeare SB/Shakespeare Authorship Controversy.md",
-    "Logic/Unit 1 Review Answered (with book).md",
     "copilot-conversations",
     "Logic",
     "Grammar",
