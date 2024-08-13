@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc19d26dcd78a446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Taming of the Shrew Review Questions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Where are you now... Francis!.md",
+                "file": "The Taming of the Shrew Review Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Where are you now... Francis!.md",
+                "file": "The Taming of the Shrew Review Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Where are you now... Francis!.md"
+                "file": "The Taming of the Shrew Review Questions.md"
               }
             }
           },
@@ -176,10 +190,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6f21e1827fc42dbd",
+  "active": "cc19d26dcd78a446",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "The Taming of the Shrew Review Questions.md",
     "Where are you now... Francis!.md",
+    "Untitled 1.md",
     "Untitled.md",
     "The Merchant of Venice – Shylock Act 3, Scene 1.md",
     "Brevity is the Soul of Wit.md",
@@ -204,7 +219,6 @@
     "Shakespeare SB/Falstaff Journal 1.md",
     "Logic/Sons of God.md",
     "Shakespeare SB",
-    "Shakespeare SB/Shakespeare Authorship Controversy.md",
     "copilot-conversations",
     "Logic",
     "Grammar",
