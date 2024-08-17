@@ -5,156 +5,91 @@ Angelina: Poins
 
 
 
-[Enter PRINCE HENRY and POINS on webcam]
+[Enter PRINCE and POINS on webcam]
 
-**
-Poins: Come: I have removed Falstaff's
+Poins: *(As if he just stopped laughing)* Come: I have removed Falstaff's
 horse, and he frets like a scholar betwixt his freedom and his finals. 
 
-  
+Prince: *(under his breath)* A situation I am well acquainted with... Here he comes.
 
-Prince: Stand close. Let us wait for him. 
+[Exit POINS and enter FALSTAFF]
 
-  
-
-[Enter FALSTAFF]
-
-  
-
-Falstaff: Poins! Poins, and be hanged! Poins! 745
-
-  
+Falstaff: Poins! Poins! Come and be hanged! Poins!          745
 
 Prince: Peace, ye fat-kidneyed rascal! what a brawling dost
-
 thou keep!
 
-  
+Falstaff: Where's Poins, Hal? *(as in distress)*
 
-Falstaff: Where's Poins, Hal?
+Prince: He walked up to the top of the hill…yonder.  I'll go seek him.  
 
-  
-
-Prince: He walked up to the top of the hill…yonder.  I'll go seek him.
-
-  
+[Exit PRINCE]
 
 Falstaff: I am accursed to rob in that thief's company: the            750
-
 rascal hath removed my horse, and tied him I know
+not where. (*Am I supposed to have a horse?*)
 
-not where. 
+[POINS comes on camera]
+Poins: *(No I stole it, remember?)*
 
-(Wait, was I supposed to have a horse? Where’s my horse. Oh, no horse? That’s right. Never mind. Anyway…)
-
-If I travel but four foot by the squier
-
+Falstaff: Oh... If I travel but four foot by the squier
 further afoot, I shall break my wind. Well, I doubt
-
 not but to die a fair death for all this, if I
-
-'scape hanging for killing that rogue. I have           755
-
-forsworn his company hourly any time this two and
-
-twenty years, and yet I am bewitched with the
-
+'scape hanging for killing that rogue! I have           755
+forsworn his company every hour any time this two and
+twenty years, and yet... I am bewitched with the
 rogue's company. If the rascal hath not given me
-
 medicines to make me love him, I'll be hanged; it
-
 could not be else: I have drunk medicines. Poins!        760
-
-Hal! a plague upon you both! Bardolph! Peto!
-
-I'll starve ere I'll rob a foot further. An 'twere
-
+I'll starve ere I'll rob a foot further. *(Speeds up)* An 'twere
 not as good a deed as drink, to turn true man and to
-
 leave these rogues, I am the veriest varlet that
-
-ever chewed with a tooth. Eight yards of uneven        765
-
+ever chewed with a tooth. *(Almost yelling)* Eight yards of uneven        765
 ground is threescore and ten miles afoot with me;
-
-and the stony-hearted villains know it well enough:
-
+and the stone-hearted villains know it well enough:
 a plague upon it when thieves cannot be true one to another!
-
   
 
-[They whistle]
+[PRINCE whistles (or maybe SFX)]
 
-  
-
-Whew! (try several times to whistle properly)
-
+Falstaff: (big sigh) (try several times to whistle properly)
 A plague upon you all! Give me my horse, you 770
-
 rogues; give me my horse, and be hanged!
 
-  
-
 Prince: Peace, ye fat-guts! lie down; lay thine ear close
-
 to the ground and list if thou canst hear the tread
-
-of travelers.
-
-  
+of travelers.  
 
 Falstaff: Have you any levers to lift me up again, being down? 775
-
-'Sblood, I'll not bear mine own flesh so far afoot
-
+I'll not bear mine own flesh so far afoot
 again for all the coin in thy father's exchequer.
-
 What a plague mean ye to colt me thus?
-
-  
 
 Prince: Thou liest; thou art not colted, thou art uncolted.
 
-  
-
 Falstaff: I prithee, good Prince Hal, help me to my horse, 780
-
 good king's son.
 
-  
-
 Prince: Out, ye rogue! shall I be your ostler? I’m flattered you think me
-
 So fit as to bear your weight.
 
-  
-
 Falstaff: Go, hang thyself in thine own heir-apparent
-
-garters! (uh…ok) If I be ta'en, I'll peach for this. An I
-
-have not ballads made on you all and sung to filthy 785
-
+garters! *(Wow.... um (surprised by my intensity))* 
+If I be ta'en, I'll peach for this. An I'll
+have ballads made on you all and sung to filthy 785
 tunes, let a cup of sack be my poison: when a jest
-
 is so forward, and afoot too! I hate it.
 
-  
-
 Poins: Money of the king's coming down the hill; 'tis going
-
 to the king's exchequer.
 
-  
-
-Falstaff: You lie, ye rogue; 'tis going to the king's tavern.
-
-  
+Falstaff: Thou liest! *(now fancifully)* 'tis going to the king's tavern.
 
 Prince: Sirs, you four shall front them in the narrow lane;
 
-Ned Poins and I will walk lower: if they 'escape 800 
 
+
+Ned Poins and I will walk lower: if they 'escape 800 
 from your encounter, then they light on us.
 
 How many be there of them?
