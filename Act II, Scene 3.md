@@ -1,6 +1,10 @@
-**
+Characters:
+- 
+
+
 
 [Enter PRINCE HENRY and POINS on webcam]
+
 
 Poins: Come: I have removed Falstaff's
 
