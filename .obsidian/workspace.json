@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9f35d95c26141dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set Free Lesson 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act II, Scene 3.md",
+                "file": "Set Free Lesson 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act II, Scene 3.md",
+                "file": "Set Free Lesson 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act II, Scene 3.md"
+                "file": "Set Free Lesson 1.md"
               }
             }
           },
@@ -229,10 +242,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "8be6e39a52887995",
+  "active": "c9f35d95c26141dc",
   "lastOpenFiles": [
-    "Act II, Scene 2.md",
+    "Set Free Lesson 1.md",
     "Act II, Scene 3.md",
+    "Act II, Scene 2.md",
     "Untitled 2.md",
     "Daily Note/2024-08-14.md",
     "The Taming of the Shrew Review Questions.md",
@@ -256,7 +270,6 @@
     "Shakespeare SB/07 17 2024 Class.md",
     "Message.md",
     "Daily Note/2024-07-27.md",
-    "Shakespeare SB/Brightest Heaven of Invention Review.md",
     "Shakespeare SB",
     "copilot-conversations",
     "Logic",
