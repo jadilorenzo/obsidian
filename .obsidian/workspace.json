@@ -8,58 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc19d26dcd78a446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-08-14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a526bfc9651c030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69e941ba57910f95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act II, Scene 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8be6e39a52887995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Act II, Scene 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c9f35d95c26141dc",
             "type": "leaf",
             "state": {
@@ -71,9 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98620e4ebc8693f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Piano Commitment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set Free Lesson 1.md",
+                "file": "Piano Commitment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set Free Lesson 1.md",
+                "file": "Piano Commitment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set Free Lesson 1.md"
+                "file": "Piano Commitment.md"
               }
             }
           },
@@ -229,8 +190,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c9f35d95c26141dc",
+  "active": "98620e4ebc8693f0",
   "lastOpenFiles": [
+    "Piano Commitment.md",
     "Set Free Lesson 1.md",
     "Act II, Scene 3.md",
     "Act II, Scene 2.md",
@@ -256,7 +218,6 @@
     "Shakespeare SB/Original Sonnet.md",
     "Shakespeare SB/07 17 2024 Class.md",
     "Message.md",
-    "Daily Note/2024-07-27.md",
     "Shakespeare SB",
     "copilot-conversations",
     "Logic",
