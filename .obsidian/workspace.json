@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Truthfulness Commitment.md",
+                "file": "Set Free Lesson 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Truthfulness Commitment.md",
+                "file": "Set Free Lesson 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Truthfulness Commitment.md",
+                "file": "Set Free Lesson 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Truthfulness Commitment.md"
+                "file": "Set Free Lesson 1.md"
               }
             }
           },
@@ -192,8 +191,8 @@
   },
   "active": "9bb8c1638263bbd7",
   "lastOpenFiles": [
-    "Piano Commitment.md",
     "Truthfulness Commitment.md",
+    "Piano Commitment.md",
     "Set Free Lesson 1.md",
     "Act II, Scene 3.md",
     "Act II, Scene 2.md",
