@@ -7,8 +7,8 @@ Be sober, be vigilant; your adversary the devil walks about like a roaring lion,
 Read 1 Peter 5:5-11
 
 1. Summarize this passage in a few sentences. Point out things that immediately stand out to you and how they address your pursuit of freedom from sexual sin.
-	God loves the humble and wants you to fully rely on him, but be vigilant to resist the devil's schemes because God will give you strength even in your suffering.
-1. In verse 5 (and verse 6), Peter commands humility, which is the opposite of pride. How does your sexual sin reveal your pridefulness?
+	God loves the humble and wants you to rely on him fully, but be vigilant in resisting the devil's schemes because God will give you strength even in your suffering.
+1. In verses 5 (and 6), Peter commands humility, which is the opposite of pride. How does your sexual sin reveal your pridefulness?
 	Sin is a rebellion against God, thinking you can do anything you want without consequence.
 1. Peter quotes James 4:6 (similar to Proverbs 3:34) when he says, “God opposes the proud but gives grace to the humble.” What will it look like for you to humble yourself in your fight against pornography?
     Confessing it is humbling. Asking God for help.
