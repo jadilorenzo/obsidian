@@ -1,9 +1,6 @@
 Upload by August 22 at 11:59 pm ET.
 
-Write a 5-paragraph essay (2-3 pages, double-spaced) over one of the following:
-
-- Character archetypes in Shakespeare - the Fool, the villain, the hero, etc.
-- A major theme - pride, unnatural order of things, fleeting youth, disguises/deception, flattery, expectations, loyalty, or flattery.
+Write a 5-paragraph essay (2-3 pages, double-spaced) over one of the followin major theme - pride, unnatural order of things, fleeting youth, disguises/deception, flattery, expectations, loyalty, or flattery.
 - Characterization - how do characters change over the course of the plays 
 
 **Be sure to quote specific lines from the play. You should have a minimum of one quotation per body paragraph.  Use the following website to reference proper MLA citations. 
