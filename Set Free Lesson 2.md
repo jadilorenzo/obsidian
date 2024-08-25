@@ -29,20 +29,25 @@ I find then a law, that evil is present with me, the one who wills to do good. F
 So then, with the mind I myself serve the law of God, but with the flesh the law of sin.
 
 1. Summarize this passage in a few sentences. Point out things that immediately standout to you and how they address your addiction.
-    
+	Despite good intentions, sin often takes control, resulting in actions against one’s will. This struggle is ongoing, with the mind wanting to follow God’s law while the flesh is drawn to sin. Deliverance from "this body of death" comes only through Jesus.
+
+	1. There’s a struggle between the desire to do good and the pull toward sin.
+	2. Sin overrides good intentions.
+	3. Deliverance from this struggle is only found through Jesus Christ.
 2. Do you feel like Paul? How does it make you feel when you continue in the very sin from which you desire freedom?
-    
+	The inner conflict Paul describes here is incredibly relatable. You feel like you can't control yourself.
 3. Look at verse 13. What is the purpose of God’s Law?
-	
+	To show us our sin and convict us.
 4. Paul says he wants to do the right thing, but continues to do what he hates. Even though he wants to do good, he can’t! In the experience of your sexual sin, can you relate to him in verses 15-20? How?
-    
+    The loss of control and the fact that you wish you weren't doing what you're doing.
 5. Sin is a lifelong reality; just because we’re saved by Christ doesn’t mean we’re made perfect in this life immediately. According to this passage, when will we be finally, totally freed from the battle against indwelling sin?
-    
+    You will only be completely separated from sin by death.
 6. Reread verse 21. Have you experienced this in past attempts at finding freedom from sexual sin? Have you found that when you commit to be obedient, temptation and evil seem to be even closer to you? How?
-    
+    There's an inner voice of what your body wants that screams at you so loud it becomes difficult to hear your conscience.
 7. Notice in verses 24-25 that Paul does not shy away from his sin, or the condition in which it’s left him. He doesn’t give excuses or try to justify it. Instead, what does he conclude is the ultimate solution to the problem of sin? As you do what you can to guard yourself — as you do whatever it takes — why is it important to remember that you can’t deliver yourself from your sin with clever tactics, but that it’s Jesus who will deliver you?
-	
+	Because the true fix to sin is a new heart and realigned desires. Jesus is the only source for new hearts.
 8. How does this passage encourage you in your own struggle with sin?
+	Pauls message is relatable and clearly expresses what I've felt before.
 
 NOW WHAT
 
