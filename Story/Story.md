@@ -1,12 +1,20 @@
 ## 0: Cras Mors Venit
 
-Positioned strategically near the heart of the Atlantic Ocean, THE NEMESIS — an anarchist vessel — silently completed its last system check of the ship’s most dangerous weapon, an Electromagnetic Pulse (EMP) weapon with a range of 100+ kilometers. While traditional EMP weapons are about the size of a suitcase, this monstrosity was the size of a twin mattress and covered from top to bottom in wiring. 
+Positioned fifty kilometers off the coast of California, THE NEMESIS — an anarchist vessel — silently completed its last system check of the ship’s most dangerous weapon, an Electromagnetic Pulse (EMP) with arrange of 100+ kilometers, surpassing the effective range of all EMPs before it.
 
 Etched on the ship's side, just below its name, was the vessel's motto: "Cras Mors Venit," which translates to "Tomorrow we die.”
 
-As the appointed time for detonation arrived amid the final preparations, near silent anticipation filled the air as the crew prepared to witness the “definitive” eradication of a menace that had plagued the world for centuries — technology. At precisely 9:59:59 AM, the EMP weapon unleashed its devastating power, sending forth an electromagnetic pulse that raced through the vast expanse of space at the speed of light. In 0.133 seconds, this overwhelming wave of electromagnetic energy engulfed the entire surface of the globe, obliterating all electronic components in its path.
+Anarchy wasn’t a revolution; it was a bomb.  The NEMESIS was the spark. 
 
-As the invisible wave of the EMP raced across the globe, skylines instantly went dark, and the world's technological infrastructure crumbled instantly. The dazzling screens that once commanded attention in every household turned into gaping black mirrors. Cars stalled on highways, their electronic brains fried. The crackle of electricity that had become the backdrop of modern life fell into an eerie silence — a silence soon filled with screams. It was anarchy.
+EMPs have the capacity to violently overload circuitry by causing voltage spikes that fry both capacitors and the now unprotected components. Frying the central nervous system of the western hemisphere should do the trick.  
+
+Near silent anticipation filled the air as the crew prepared to witness the initiation of that bomb anarchy. At precisely 9:59:59 AM, the EMP weapon unleashed its devastating power. 
+
+But there had been a slight miscalculation. 
+
+The engineers of this weapon hadn’t accounted for the pulse ricocheting off the  inside of the atmosphere which multiplied the force of the pulse seventeen times. Within 0.133 seconds, this wave of electromagnetic energy engulfed the entire surface of the globe.
+
+As the invisible wave of the EMP raced across the globe, skylines instantly went dark and the world's technological infrastructure crumbled instantly. The dazzling screens that once commanded attention in every household turned into gaping black mirrors. Cars stalled on highways, their electronic brains fried. The crackle of electricity that had become the backdrop of modern life fell into an eerie silence — a silence soon filled with screams. It was anarchy.
 
 ## 1: Nothing is Fair in War
 
@@ -14,50 +22,100 @@ As the invisible wave of the EMP raced across the globe, skylines instantly went
 — Sherlock Holmes
 
 
-With the abrupt cessation of the technological symphony that had been the modern world, the landscape transformed. Once-proud skyscrapers, monuments to human achievement, now stood as silent skeletons of progress.
+“Stop the train.” Alan said as he stood up.
 
-A century later, the world had changed. Contrary to visions of aliens, spaceships, and teleportation, the world was not so bizarre; it was dangerous. 
+The technological symphony had come to an abrupt end. But when it finally began again, it sung a harsher tune.
 
-The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy, and the weak struggled without hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare and power was the ultimate currency.
+A century later, the world had changed. Contrary to visions of aliens, spaceships, and teleportation, the world was not so bizarre as it was dangerous. Alan wasn’t the only one wearing armor.
 
-However, an unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades. Depending on the size and variety, these shields could deflect up to full-blown tank shells, metal or otherwise. The edges, or more technically, destructive magnetic fields, could tear through sheet metal. However, when brought to bear in hand-to-hand combat, each blade counteracted the other. Fights like these were a matter of life or death.
+The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy; the weak struggled without hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare and power was the ultimate currency.
+
+However, an unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades reverted all combat to hand-to-hand. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The edges, or more technically, destructive magnetic fields bound to blades, could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. Fights like these were a matter of life or death.
 
 And there were fights everywhere. Even in Novar, the capital of the most prosperous and peaceful region west of the war zone, the clustered streets had to be inundated with military-grade surveillance drones to keep the diverse visitors from murdering each other for their possessions or, worse, because of their precious political affiliations.
 
 And during Novar’s annual festival, things reached a feverish mayhem. Foreigners and miscreants invaded the city.
 
-But when the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. The branding was intense: the words “The Fate” were inscribed over every arch and painted in diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
+But when the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
 
-These weren’t slave fights or battles to the death; this event was decent — and strictly non-partisan. Though the policy of Marcus Kane forbade any political violence (murder most definitely included), none were secure against a political kamikaze assassin.
+These weren’t slave fights or battles to the death; this event was decent — and strictly non-partisan. Though the policy of Marcus Kane forbade any political violence (murder most definitely included), few were secure against a political kamikaze assassin. Marcus Kane was one of those people.
 
 Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning trains from their different origins never paused. They never stopped — bar bombing.
 
-In one lightning train in the 11th car, an unnoticeable man around twenty years old sat in the far corner. Vambraces and greaves of a dark, brushed metal were on his forearms and shins, while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. His name was Alan. Not that anyone else knew it yet. 
+So there Alan was… in a lightning train in the 11th car, cruising at 310 miles an hour. Vambraces, greaves, and Gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
 
-An attendant in a dark blue uniform and jacket sat at the front of the train car. The uniform and jacket were without adornment — or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding, the device of Novar's governor, Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
+“I said stop the train.” Alan began striding toward the car’s attendant.
 
-Without warning, Alan flung off his safety harness and stood up. 
+The attendant, wearing a dark blue uniform and jacket, sat at the front of the train car. Besides the name tag, the uniform and jacket were without adornment or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding, the device of Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
 
-"Stop the train," Alan commanded.
+"Please sit back down." The attendant replied with an air of resplendent condescension. Nevertheless, his hand moved to the hilt of his sword.
 
-"Please remain seated." The attendant replied in an unaffected manner, resting his hand on the hilt of his sword.
+Alan strode toward the attendant, his eyes fixed. 
 
-Alan strode toward the attendant, his eyes fixed on the attendant. "Let me make this easier. Press the emergency brake button in the compartment just above your left hand."
+"Let me make this easier… Press the emergency brake. There is a barricade on the tracks undetectable to this train’s magnetic visualizers." Although Alan’s language was precise, he spoke at a blistering pace.
 
-The attendant drew his sword saying "Stay back, or I'll have no choice."
+“And how can you ‘detect’ it?” The attendant’s voice was conveniently situated between doubtful and conciliatory.
 
-Alan drew no weapon but continued his confident stride.
+Alan reached the attendant speaking in his face. “According to article seventeen of the festival accords, travelers during are never obligated to share information about their technology.”
 
-As Alan drew near, the attendant's uniform transformed into geometrical armor. It was an artistic hologram of course, and any magnetic scan would have revealed the true surface of the attendant's chest. Individual multi-mode scanning units (thermal vision, magnetic vision, sonar vision) were ubiquitous.
+“Frankly sir, *I* am not obligated to interrupt this train’s service.” the attendant replied.
+
+“Michael, I’ve already tried to warn the conductor. We have about four minutes to impact and approximately two and a half to begin deceleration.”
+
+“How do you know my name?” The attendant said standing up.  
+
+Alan restrained his impulse to punch the man’s face off. *It would feel so good.*
+
+Instead Alan sighed saying, “Your name tag.”
+
+The attendant struggled through the confusion which was typical of people’s responses to Alan pointing out the obvious.
+
+But Alan had already decided on a course of action. He was not about to waste words on this moron.    
+
+He brought his open hands into a fighting stance, activating his gloves which began to glow a faint yellow with the light of their electromagnetic field set for deflect and stun.
+
+The attendant smiled, trying to assume Alan’s confidence.  
+
+The other passengers backed into their seats to avoid being hit by a stray blade. They weren’t particularly afraid… if the conductor couldn’t detect it, the obstacle didn’t exist. As for Alan, he didn’t stand a chance. All Kane’s soldiers were trained hardcore. Besides, the attendant was taller and appeared more muscular.
+
+Alan stepped forward and the attendant launched his sword out of its sheath swinging it in a wide diagonal arc that was sure to cut Alan’s torso open.  
+
+But Alan was long gone before the sword cut through the empty space before him. In a fraction of a second (around 300ms), Alan grabbed the attendant’s sword hilt as it began to swing the opposite direction, using his other hand to grab the base of the blade just above the handle. 
+
+Had Alan grabbed the blade without his protected gloves, his fingers would have been severed from his hand on contact.
+
+The attendant, now gripping the sword with two hands, swung the sword left and right with incredible violence.
+
+Alan held on. But instead of ripping the sword out of the attendant’s hand, he began walking forward, pushing the attendant toward the front of the carriage.  
+
+The more the attendant struggled to free his sword, the more stationary it became as if it had been divinely fixated to only move in one direction, forward.  
+
+Usually fights are accompanied by an excess of movement and sound, but the only thing to hear was the attendant’s grunting, the muted buzzing of the magnetic fields, and Alan’s measured footsteps, moving the attendant closer and closer to the front wall of the carriage. 
+
+After a few seconds of intense struggle, the attendant had an idea. 
+
+It couldn’t be called a stroke of genius. Alan had considered and accounted for that same revelation before he even left his seat.
+
+Because the fields protecting Alan’s hands operated at a lower energy level to maintain flexibility, any higher-energy field could destabilize their shields, possibly breaking through and delivering a dangerous electric shock.
+
+The attendant simply needed to increase the power to his sword. With a swift motion, he slid the input control on his hilt from 7 to 10 Tesla.
+
+This is what Alan was waiting for. In a near reflexive move, he jammed the sword blade into the magnetic lock holding the carriage door shut and stepped back.  
+
+The attendant yanked on the sword trying to pull the sword back out.
+
+The buzzing intensified, rising to a sharp, piercing pitch as sparks crackled, growing louder with each burst.
 
 
 
 
 
-###### other
 
-One lightning train sped on toward Novar, its few passengers a particularly no-nonsense, practical lot. There were merchants and salesmen looking to sell their products to the festival attendees. There were a variety of sketchy characters, including a rather serious man wearing a dirty brown cloak and a boy of about 15 years old who had heard (although a little later than his compatriots) that Novar was the place to be. A mother and her 10-year-old son completed the eclectic mix.
 
+
+
+# Other
+    One lightning train sped on toward Novar, its few passengers a particularly no-nonsense, practical lot. There were merchants and salesmen looking to sell their products to the festival attendees. There were a variety of sketchy characters, including a rather serious man wearing a dirty brown cloak and a boy of about 15 years old who had heard (although a little later than his compatriots) that Novar was the place to be. A mother and her 10-year-old son completed the eclectic mix.
 An attendant in a dark blue uniform and jacket traversed the train’s passage, diligently ensuring  everyone was seated. The uniform and jacket were without adornment — or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding. The symbol was a [blank], the insignia of Novar's governor, Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
 
 
@@ -144,3 +202,14 @@ Life was dangerous. Despite the presence of police drones patrolling both countr
 It's like a bubble
 
 error binary 
+
+With the abrupt cessation of the technological symphony that had been the modern world, the landscape transformed. Once-proud skyscrapers, monuments to human achievement, now stood as silent skeletons of progress.
+
+
+
+The attendant drew his sword saying "Stay back, or I'll have no choice."
+
+Alan drew no weapon but continued his confident stride.
+
+As Alan drew near, the attendant's uniform transformed into geometrical armor. It was an artistic hologram of course, and any magnetic scan would have revealed the true surface of the attendant's chest. Individual multi-mode scanning units (thermal vision, magnetic vision, sonar vision) were ubiquitous.
+</div>

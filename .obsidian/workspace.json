@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Set Free Lesson 1"
             }
           },
           {
@@ -30,7 +32,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Shakespeare Essay Assignment"
             }
           },
           {
@@ -43,7 +47,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Set Free Lesson 2"
             }
           },
           {
@@ -52,15 +58,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Logic/Exercise 17a.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Exercise 17a"
+            }
+          },
+          {
+            "id": "d84e143d1ff71f98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set Free Lesson 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set Free Lesson 3"
+            }
+          },
+          {
+            "id": "f176f95c31aca2bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
+            }
+          },
+          {
+            "id": "4be82d1f724f4785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/While i'm running.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "While i'm running"
+            }
+          },
+          {
+            "id": "3f1c263c11bc216d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Story.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Story"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -80,7 +148,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -89,13 +159,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -103,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -126,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Story/Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +208,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Story"
             }
           },
           {
@@ -143,10 +219,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Story/Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Story"
             }
           },
           {
@@ -157,7 +235,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -166,8 +246,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 3.md"
-              }
+                "file": "Story/Story.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Story"
             }
           },
           {
@@ -175,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -183,15 +267,9 @@
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "fc1d41198e7beb13",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -199,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,12 +292,21 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "38a5268009342d52",
+  "active": "3f1c263c11bc216d",
   "lastOpenFiles": [
-    "Set Free Lesson 2.md",
-    "Untitled 3.md",
-    "Shakespeare Essay Assignment.md",
+    "Personal/2024 09 07 Screencast Review.md",
+    "Untitled 5.md",
+    "inbox/While i'm running.md",
+    "Set Free Lesson 4.md",
+    "inbox",
     "Personal/Set Free Lesson 1.md",
+    "Untitled 4.md",
+    "Set Free Lesson 3.md",
+    "Logic/Exercise 17a.md",
+    "Shakespeare Final Test Essay.md",
+    "Untitled 3.md",
+    "Set Free Lesson 2.md",
+    "Shakespeare Essay Assignment.md",
     "Personal/Set Free Lesson 1 copy.md",
     "25 Questions on Shakespeare.md",
     "Other/Message.md",
@@ -235,13 +321,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "The Merchant of Venice – Shylock Act 3, Scene 1.md",
-    "Brevity is the Soul of Wit.md",
-    "Daily Note/2024-08-06.md",
-    "Daily Note/2024-08-04.md",
-    "Daily Note/2024-08-03.md",
-    "Daily Note/2024-08-02.md",
-    "Shakespeare SB/Merchant of Venice.md",
-    "Story/Story.md",
     "Shakespeare SB",
     "copilot-conversations",
     "Logic",
@@ -255,7 +334,6 @@
     "Experiments/Untitled.canvas",
     "Experiments/Mindmap.canvas",
     "Other",
-    "Daily Note",
-    "Story"
+    "Daily Note"
   ]
 }

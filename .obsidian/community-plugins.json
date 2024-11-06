@@ -1,7 +1,5 @@
 [
-  "obsidian-git",
   "copilot",
-  "lovely-mindmap",
-  "obsidian-version-history-diff",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-git"
 ]
