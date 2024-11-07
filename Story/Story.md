@@ -58,7 +58,7 @@ Alan sighed, resisting the urge to clench his fists and jaw. “That’s what un
 
 “But if the monitors don’t say it’s there, then it’s not there… No system can mask the magnetic resonance of physical objects.”
 
-“Your reasoning is all wrong: I said the barricade is there. That means this train’s monitors can’t see it. Subsequently, masking magnetic resonance exists.” *Three and a half minutes now.*
+“Your reasoning is all wrong: I said the barricade is there. That means this train’s monitors can’t see it. Subsequently, magnetic resonance masking exists.” *Three and a half minutes now.*
 
 “Look, I couldn’t help you even if I wanted to.”
 
