@@ -118,7 +118,7 @@ Alan, using the attendant’s moment of slack jawed amazement, kicked him in the
 
 Alan positioned himself beside the door, bracing his hands against the right panel. When he kicked the door open, the sudden rush would pull him out — and he’d be ready, gripping the edge of the train to keep from being thrown into the blur.
 
-Alan kicked the door open, triggering a sudden pressure drop. The ears of every passenger popped in unison, including the attendant’s, who sat stunned, reeling from the sudden assault on his senses and sense of self-worth.
+Alan kicked the door open, triggering a sudden pressure drop. The ears of every passenger popped in unison, including the attendant’s, who sat stunned, reeling from the sudden assault on his senses.
 
 
 
