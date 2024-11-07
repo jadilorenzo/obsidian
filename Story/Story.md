@@ -50,7 +50,7 @@ The attendant, wearing a dark blue uniform and jacket, sat at the front of the t
 
 "What is it?" The attendant replied quickly.
 
-“There is a barricade on the tracks undetectable to this train’s magnetic visualizers and invisible to the human eye, approaching at the speed of 310 miles an hour. We have about four minutes till impact." Although Alan’s language was precise, he spoke through his mask at a blistering pace with perfect clarity.
+“There is a barricade on the tracks undetectable to this train’s magnetic visualizers and invisible to the human eye, approaching at the speed of 500 kilometers an hour. We have about four minutes till impact." Although Alan’s language was precise, he spoke through his mask at a blistering pace with perfect clarity.
 
 “Then, why can’t the conductor see it on the monitors?” the attendant said.
 
