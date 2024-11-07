@@ -112,6 +112,11 @@ The attendant yanked on the sword trying to pull the sword back out.
 
 The buzzing intensified, rising to a sharp, piercing pitch as sparks crackled, growing louder with each burst.
 
+Bam! The magnetic lock busted, shooting the sword across the carriage making a dent in the over-engineered alloy that made up the body of the carriage.
+
+Alan, using the attendant’s moment of slack jawed amazement, kicked him in the chest to get him away from the door. He wanted to kick him harder, but held back, barely knocking him off his balance. 
+
+Alan moved toward the door
 
 
 
