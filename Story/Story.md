@@ -50,7 +50,7 @@ The attendant, wearing a dark blue uniform and jacket, sat at the front of the t
 
 "What is it?" The attendant replied quickly.
 
-“There is a barricade on the tracks undetectable to this train’s magnetic visualizers and invisible to the human eye, approaching at the speed of 500 kilometers an hour. We have about four minutes till impact." Although Alan’s language was precise, he spoke through his mask at a blistering pace with perfect clarity.
+“There is a barricade on the tracks undetectable to this train’s magnetic visualizers and invisible to the human eye, closing in at the speed of 500 kilometers an hour. We have about four minutes till impact." Although Alan’s language was precise, he spoke through his mask at a blistering pace with perfect clarity.
 
 “Then, why can’t the conductor see it on the monitors?” the attendant said.
 
@@ -76,7 +76,7 @@ The attendant struggled through the confusion typical of the response to Alan po
 
 *I don’t have time for this.*
 
-He brought his open hands into a fighting stance, activating his gloves which began to glow a faint yellow with the light of their electromagnetic field set for deflect and stun.
+Alan brought his open hands into a fighting stance, activating his gloves which began to glow a faint yellow with the light of their electromagnetic field set for deflect and stun.
 
 The attendant reached for his sword.
 
@@ -104,7 +104,7 @@ Because the fields protecting Alan’s hands operated at a lower energy level to
 
 The attendant simply needed to increase the power to his sword. With a swift motion, he slid the input control on his hilt from 7 to 10 Tesla (a unit of magnetic density).
 
-This is what Alan was waiting for. In a near reflexive move, he jammed the sword blade into the magnetic lock holding the carriage door shut and stepped back.  
+This is what Alan was waiting for. In a near reflexive move, he jammed the sword blade into the magnetic lock holding the right carriage door shut and stepped back.  
 
 The attendant yanked on the sword trying to pull the sword back out.
 
@@ -112,11 +112,14 @@ The attendant yanked on the sword trying to pull the sword back out.
 
 The buzzing intensified, rising to a sharp, piercing pitch as sparks crackled, growing louder with each burst.
 
-Bam! The magnetic lock busted, shooting the sword across the carriage making a dent in the over-engineered alloy that made up the body of the carriage.
+Bam! The magnetic lock busted, shooting the sword across the carriage, the hilt making a dent in the over-engineered alloy that made up the body of the carriage.
 
-Alan, using the attendant’s moment of slack jawed amazement, kicked him in the chest to get him away from the door. He wanted to kick him harder, but held back, barely knocking him off his balance. 
+Alan, using the attendant’s moment of slack jawed amazement, kicked him in the chest to get him away from the door. He wanted to kick him harder, but held back, only knocking him off his balance. 
 
-Alan moved toward the door
+Alan positioned himself beside the door, bracing his hands against the right panel. When he kicked the door open, the sudden rush would pull him out — and he’d be ready, gripping the edge of the train to keep from being thrown into the blur.
+
+Alan kicked the door open, triggering a sudden pressure drop. The ears of every passenger popped in unison, including the attendant’s, who sat stunned, reeling from the sudden assault on his senses and sense of self-worth.
+
 
 
 
