@@ -42,39 +42,43 @@ These weren’t slave fights or battles to the death; this event was decent — 
 
 Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning trains from their different origins never paused. They never stopped — bar bombing.
 
-So there Alan was… in a lightning train in the 11th car, cruising at 310 miles an hour. Vambraces, greaves, and Gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
+So there Alan was… in a lightning train in the 11th car, cruising at 310 miles an hour. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
 
-“I said stop the train.” Alan began striding toward the car’s attendant.
+“I said stop the train.” *There’s not much time for this.* Alan began striding toward the car’s attendant.
 
 The attendant, wearing a dark blue uniform and jacket, sat at the front of the train car. Besides the name tag, the uniform and jacket were without adornment or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding, the device of Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
 
-"Please sit back down." The attendant replied with an air of resplendent condescension. Nevertheless, his hand moved to the hilt of his sword.
+"What is it?" The attendant replied quickly.
 
-Alan strode toward the attendant, his eyes fixed. 
+“There is a barricade on the tracks undetectable to this train’s magnetic visualizers and invisible to the human eye, approaching at the speed of 310 miles an hour. We have about four minutes till impact." Although Alan’s language was precise, he spoke through his mask at a blistering pace with perfect clarity.
 
-"Let me make this easier… Press the emergency brake. There is a barricade on the tracks undetectable to this train’s magnetic visualizers." Although Alan’s language was precise, he spoke at a blistering pace.
+“Then, why can’t the conductor see it on the monitors?” the attendant said.
 
-“And how can you ‘detect’ it?” The attendant’s voice was conveniently situated between doubtful and conciliatory.
+Alan sighed, resisting the urge to clench his fists and jaw. “That’s what un-de-tect-a-ble means.”
 
-Alan reached the attendant speaking in his face. “According to article seventeen of the festival accords, travelers during are never obligated to share information about their technology.”
+“But if the monitors don’t say it’s there, then it’s not there… No system can mask the magnetic resonance of physical objects.”
 
-“Frankly sir, *I* am not obligated to interrupt this train’s service.” the attendant replied.
+“Your reasoning is all wrong: I said the barricade is there. That means this train’s monitors can’t see it. Subsequently, masking magnetic resonance exists.” *Three and a half minutes now.*
 
-“Michael, I’ve already tried to warn the conductor. We have about four minutes to impact and approximately two and a half to begin deceleration.”
+“Look, I couldn’t help you even if I wanted to.”
 
-“How do you know my name?” The attendant said standing up.  
+Alan hated the way people used that condescending “Look, …” It was straight code for “You’re the problem and I’m trying to be nice.”
 
-Alan restrained his impulse to punch the man’s face off. *It would feel so good.*
+“That’s demonstrably false. Why else do you have an emergency brake in that compartment?” Alan said getting in the attendants face and pointing to a small compartment beside the attendant’s seat which was positioned opposite the carriage’s door.
 
-Instead Alan sighed saying, “Your name tag.”
+“Michael, I’ve already tried to warn the conductor. We approximately two and a half minutes to begin deceleration.”
 
-The attendant struggled through the confusion which was typical of people’s responses to Alan pointing out the obvious.
+“How do you know my name?”
 
-But Alan had already decided on a course of action. He was not about to waste words on this moron.    
+Alan restrained his impulse to punch the man’s face off.  “Your name tag.”
+
+The attendant struggled through the confusion typical of the response to Alan pointing out the obvious.
+
+*I don’t have time for this.*
 
 He brought his open hands into a fighting stance, activating his gloves which began to glow a faint yellow with the light of their electromagnetic field set for deflect and stun.
 
-The attendant smiled, trying to assume Alan’s confidence.  
+The attendant reached for his sword.
 
 The other passengers backed into their seats to avoid being hit by a stray blade. They weren’t particularly afraid… if the conductor couldn’t detect it, the obstacle didn’t exist. As for Alan, he didn’t stand a chance. All Kane’s soldiers were trained hardcore. Besides, the attendant was taller and appeared more muscular.
 
@@ -88,9 +92,9 @@ The attendant, now gripping the sword with two hands, swung the sword left and r
 
 Alan held on. But instead of ripping the sword out of the attendant’s hand, he began walking forward, pushing the attendant toward the front of the carriage.  
 
-The more the attendant struggled to free his sword, the more stationary it became as if it had been divinely fixated to only move in one direction, forward.  
+The more the attendant struggled to free his sword, the more stationary it became as if it had been divinely fixated to only move in one direction, forward. Alan’s eyes met the attendant’s with a cold calibration. His face would have been unreadable even if the lower half hadn’t been concealed.
 
-Usually fights are accompanied by an excess of movement and sound, but the only thing to hear was the attendant’s grunting, the muted buzzing of the magnetic fields, and Alan’s measured footsteps, moving the attendant closer and closer to the front wall of the carriage. 
+Usually fights are accompanied by an excess of movement and sound, but the only thing to hear was the attendant’s accelerated breathing, the muted buzzing of the magnetic fields, and Alan’s measured footsteps, moving the attendant closer and closer to the front wall of the carriage. 
 
 After a few seconds of intense struggle, the attendant had an idea. 
 
@@ -103,6 +107,8 @@ The attendant simply needed to increase the power to his sword. With a swift mot
 This is what Alan was waiting for. In a near reflexive move, he jammed the sword blade into the magnetic lock holding the carriage door shut and stepped back.  
 
 The attendant yanked on the sword trying to pull the sword back out.
+
+*120 seconds now.*
 
 The buzzing intensified, rising to a sharp, piercing pitch as sparks crackled, growing louder with each burst.
 
