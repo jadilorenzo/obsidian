@@ -36,7 +36,7 @@ And there were fights everywhere. Even in Novar, the capital of the most prosper
 
 And during Novar’s annual festival, things reached a feverish mayhem. Foreigners and miscreants invaded the city.
 
-But when the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
+But when the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. ==WHAT IS THE STADIUM LIKE== The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
 
 These weren’t slave fights or battles to the death; this event was decent — and strictly non-partisan. Though the policy of Marcus Kane forbade any political violence (murder most definitely included), few were secure against a political kamikaze assassin. Marcus Kane was one of those people.
 
@@ -84,7 +84,7 @@ The other passengers backed into their seats to avoid being hit by a stray blade
 
 Alan stepped forward and the attendant launched his sword out of its sheath swinging it in a wide diagonal arc that was sure to cut Alan’s torso open.  
 
-But Alan was long gone before the sword cut through the empty space before him. In a fraction of a second (around 300ms), Alan grabbed the attendant’s sword hilt as it began to swing the opposite direction, using his other hand to grab the base of the blade just above the handle. 
+But Alan was long gone before the sword cut through the empty space before him. In a fraction of a second, Alan grabbed the attendant’s sword hilt as it began to swing the opposite direction, using his other hand to grab the base of the blade just above the handle. 
 
 Had Alan grabbed the blade without his protected gloves, his fingers would have been severed from his hand on contact.
 
@@ -102,7 +102,7 @@ It couldn’t be called a stroke of genius. Alan had considered and accounted fo
 
 Because the fields protecting Alan’s hands operated at a lower energy level to maintain flexibility, any higher-energy field could destabilize their shields, possibly breaking through and delivering a dangerous electric shock.
 
-The attendant simply needed to increase the power to his sword. With a swift motion, he slid the input control on his hilt from 7 to 10 Tesla.
+The attendant simply needed to increase the power to his sword. With a swift motion, he slid the input control on his hilt from 7 to 10 Tesla (a unit of magnetic density).
 
 This is what Alan was waiting for. In a near reflexive move, he jammed the sword blade into the magnetic lock holding the carriage door shut and stepped back.  
 
