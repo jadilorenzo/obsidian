@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -277,7 +278,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,6 +296,7 @@
   },
   "active": "3f1c263c11bc216d",
   "lastOpenFiles": [
+    "Story/Untitled-1.md",
     "Personal/2024 09 07 Screencast Review.md",
     "Untitled 5.md",
     "inbox/While i'm running.md",
@@ -320,7 +323,6 @@
     "Where are you now... Francis!.md",
     "Untitled 1.md",
     "Untitled.md",
-    "The Merchant of Venice – Shylock Act 3, Scene 1.md",
     "Shakespeare SB",
     "copilot-conversations",
     "Logic",
