@@ -21,6 +21,16 @@
               "icon": "lucide-file",
               "title": "Story"
             }
+          },
+          {
+            "id": "675c6cbae28e43c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -152,6 +162,7 @@
   },
   "active": "8f4b1a0f87c515af",
   "lastOpenFiles": [
+    "Story/Story.md",
     "Where are you now... Francis!.md",
     "Set Free Lesson 2.md",
     "Set Free.md",
@@ -160,7 +171,6 @@
     "Follow-up On Schedule Adjustments.md",
     "Untitled 5.md",
     "Untitled.md",
-    "Daily Note/2024-08-14.md",
-    "Story/Story.md"
+    "Daily Note/2024-08-14.md"
   ]
 }
