@@ -6,15 +6,15 @@ Etched on the ship's side, just below its name, was the vessel's motto: "Cras Mo
 
 Anarchy wasn’t a revolution; it was a bomb. The NEMESIS was the spark.
 
-EMPs have the capacity to violently overload circuitry by causing voltage spikes that fry both capacitors and the now unprotected components. Frying the central nervous system of the western hemisphere should do the trick.
+EMPs have the capacity to violently overload circuitry by causing voltage spikes that fry both capacitors and the now unprotected components. Frying the central nervous system of the western hemisphere would do the trick.
 
 Near silent anticipation filled the air as the crew prepared to witness the initiation of that bomb anarchy. At precisely 9:59:59 AM, the EMP weapon unleashed its devastating power.
 
 But there had been a slight miscalculation.
 
-The engineers of this weapon hadn’t accounted for the pulse ricocheting off the inside of the atmosphere which multiplied the force of the pulse seventeen times. Within 0.133 seconds, this wave of electromagnetic energy engulfed the entire surface of the globe.
+The engineers of this weapon hadn’t accounted for the pulse ricocheting off the inside of the atmosphere which multiplied the force of the pulse over seventeen times. Within 0.133 seconds, this wave of electromagnetic energy engulfed the entire surface of the globe.
 
-As the invisible wave of the EMP raced across the globe, skylines instantly went dark and the world's technological infrastructure crumbled instantly. The dazzling screens that once commanded attention in every household turned into gaping black mirrors. Cars stalled on highways, their electronic brains fried. The crackle of electricity that had become the backdrop of modern life fell into an eerie silence — a silence soon filled with screams. It was anarchy.
+As the invisible wave of the EMP raced across the globe, skylines instantly went dark and the world's technological infrastructure crumbled instantly. The dazzling screens that once commanded attention in every household turned into gaping black mirrors. Cars stalled on highways, their electronic brains fried. The crackle of electricity that had become the backdrop of modern life fell into an eerie silence — a silence soon filled with screams.
 
 ## 1: Nothing is Fair in War
 
@@ -27,9 +27,9 @@ The technological symphony had come to an abrupt end. But when it finally began 
 
 A century later, the world had changed. Contrary to visions of aliens, spaceships, and teleportation, the world was not so bizarre as it was dangerous. Alan wasn’t the only one wearing armor.
 
-The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy; the weak struggled without hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare and power was the ultimate currency.
+The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy; the weak struggled without hope —hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare.
 
-However, an unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades reverted all combat to hand-to-hand. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The edges, or more technically, destructive magnetic fields bound to blades, could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. Fights like these were a matter of life or death.
+However, an unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades reverted all combat to hand-to-hand. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The edges, or more technically, destructive magnetic fields bound to blades, could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. These fights were a matter of life or death.
 
 And there were fights everywhere. Even in Novar, the capital of the most prosperous and peaceful region west of the war zone, the clustered streets had to be inundated with military-grade surveillance drones to keep the diverse visitors from murdering each other for their possessions or, worse, because of their precious political affiliations.
 
@@ -37,19 +37,19 @@ And during Novar’s annual festival, things reached a feverish mayhem. Foreigne
 
 But when the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. ==WHAT IS THE STADIUM LIKE== The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
 
-These weren’t slave fights or battles to the death; this event was decent — and strictly non-partisan. Though the policy of Marcus Kane forbade any political violence (murder most definitely included), few were secure against a political kamikaze assassin. Marcus Kane was one of those people.
+These weren’t slave fights or battles to the death; this event was decent — and strictly non-partisan. Though the policy of Governor Marcus Kane forbade any political violence (murder most definitely included), few were secure against a political kamikaze assassin. Marcus Kane was one of those people.
 
-Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning trains from their different origins never paused. They never stopped — bar bombing.
+Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning hover trains from their different origins never paused. They never stopped — bar bombing.
 
-So there Alan was… in a lightning train in the 11th car, cruising at 310 miles an hour. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
+So there Alan was… in a lightning train in the 11th car, cruising at  500 kilometers an hour. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
 
 “I said stop the train.” *There’s not much time for this.* Alan began striding toward the car’s attendant.
 
-The attendant, wearing a dark blue uniform and jacket, sat at the front of the train car. Besides the name tag, the uniform and jacket were without adornment or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding, the device of Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
+The attendant, wearing a dark blue uniform and jacket, sat at the front of the train car. Besides the name tag, the uniform and jacket were without adornment or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding, the device of Governor Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
 
-"What is it?" The attendant replied quickly.
+"What is it?" The attendant replied.
 
-“There is a barricade on the tracks undetectable to this train’s magnetic visualizers and invisible to the human eye, closing in at the speed of 500 kilometers an hour. We have about four minutes till impact." Although Alan’s language was precise, he spoke through his mask at a blistering pace with perfect clarity.
+“There is a barricade on the tracks undetectable to this train’s magnetic visualizers and invisible to the human eye, getting closer at the speed of 500 kilometers an hour. We have about four minutes till impact." Although Alan’s language was precise, he spoke through his mask at a blistering pace with perfect clarity.
 
 “Then, why can’t the conductor see it on the monitors?” the attendant said.
 
@@ -57,15 +57,15 @@ Alan sighed, resisting the urge to clench his fists and jaw. “That’s what un
 
 “But if the monitors don’t say it’s there, then it’s not there… No system can mask the magnetic resonance of physical objects.”
 
-“Your reasoning is all wrong: I said the barricade is there. That means this train’s monitors can’t see it. Subsequently, magnetic resonance masking exists.” *Three and a half minutes now.*
+“Your reasoning is all wrong,” Alan said, gesturing with his hands to emphasize his train of thought. “I’m telling you the barricade is there, which means the train’s monitors can’t detect it. So clearly, masking magnetic resonance is possible.”*Three and a half minutes now.*
 
 “Look, I couldn’t help you even if I wanted to.”
 
 Alan hated the way people used that condescending “Look, …” It was straight code for “You’re the problem and I’m trying to be nice.”
 
-“That’s demonstrably false. Why else do you have an emergency brake in that compartment?” Alan said getting in the attendants face and pointing to a small compartment beside the attendant’s seat which was positioned opposite the carriage’s door.
+“That’s demonstrably false. Why else do you have a console with access to an emergency brake in that compartment?” Alan said getting in the attendants face and pointing to a small compartment beside the attendant’s seat which was positioned opposite the carriage’s door. *There’s no way I can hack that in time.*
 
-“Michael, I’ve already tried to warn the conductor. We approximately two and a half minutes to begin deceleration.”
+“Michael,” Alan said, “I’ve already tried to warn the conductor. We approximately two and a half minutes to begin deceleration.”
 
 “How do you know my name?”
 
@@ -73,13 +73,13 @@ Alan restrained his impulse to punch the man’s face off. “Your name tag.”
 
 The attendant struggled through the confusion typical of the response to Alan pointing out the obvious.
 
-*I don’t have time for this if I intend to keep everyone’s spine intact.*
+*I don’t have time for this if I intend to keep everyone’s spine in tact.*
 
-Alan brought his open hands into a fighting stance, activating his gloves which began to glow a faint yellow with the light of their electromagnetic field set for deflect and stun. His jaw was set. *I’m not messing up this time.*
+Alan brought his open hands into a fighting stance, activating his gloves which began to glow a faint yellow with the light of their electromagnetic field set for deflect and stun. His jaw was set. *I’m not messing up.*
 
 The attendant reached for his sword.
 
-The other passengers backed into their seats to avoid being hit by a stray blade. They weren’t particularly afraid… if the conductor couldn’t detect it, the obstacle didn’t exist. As for Alan, he didn’t stand a chance. All Kane’s soldiers were trained hardcore. Besides, the attendant was taller and appeared more muscular.
+The other passengers backed into their seats to avoid being hit by a stray blade. They weren’t particularly afraid… if the conductor couldn’t detect it, the obstacle didn’t exist. As for Alan, he didn’t stand a chance. All Kane’s soldiers were trained hardcore. Besides, the attendant was bigger than Alan.
 
 Alan stepped forward and the attendant launched his sword out of its sheath swinging it in a wide diagonal arc that was sure to cut Alan’s torso open.
 
@@ -121,21 +121,21 @@ Alan kicked the door open, triggering a sudden pressure drop. The ears of every 
 
 Alan’s vambraces latched onto the side of the train and his greaves followed suit, positioning him parallel to the tracks.
 
-Alan was no stranger to catastrophe, not in the world he’d grown up in. But typically, he wasn’t running late. The most important man in this hemisphere wasn’t supposed to be in mortal danger. Yet here Alan was, clinging to the side of a speeding train, wind battering against him as he edged his way toward the hardware panel at the back.
+Alan was no stranger to catastrophe, not in the world he’d grown up in. But typically, he wasn’t running late. The most important man in this hemisphere wasn’t supposed to be in mortal danger. Yet here Alan was, clinging to the side of a speeding train, wind battering against him as he crawled his way toward the hardware panel at the back.
 
-Alan received an alert on his monitor. What the attendant called “monitors” were actually state-of-the-art holographic overlays, projected directly into the user’s line of sight. In Alan’s case, the display hovered mere millimeters from his eyes. These passive holograms emitted no noticeable glow, blending seamlessly into his vision and presenting information as if it were naturally part of his surroundings.
+Alan received an alert on his monitor. What the attendant called “monitors” were actually state-of-the-art holographic overlays, projected directly into the user’s line of sight. In Alan’s case, the display hovered mere millimeters from his eyes. These passive holograms emitted no noticeable glow, blending seamlessly into his vision and presenting information as if it were a natural part of his surroundings.
 
-Alan looked up toward the front of the carriage just in time to see through the side of the carriage the attendant preparing the kick the door open himself.
+Alan looked up toward the front of the carriage just in time to see — through the side of the carriage — the attendant preparing the kick the door open himself.
 
 *What is this? See one do one? Idiot.*
 
 Alan scrambled on all fours horizontally along the side of the train, his boots, hands, and greaves all detaching and latching from the side of the train in perfect sync. Wall climbing doesn't reorient gravity. Although he was fixed to the side of train, gravity still pulled him toward the ground which blurred past him.
 
-Alan braced himself for the attendant’s imminent ejection into empty space. _Did getting shot out of a train going nearly the speed of light seem attractive to you?_ he thought dryly.
+Alan braced himself for the attendant’s imminent ejection into empty space. _Did getting shot out of a train going the speed of light seem attractive to you?_ he thought dryly.
 
-The moment the attendant kicked the door open, the violent pressure change yanked him off his feet and threw him out. Alan caught him by the collar and the wind flattened them 
+The moment the attendant kicked the door open, the violent pressure change yanked him off his feet and threw him out. Alan caught him by the collar, the wind flattening them both against the side of the train.
 
-Alan, anticipating this, lunged forward and caught the man by his collar with one arm. With a swift motion, he clipped the attendant’s belt to a magnetic latch on the train’s side, securing him in place. Alan now had both hands free.
+Alan needed both hands free to pry the door open against the crushing force of the wind. 
 
 
 
