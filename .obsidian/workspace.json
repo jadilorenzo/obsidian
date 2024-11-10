@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1s",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -296,10 +295,11 @@
   },
   "active": "3f1c263c11bc216d",
   "lastOpenFiles": [
+    "inbox/While i'm running.md",
+    "Story/Story.md",
     "Story/Untitled-1.md",
     "Personal/2024 09 07 Screencast Review.md",
     "Untitled 5.md",
-    "inbox/While i'm running.md",
     "Set Free Lesson 4.md",
     "inbox",
     "Personal/Set Free Lesson 1.md",
@@ -322,7 +322,6 @@
     "The Taming of the Shrew Review Questions.md",
     "Where are you now... Francis!.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Shakespeare SB",
     "copilot-conversations",
     "Logic",

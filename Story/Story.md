@@ -43,7 +43,7 @@ Traffic into Novar leading up to the third and final day of The Fate’s tournam
 
 So there Alan was… in a lightning train in the 11th car, cruising at 310 miles an hour. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
 
-“I said stop the train.” _There’s not much time for this._ Alan began striding toward the car’s attendant.
+“I said stop the train.” *There’s not much time for this.* Alan began striding toward the car’s attendant.
 
 The attendant, wearing a dark blue uniform and jacket, sat at the front of the train car. Besides the name tag, the uniform and jacket were without adornment or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding, the device of Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
 
@@ -57,7 +57,7 @@ Alan sighed, resisting the urge to clench his fists and jaw. “That’s what un
 
 “But if the monitors don’t say it’s there, then it’s not there… No system can mask the magnetic resonance of physical objects.”
 
-“Your reasoning is all wrong: I said the barricade is there. That means this train’s monitors can’t see it. Subsequently, magnetic resonance masking exists.” _Three and a half minutes now._
+“Your reasoning is all wrong: I said the barricade is there. That means this train’s monitors can’t see it. Subsequently, magnetic resonance masking exists.” *Three and a half minutes now.*
 
 “Look, I couldn’t help you even if I wanted to.”
 
@@ -73,7 +73,7 @@ Alan restrained his impulse to punch the man’s face off. “Your name tag.”
 
 The attendant struggled through the confusion typical of the response to Alan pointing out the obvious.
 
-_I don’t have time for this if I intend to keep everyone’s spine intact._
+*I don’t have time for this if I intend to keep everyone’s spine intact.*
 
 Alan brought his open hands into a fighting stance, activating his gloves which began to glow a faint yellow with the light of their electromagnetic field set for deflect and stun. His jaw was set. *I’m not messing up this time.*
 
@@ -91,7 +91,7 @@ The attendant, now gripping the sword with two hands, swung the sword left and r
 
 Alan held on. But instead of ripping the sword out of the attendant’s hand, he began walking forward, pushing the attendant toward the front of the carriage.
 
-The more the attendant struggled to free his sword, the more stationary it became as if it had been divinely fixated to only move in one direction, forward. Alan’s eyes met the attendant’s with a cold calibration. His face would have been unreadable even if the lower half hadn’t been concealed.
+The more the attendant struggled to free his sword, the more stationary it became as if it had been divinely fixated to only move in one direction, forward. Alan’s eyes met the attendant’s with a cold calibration. His face would have been unreadable even if the lower half hadn’t been concealed by a mask.
 
 Usually fights are accompanied by an excess of movement and sound, but the only thing to hear was the attendant’s accelerated breathing, the muted buzzing of the magnetic fields, and Alan’s measured footsteps, moving the attendant closer and closer to the front wall of the carriage.
 
@@ -107,7 +107,7 @@ This is what Alan was waiting for. In a near reflexive move, he jammed the sword
 
 The attendant yanked on the sword trying to pull the sword back out.
 
-_120 seconds now._
+*120 seconds now.*
 
 The buzzing intensified, rising to a sharp, piercing pitch as sparks crackled, growing louder with each burst.
 
@@ -129,9 +129,43 @@ Alan looked up toward the front of the carriage just in time to see through the 
 
 *What is this? See one do one? Idiot.*
 
-Alan scrambled on all fours horizontally along the side of the train, his boots, hands, and greaves all detaching and latching from the side of the train in perfect sync. Although he was fixed to the side of train, gravity still pulled him toward the ground which blurred past him.
+Alan scrambled on all fours horizontally along the side of the train, his boots, hands, and greaves all detaching and latching from the side of the train in perfect sync. Wall climbing doesn't reorient gravity. Although he was fixed to the side of train, gravity still pulled him toward the ground which blurred past him.
 
-Alan prepared for the attendant’s immediate ejection into empty space. *Did something about get shot out of a train going the speed of light seem attractive to you?*
+Alan braced himself for the attendant’s imminent ejection into empty space. _Did getting shot out of a train going nearly the speed of light seem attractive to you?_ he thought dryly.
+
+The moment the attendant kicked the door open, the violent pressure change yanked him off his feet and threw him out. Alan caught him by the collar and the wind flattened them 
+
+Alan, anticipating this, lunged forward and caught the man by his collar with one arm. With a swift motion, he clipped the attendant’s belt to a magnetic latch on the train’s side, securing him in place. Alan now had both hands free.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Positioning himself perpendicular to the ground, he pressed his body flat against the train’s side, the roaring wind battering against him. He moved towards the sealed emergency exit door, his eyes locking onto a piece of exposed pipe.
+
+  
+
+Without hesitation, he pulled out a section of what appeared to be a metal pipe from his back — the true form of this tool wouldn’t be clear just yet. He latched the pipe onto the sealed door’s edge, prying it open with a hard twist. The heavy door groaned, then snapped open with a sharp hiss.
+
+  
+
+He shoved the dazed attendant into the safety of the carriage, slamming the door shut behind him. Alan glanced at his overlay monitor: 60 seconds left. He cursed under his breath. That was far from enough time to make it back to the rear control panel and decelerate the train.
+
+Alan catches the attendant with one arm and attaches the attendants belt to the train so alan can have both hands available
+positions himself perpendicular to the ground
+Moves toward the sealed door (from the wind)
+Grabs a section of pipe (part of his staff but we don't that that yet)
+latches it onto the sealed door
+Pries it open and then throws the attendant in
+Realizes he has 60 seconds which is not enough time to crawl back to the back
 
 Without him, they would have been speeding to their deaths. Progress!
 
