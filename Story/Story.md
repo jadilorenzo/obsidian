@@ -53,7 +53,7 @@ The attendant, wearing a dark blue uniform and jacket, sat at the front of the t
 
 “Then, why can’t the conductor see it on the monitors?” the attendant said.
 
-Alan sighed, resisting the urge to clench his fists and jaw. “That’s what un-de-tect-a-ble means.”
+Alan sighed, resisting the urge to clench his fists and jaw. “That’s what un-de-tect-a-ble means.” *Incompetent.*
 
 “But if the monitors don’t say it’s there, then it’s not there… No system can mask the magnetic resonance of physical objects.”
 
@@ -73,9 +73,9 @@ Alan restrained his impulse to punch the man’s face off. “Your name tag.”
 
 The attendant struggled through the confusion typical of the response to Alan pointing out the obvious.
 
-_I don’t have time for this._
+_I don’t have time for this if I intend to keep everyone’s spine intact._
 
-Alan brought his open hands into a fighting stance, activating his gloves which began to glow a faint yellow with the light of their electromagnetic field set for deflect and stun.
+Alan brought his open hands into a fighting stance, activating his gloves which began to glow a faint yellow with the light of their electromagnetic field set for deflect and stun. His jaw was set. *I’m not messing up this time.*
 
 The attendant reached for his sword.
 
@@ -121,4 +121,17 @@ Alan kicked the door open, triggering a sudden pressure drop. The ears of every 
 
 Alan’s vambraces latched onto the side of the train and his greaves followed suit, positioning him parallel to the tracks.
 
-*Ok so I have 90 seconds to get to the back of the carriage to *
+Alan was no stranger to catastrophe, not in the world he’d grown up in. But typically, he wasn’t running late. The most important man in this hemisphere wasn’t supposed to be in mortal danger. Yet here Alan was, clinging to the side of a speeding train, wind battering against him as he edged his way toward the hardware panel at the back.
+
+Alan received an alert on his monitor. What the attendant called “monitors” were actually state-of-the-art holographic overlays, projected directly into the user’s line of sight. In Alan’s case, the display hovered mere millimeters from his eyes. These passive holograms emitted no noticeable glow, blending seamlessly into his vision and presenting information as if it were naturally part of his surroundings.
+
+Alan looked up toward the front of the carriage just in time to see through the side of the carriage the attendant preparing the kick the door open himself.
+
+*What is this? See one do one? Idiot.*
+
+Alan scrambled on all fours horizontally along the side of the train, his boots, hands, and greaves all detaching and latching from the side of the train in perfect sync. Although he was fixed to the side of train, gravity still pulled him toward the ground which blurred past him.
+
+Alan prepared for the attendant’s immediate ejection into empty space. *Did something about get shot out of a train going the speed of light seem attractive to you?*
+
+Without him, they would have been speeding to their deaths. Progress!
+
