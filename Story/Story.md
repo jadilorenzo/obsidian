@@ -147,7 +147,7 @@ Alan needed both hands free to pry the door open against the crushing force of t
 
 
 
-
+q
 
 Positioning himself perpendicular to the ground, he pressed his body flat against the train’s side, the roaring wind battering against him. He moved towards the sealed emergency exit door, his eyes locking onto a piece of exposed pipe.
 
