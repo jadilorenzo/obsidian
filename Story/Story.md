@@ -135,37 +135,27 @@ Alan braced himself for the attendant’s imminent ejection into empty space. _D
 
 The moment the attendant kicked the door open, the violent pressure change yanked him off his feet and threw him out. Alan caught him by the collar, the wind flattening them both against the side of the train.
 
-Alan needed both hands free to pry the door open against the crushing force of the wind. 
+Alan looked at his monitor. A minute and fifteen seconds to decelerate. Thirty seconds till the governor’s drones get a visual.
+
+He had to act now.
+
+With quick, deft movements, Alan positioned himself perpendicular to the ground. He pulled a 45-centimeter cylindrical section of dark brushed metal from a small pack on his back. With swift precision, he hooked the attendant’s belt onto the rod and secured it to the side of the train. Alan needed both hands free to pry the door open.
+
+The entire time, the attendant had been no help at all, flailing in sheer panic. Alan reached for a second, identical rod from his pack but stopped. He glared back at the attendant.
+
+“You got a death wish, or are you just an idiot?”
+
+The attendant quieted down.
+
+Alan took the rod and latched it to the door, booting up the rod’s propulsion system by giving it a set of
 
 
+Alan opens the door and changes his appearance via hologram 
+Explain how they would see that it was a hologram bc of the magnetic fields required to bend light 
+
+Realizes he has 45 seconds which is not enough time to crawl back to the back
 
 
-
-
-
-
-
-
-
-q
-
-Positioning himself perpendicular to the ground, he pressed his body flat against the train’s side, the roaring wind battering against him. He moved towards the sealed emergency exit door, his eyes locking onto a piece of exposed pipe.
-
-  
-
-Without hesitation, he pulled out a section of what appeared to be a metal pipe from his back — the true form of this tool wouldn’t be clear just yet. He latched the pipe onto the sealed door’s edge, prying it open with a hard twist. The heavy door groaned, then snapped open with a sharp hiss.
-
-  
-
-He shoved the dazed attendant into the safety of the carriage, slamming the door shut behind him. Alan glanced at his overlay monitor: 60 seconds left. He cursed under his breath. That was far from enough time to make it back to the rear control panel and decelerate the train.
-
-Alan catches the attendant with one arm and attaches the attendants belt to the train so alan can have both hands available
-positions himself perpendicular to the ground
-Moves toward the sealed door (from the wind)
-Grabs a section of pipe (part of his staff but we don't that that yet)
-latches it onto the sealed door
-Pries it open and then throws the attendant in
-Realizes he has 60 seconds which is not enough time to crawl back to the back
 
 Without him, they would have been speeding to their deaths. Progress!
 
