@@ -29,7 +29,7 @@ A century later, the world had changed. Contrary to visions of aliens, spaceship
 
 The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy; the weak struggled without hope —hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare.
 
-However, an unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades reverted all combat to hand-to-hand. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The edges, or more technically, destructive magnetic fields bound to blades, could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. These fights were a matter of life or death.
+However, an unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades reverted all combat to hand-to-hand. Guns were useless. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The edges, or more technically, destructive magnetic fields bound to blades, could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. These fights were a matter of life or death.
 
 And there were fights everywhere. Even in Novar, the capital of the most prosperous and peaceful region west of the war zone, the clustered streets had to be inundated with military-grade surveillance drones to keep the diverse visitors from murdering each other for their possessions or, worse, because of their precious political affiliations.
 
@@ -43,7 +43,7 @@ Traffic into Novar leading up to the third and final day of The Fate’s tournam
 
 So there Alan was… in a lightning train in the 11th car, cruising at  500 kilometers an hour. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
 
-“I said stop the train.” *There’s not much time for this.* Alan began striding toward the car’s attendant.
+“I said stop the train.” *There’s not much time for this. The attack at the station and now this?* Alan didn’t believe in accidents anymore. He began striding toward the car’s attendant.
 
 The attendant, wearing a dark blue uniform and jacket, sat at the front of the train car. Besides the name tag, the uniform and jacket were without adornment or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding, the device of Governor Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
 
@@ -63,9 +63,9 @@ Alan sighed, resisting the urge to clench his fists and jaw. “That’s what un
 
 Alan hated the way people used that condescending “Look, …” It was straight code for “You’re the problem and I’m trying to be nice.”
 
-“That’s demonstrably false. Why else do you have a console with access to an emergency brake in that compartment?” Alan said getting in the attendants face and pointing to a small compartment beside the attendant’s seat which was positioned opposite the carriage’s door. *There’s no way I can hack that in time.*
+“That’s demonstrably false. Why else do you have a console with access to an emergency brake in that compartment?” Alan said, getting in the attendant's face and pointing to a small compartment beside the attendant’s seat which was positioned opposite the carriage’s door. *There’s no way I can hack that in time.*
 
-“Michael,” Alan said, “I’ve already tried to warn the conductor. We approximately two and a half minutes to begin deceleration.”
+“Michael,” Alan said, “I’ve already tried to warn the conductor. We are approximately two and a half minutes to begin deceleration.”
 
 “How do you know my name?”
 
@@ -73,7 +73,7 @@ Alan restrained his impulse to punch the man’s face off. “Your name tag.”
 
 The attendant struggled through the confusion typical of the response to Alan pointing out the obvious.
 
-*I don’t have time for this if I intend to keep everyone’s spine in tact.*
+*I don’t have time for this if I intend to keep everyone’s spine intact.*
 
 Alan brought his open hands into a fighting stance, activating his gloves which began to glow a faint yellow with the light of their electromagnetic field set for deflect and stun. His jaw was set. *I’m not messing up.*
 
@@ -125,11 +125,11 @@ Alan was no stranger to catastrophe, not in the world he’d grown up in. But ty
 
 Alan received an alert on his monitor. What the attendant called “monitors” were actually state-of-the-art holographic overlays, projected directly into the user’s line of sight. In Alan’s case, the display hovered mere millimeters from his eyes. These passive holograms emitted no noticeable glow, blending seamlessly into his vision and presenting information as if it were a natural part of his surroundings.
 
-Alan looked up toward the front of the carriage just in time to see — through the side of the carriage — the attendant preparing the kick the door open himself.
+Alan looked up toward the front of the carriage just in time to see — through the side of the carriage — the attendant preparing to kick the door open himself.
 
 *What is this? See one do one? Idiot.*
 
-Alan scrambled on all fours horizontally along the side of the train, his boots, hands, and greaves all detaching and latching from the side of the train in perfect sync. Wall climbing doesn't reorient gravity. Although he was fixed to the side of train, gravity still pulled him toward the ground which blurred past him.
+Alan scrambled on all fours horizontally along the side of the train, his boots, hands, and greaves all detaching and latching from the side of the train in perfect sync. Wall climbing doesn't reorient gravity. Although he was fixed to the side of the train, gravity still pulled him toward the ground which blurred past him.
 
 Alan braced himself for the attendant’s imminent ejection into empty space. _Did getting shot out of a train going the speed of light seem attractive to you?_ he thought dryly.
 
@@ -147,13 +147,29 @@ The entire time, the attendant had been no help at all, flailing in sheer panic.
 
 The attendant quieted down.
 
-Alan took the rod and latched it to the door, booting up the rod’s propulsion system by giving it a set of
+Alan took the rod and latched it to the door, booting up its propulsion system with a precise sequence of taps in pentary—a base-5 coding system not unlike binary. Each tap corresponded to a unique digit, but Alan had encrypted the sequence by scrambling the mappings to his fingers. Even if someone accessed the system, they’d only manage gibberish.
+
+The faint yellow ring of the rod’s magnetic propulsion flared to life, its light rippling the air like heat above a fire. The force held the door firmly in place despite the howling wind outside.
+
+Alan grabbed the attendant by the belt and hurling him through the doorway — with only a little more force than necessary. If the man stayed outside, tethered or not, he’d never survive the ambush. 
+
+Without hesitation, Alan detached the rod from the door and aligned it with the other section already latched to the frame. With a sharp motion, he locked them together. At once, the faint yellow glow of the propulsion systems faded, and the two segments snapped seamlessly into place, forming half of a staff.
+
+Alan looked to the crest of the hill. Kane’s drones would be in line of sight in seconds. Instantly, Alan’s face changed entirely. His eyes lost their brown color exchanged for a vivid blue. His hair was now a light blonde. *No use disguising my whole body. I am on the outside of a train after all.*
+
+He checked his display. 45 seconds.
+
+*Not enough time to crawl to the rear panel.* His options were dwindling fast. Alan closed his eyes to think. He could survive if he jumped before impact. But by then, it either be too late for (list some brief descriptions of the other passengers ending with the stupid attendant)
 
 
-Alan opens the door and changes his appearance via hologram 
-Explain how they would see that it was a hologram bc of the magnetic fields required to bend light 
 
-Realizes he has 45 seconds which is not enough time to crawl back to the back
+  
+
+He checked his display. 45 seconds.
+
+  
+
+Not enough time to crawl to the rear panel. His options were dwindling fast.
 
 
 
