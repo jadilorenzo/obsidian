@@ -155,22 +155,13 @@ Alan grabbed the attendant by the belt and hurling him through the doorway — w
 
 Without hesitation, Alan detached the rod from the door and aligned it with the other section already latched to the frame. With a sharp motion, he locked them together. At once, the faint yellow glow of the propulsion systems faded, and the two segments snapped seamlessly into place, forming half of a staff.
 
-Alan looked to the crest of the hill. Kane’s drones would be in line of sight in seconds. Instantly, Alan’s face changed entirely. His eyes lost their brown color exchanged for a vivid blue. His hair was now a light blonde. *No use disguising my whole body. I am on the outside of a train after all.*
+Alan looked to the crest of the hill. Kane’s drones would be in line of sight in seconds. Instantly, Alan’s face transformed. His brown eyes shifted to a vivid blue, and his dark hair lightened to pale blonde. *No use disguising my whole body. I’m on the outside of a train after all.*
 
-He checked his display. 45 seconds.
+He checked his display. *45 seconds.*
 
-*Not enough time to crawl to the rear panel.* His options were dwindling fast. Alan closed his eyes to think. He could survive if he jumped before impact. But by then, it either be too late for (list some brief descriptions of the other passengers ending with the stupid attendant)
+*Not enough time to crawl to the rear panel.* His options were dwindling fast. He could survive if he jumped before impact, but by then, it’d be too late for the woman with the leather bag, the boy gripping his father’s arm, or the trembling attendant on the floor.
 
-
-
-  
-
-He checked his display. 45 seconds.
-
-  
-
-Not enough time to crawl to the rear panel. His options were dwindling fast.
-
+Alan’s jaw tightened. *I’m not here to save myself.*
 
 
 Without him, they would have been speeding to their deaths. Progress!
