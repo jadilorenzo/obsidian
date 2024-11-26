@@ -47,7 +47,7 @@ Professional reader
 It requires creating hypotheses, testing hypotheses, and using logical thinking to fix something that is broken. This is a skill that won’t go out of date and is now more useful than ever. Learning coding and learning debugging moves you from thinking “This is broken,” to “How can I fix that?” Debugging and programming demystify technology — you can now reason about how things are built or how you might build them.
 
 The internet and computers are the paper  
-and books of the coming revolution in coding literacy
+and books of the coming revolution in coding literacya
 
 Programming isn't just about making things, it's about understanding how things are made.
 
@@ -59,3 +59,8 @@ autodidactism
 
 
 Therefore, despite the cost in students’ time, programming classes should be required in high school because they build problem-solving skills, provide immense real-world value, and
+
+Programming:
+Teaches problem solving
+Encourages independent learning
+Explains how computers work
