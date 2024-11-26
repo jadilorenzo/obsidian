@@ -56,3 +56,6 @@ https://arc.net/l/quote/vtaigsbo
 
 autodidactism
 "It's just the nature of the field," he said. "So my job here isn't so much to teach you how to program, but to teach you how to teach yourself how to program."
+
+
+Therefore, despite the cost in students’ time, programming classes should be required in high school because they build problem-solving skills, provide immense real-world value, and
