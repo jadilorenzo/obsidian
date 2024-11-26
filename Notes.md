@@ -44,6 +44,8 @@ Reading, Writing, Coding
 
 Professional reader
 
+Programming classes should be mandatory in high school because they enhance problem-solving abilities, offer significant real-world applications, and foster independent learning skills.
+
 It requires creating hypotheses, testing hypotheses, and using logical thinking to fix something that is broken. This is a skill that won’t go out of date and is now more useful than ever. Learning coding and learning debugging moves you from thinking “This is broken,” to “How can I fix that?” Debugging and programming demystify technology — you can now reason about how things are built or how you might build them.
 
 The internet and computers are the paper  
@@ -58,7 +60,7 @@ autodidactism
 "It's just the nature of the field," he said. "So my job here isn't so much to teach you how to program, but to teach you how to teach yourself how to program."
 
 
-Therefore, despite the cost in students’ time, programming classes should be required in high school because they build problem-solving skills, provide immense real-world value, and
+Therefore, despite the cost in students’ time, programming classes should be mandatory in high school because they build problem-solving skills, foster independent learning and offer real-world applications.
 
 Programming:
 Teaches problem solving
