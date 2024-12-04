@@ -35,7 +35,7 @@ And there were fights everywhere. Even in Novar, the capital of the most prosper
 
 And during Novar’s annual festival, things reached a feverish mayhem. Foreigners and miscreants invaded the city.
 
-But when the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. ==WHAT IS THE STADIUM LIKE== The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
+But when the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. It was massive, taking up tens of thousands of square meters. The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
 
 These weren’t slave fights or battles to the death; this event was decent — and strictly non-partisan. Though the policy of Governor Marcus Kane forbade any political violence (murder most definitely included), few were secure against a political kamikaze assassin. Marcus Kane was one of those people.
 
