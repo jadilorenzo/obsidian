@@ -1,4 +1,14 @@
 Go fish taught me problem solving as a team
 
 Breaking go fish down
-Fixing broken model tests
+Various failed ideas
+	Shuffle
+	Css
+Failing to building TCP
+Deciding on game layout
+Deciding on game flow
+Xcode issues
+Getting code deleted 
+Presenting our ideas
+
+Life algorithms
