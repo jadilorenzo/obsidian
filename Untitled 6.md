@@ -32,3 +32,9 @@ Collaborative environment
 Growth environment
 	Diligence
 	Attentiont to detail
+
+Diligence
+Collaboration
+Attentiveness
+Humility
+Curiosity
