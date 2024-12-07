@@ -18,3 +18,17 @@ Becoming a better person
 Learned about myself
 Learned what I was capable of
 Learned how to change myself
+Influence of Community
+
+Influence of Community/Environment on Me
+Safe environment
+	Focused on growth
+	Focused on the goal (not credit)
+Humble people
+	Honest about experience level
+Collaborative environment
+	Humble
+	Good listeners
+Growth environment
+	Diligence
+	Attentiont to detail
