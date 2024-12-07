@@ -12,3 +12,9 @@ Getting code deleted
 Presenting our ideas
 
 Life algorithms
+
+
+Becoming a better person
+Learned about myself
+Learned what I was capable of
+Learned how to change myself
