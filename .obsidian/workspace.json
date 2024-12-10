@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "Untitled 6"
             }
+          },
+          {
+            "id": "99cf9be63624d47d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,7 +214,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "e24ea6d8e7b20a04",
+  "active": "99cf9be63624d47d",
   "lastOpenFiles": [
     "Untitled 6.md",
     "Notes.md",
