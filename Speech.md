@@ -41,7 +41,7 @@ So I began to navigate my way back to the other other side of the mountain. The 
 One of the few flaws of downhill skiing is that it is only down the hill. 
 If you miss your exit, you HAVE MISSED YOUR EXIT.
 
-Soon I found myself at the bottom of a part of the mountain that I had never even seen... Around my was nothing but flat ground... And one lift.
+Soon I found myself at the bottom of a part of the mountain that I had never even seen... Around me was nothing but flat ground... And one lift.
 
 So I proceeded to commence the classic clumsy snowboard waddle over to the lift.
 
