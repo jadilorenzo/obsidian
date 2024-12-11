@@ -12,7 +12,7 @@ Blessed are they who mourn,
 for they will be comforted.
 
 Blessed are the snowboarders,
-for they need it.
+for, boy, do they need it.
 
 
 Snowboarders deserve this blessing for two reasons.
@@ -36,16 +36,17 @@ Once we arrived, since I was the only snowboarder in the group at the time, I se
 
 And as it turned out, this side of the mountain wasn't as fun.  My family soon felt the same and left... Without me.
 
-So I began to navigate my way back to the other other side of the mountain. The map I had was, lets just say, less than crystal clear. 
+So I began to navigate my way back to the other other side of the mountain. 
+The map I had was, lets just say, less than crystal clear. 
 
-One of the few flaws of downhill skiing is that it is only down the hill. 
+Now, one of the few flaws of downhill skiing is that it is only down the hill. 
 If you miss your exit, you HAVE MISSED YOUR EXIT.
 
 Soon I found myself at the bottom of a part of the mountain that I had never even seen... Around me was nothing but flat ground... And one lift.
 
 So I proceeded to commence the classic clumsy snowboard waddle over to the lift.
 
-And guess what type of runs the lift serviced? No greens (those are the easy hills), no blues, no black diamonds. Just double black diamonds. In english, this means "straight cliffs." 
+And guess what type of runs the lift serviced? No greens (those are the easy hills), no blues, no black diamonds. Just double black diamonds. Double black diamonds are pretty much straight cliffs.
 
 The lift even came with one of those special little orange signs with big skull face on it. This special delight read, "Experts only."
 
