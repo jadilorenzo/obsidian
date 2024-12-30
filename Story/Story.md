@@ -23,9 +23,9 @@ As the invisible wave of the EMP raced across the globe, skylines instantly went
 
 “Stop the train.” Alan said as he stood up.
 
-The technological symphony had come to an abrupt end. But when it finally began again, it sung a harsher tune.
+The technological symphony had come to an abrupt end. When it began again, it sung a harsher tune.
 
-A century later, the world had changed. Contrary to visions of aliens, spaceships, and teleportation, the world was not so bizarre as it was dangerous. Alan wasn’t the only one wearing armor.
+A century later, the world was more dangerous than fantastical — no aliens, no spaceships, no teleportation. Alan wasn’t the only one wearing armor.
 
 The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy; the weak struggled without hope —hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare.
 
@@ -43,13 +43,13 @@ Traffic into Novar leading up to the third and final day of The Fate’s tournam
 
 So there Alan was… in a lightning train in the 11th car, cruising at  500 kilometers an hour. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
 
-“I said stop the train.” *There’s not much time for this. The attack at the station and now this?* Alan didn’t believe in accidents anymore. He began striding toward the car’s attendant.
+“I said stop the train.” *There’s not time for this. The attack at the station and now this?* Alan didn’t believe in accidents anymore. He began striding toward the car’s attendant.
 
 The attendant, wearing a dark blue uniform and jacket, sat at the front of the train car. Besides the name tag, the uniform and jacket were without adornment or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding, the device of Governor Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
 
 "What is it?" The attendant replied.
 
-“There is a barricade on the tracks undetectable to this train’s magnetic visualizers and invisible to the human eye, getting closer at the speed of 500 kilometers an hour. We have about four minutes till impact." Although Alan’s language was precise, he spoke through his mask at a blistering pace with perfect clarity.
+“There is a barricade on the tracks undetectable to this train’s magnetic visualizers and invisible to the human eye, getting closer at the speed of 500 kilometers an hour. We have about four minutes till impact." Alan spoke rapidly through his mask, each word precise.
 
 “Then, why can’t the conductor see it on the monitors?” the attendant said.
 
@@ -69,7 +69,7 @@ Alan hated the way people used that condescending “Look, …” It was straigh
 
 “How do you know my name?”
 
-Alan restrained his impulse to punch the man’s face off. “Your name tag.”
+Alan restrained his impulse to punch the man’s face off. “Your name tag.” 
 
 The attendant struggled through the confusion typical of the response to Alan pointing out the obvious.
 
@@ -87,7 +87,7 @@ But Alan was long gone before the sword cut through the empty space before him. 
 
 Had Alan grabbed the blade without his protected gloves, his fingers would have been severed from his hand on contact.
 
-The attendant, now gripping the sword with two hands, swung the sword left and right with incredible violence.
+Gripping the sword with both hands, the attendant swung it violently left and right.
 
 Alan held on. But instead of ripping the sword out of the attendant’s hand, he began walking forward, pushing the attendant toward the front of the carriage.
 
@@ -115,7 +115,7 @@ Bam! The magnetic lock busted, shooting the sword across the carriage, the hilt 
 
 Alan, using the attendant’s moment of slack jawed amazement, kicked him in the chest to get him away from the door. He wanted to kick him harder, but held back, only knocking him off his balance.
 
-Alan positioned himself beside the door, bracing his hands against the right panel. When he kicked the door open, the sudden rush would pull him out — and he’d be ready, gripping the edge of the train to keep from being thrown into the blur.
+Alan braced himself beside the door. When he kicked the door open, the sudden rush would pull him out — and he’d be ready, gripping the edge of the train to keep from being thrown into the blur.
 
 Alan kicked the door open, triggering a sudden pressure drop. The ears of every passenger popped in unison, including the attendant’s, who sat stunned, reeling.
 
@@ -147,11 +147,11 @@ The entire time, the attendant had been no help at all, flailing in sheer panic.
 
 The attendant quieted down.
 
-Alan took the rod and latched it to the door, booting up its propulsion system with a precise sequence of taps in pentary—a base-5 coding system not unlike binary. Each tap corresponded to a unique digit, but Alan had encrypted the sequence by scrambling the mappings to his fingers. Even if someone accessed the system, they’d only manage gibberish.
+Alan took the rod and latched it to the door, booting up its propulsion system with a precise sequence of taps in pentary—a base-5 coding system similar to binary. Each tap corresponded to a unique digit, but Alan had encrypted the sequence by scrambling the mappings to his fingers. Even if someone accessed the system, they’d only manage gibberish.
 
 The faint yellow ring of the rod’s magnetic propulsion flared to life, its light rippling the air like heat above a fire. The force held the door firmly in place despite the howling wind outside.
 
-Alan grabbed the attendant by the belt and hurling him through the doorway — with only a little more force than necessary. If the man stayed outside, tethered or not, he’d never survive the ambush. 
+Alan grabbed the attendant by the belt and hurled him through the doorway. If the man stayed outside, tethered or not, he’d never survive the ambush. 
 
 Without hesitation, Alan detached the rod from the door and aligned it with the other section already latched to the frame. With a sharp motion, he locked them together. At once, the faint yellow glow of the propulsion systems faded, and the two segments snapped seamlessly into place, forming half of a staff.
 
