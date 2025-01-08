@@ -38,6 +38,9 @@ Preview of good things to come
 
 Some things should never be desecrated.
 
+Like music. 
+I know you approved of the bruh song.
+
 Who here loves good music? 
 
 If a speaker asked me this question, I would be waving my hands from the back of the auditorium saying, "Pick me!"
@@ -70,3 +73,5 @@ What precise language is and what it isn't
 Why we aren't precise
 Why we should be more precise
 How to get more precise
+
+why vague language 
