@@ -6,15 +6,15 @@ Etched on the ship's side, just below its name, was the vessel's motto: "Cras Mo
 
 Anarchy wasn’t a revolution; it was a bomb. The NEMESIS was the spark.
 
-EMPs have the capacity to violently overload circuitry by causing voltage spikes that fry both capacitors and the now unprotected components. Frying the central nervous system of the western hemisphere would do the trick.
+EMPs have the capacity to violently overload circuitry by causing voltage spikes that fry both capacitors and the now unprotected components. Frying the central nervous system of the western hemisphere was calculated to start WWIII.
 
-Near silent anticipation filled the air as the crew prepared to witness the initiation of that bomb anarchy. At precisely 9:59:59 AM, the EMP weapon unleashed its devastating power.
+Near silent anticipation filled the air as the crew prepared to witness the DETONATION. At precisely 9:59:59 AM, the EMP weapon unleashed its devastating power.
 
 But there had been a slight miscalculation.
 
-The engineers of this weapon hadn’t accounted for the pulse ricocheting off the inside of the atmosphere which multiplied the force of the pulse over seventeen times. Within 0.133 seconds, this wave of electromagnetic energy engulfed the entire surface of the globe.
+The engineers of this weapon hadn’t accounted for the pulse ricocheting off the inside of the atmosphere which multiplied the force of the pulse over seventeen times. Within 0.133 seconds, this wave of electromagnetic energy engulfed the surface of the globe.
 
-As the invisible wave of the EMP raced across the globe, skylines instantly went dark and the world's technological infrastructure crumbled instantly. The dazzling screens that once commanded attention in every household turned into gaping black mirrors. Cars stalled on highways, their electronic brains fried. The crackle of electricity that had become the backdrop of modern life fell into an eerie silence — a silence soon filled with screams.
+As the invisible wave of the EMP raced across the globe, skylines instantly went dark and the world's technological infrastructure crumbled. Instantly. The dazzling screens that once commanded attention in every household became lifeless, gaping black mirrors. Cars stalled on highways, their electronic brains fried. The crackle of electricity that had become the backdrop of modern life fell into an eerie moment of silence — a silence soon filled with screams.
 
 ## 1: Nothing is Fair in War
 
@@ -23,21 +23,22 @@ As the invisible wave of the EMP raced across the globe, skylines instantly went
 
 “Stop the train.” Alan said as he stood up.
 
-The technological symphony had come to an abrupt end. When it began again, it sung a harsher tune.
+The world’s technological symphony had come to a screeching halt. When it began again, it sung a harsher tune.
 
 A century later, the world was more dangerous than fantastical — no aliens, no spaceships, no teleportation. Alan wasn’t the only one wearing armor.
 
 The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy; the weak struggled without hope —hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare.
 
-However, an unexpected boon had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were limited only by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed combined with discoveries in the arena of magnetic shields and blades reverted all combat to hand-to-hand. Guns were useless. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The edges, or more technically, destructive magnetic fields bound to blades, could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. These fights were a matter of life or death.
+However, an unexpected benefit had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were only limited by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed, combined with discoveries in the arenas of magnetic deflection and magnetic blade technology, reverted all combat to hand-to-hand. Bullets were useless. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The magnetic blade edges could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. Decapitation was as effortless as a single, well-placed stroke of a blade.
 
-And there were fights everywhere. Even in Novar, the capital of the most prosperous and peaceful region west of the war zone, the clustered streets had to be inundated with military-grade surveillance drones to keep the diverse visitors from murdering each other for their possessions or, worse, because of their precious political affiliations.
+ Fights like this were everywhere. Even in Novar, the capital of the most prosperous and peaceful region west of the war zone, the clustered streets had to be inundated with military-grade surveillance drones to keep the diverse visitors from murdering each other.
 
-And during Novar’s annual festival, things reached a feverish mayhem. Foreigners and miscreants invaded the city.
+During Novar’s annual festival, things reached a feverish mayhem. Foreigners and miscreants invaded the city.
 
-But when the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. It was massive, taking up tens of thousands of square meters. The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
+When the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. It was massive, taking up tens of thousands of square meters. The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
 
-These weren’t slave fights or battles to the death; this event was decent — and strictly non-partisan. Though the policy of Governor Marcus Kane forbade any political violence (murder most definitely included), few were secure against a political kamikaze assassin. Marcus Kane was one of those people.
+These weren’t slave fights or battles to the death; this event was decent. Contestants from were provided 
+
 
 Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning hover trains from their different origins never paused. They never stopped — bar bombing.
 
@@ -165,7 +166,7 @@ Even if the drones scanned him, their visual processors would see someone entire
 
 *Not enough time to crawl to the rear panel.* His options were dwindling fast. He could survive if he jumped before impact, but by then, it’d be too late for the boy gripping his father’s arm and the miserable, pathetic, trembling attendant on the floor.
 
-Alan’s jaw tightened. *I’m not here to save myself.* He leaped from the side of the train.
+Alan’s jaw tightened. *I’m not here to save myself.* 
 
 The popular imagery of time moving in slow motion is misleading. It’s not that the world slows down, but rather that the mind predicts reality with razor-sharp precision before it unfolds. Alan didn’t see events as they were — he saw them as they would be. 
 
