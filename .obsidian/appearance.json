@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "theme": "obsidian",
+  "accentColor": "#5e30eb",
+  "theme": "system",
   "translucency": true,
   "baseFontSize": 17,
   "cssTheme": "",

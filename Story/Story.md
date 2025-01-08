@@ -155,14 +155,19 @@ Alan grabbed the attendant by the belt and hurled him through the doorway. If th
 
 Without hesitation, Alan detached the rod from the door and aligned it with the other section already latched to the frame. With a sharp motion, he locked them together. At once, the faint yellow glow of the propulsion systems faded, and the two segments snapped seamlessly into place, forming half of a staff.
 
-Alan looked to the crest of the hill. Kane’s drones would be in line of sight in seconds. Instantly, Alan’s face transformed. His brown eyes shifted to a vivid blue, and his dark hair lightened to pale blonde. *No use disguising my whole body. I’m on the outside of a train after all.*
+Alan looked to the crest of the hill. Kane’s drones would be in line of sight in seconds. Instantly, Alan activated the hologram masking embedded in his mask. A faint shimmer rippled over his face, and his features transformed. His brown eyes shifted to a vivid blue, and his dark hair lightened to a pale blonde.
 
-He checked his display. *45 seconds.*
+*No use disguising my whole body*, Alan thought, his fingers gripping the train’s edge as the wind howled past him. *I’m on the outside of a train, not giving a public speech.*
 
-*Not enough time to crawl to the rear panel.* His options were dwindling fast. He could survive if he jumped before impact, but by then, it’d be too late for the woman with the leather bag, the boy gripping his father’s arm, or the trembling attendant on the floor.
+Even if the drones scanned him, their visual processors would see someone entirely different—a critical misdirection when Kane’s forces inevitably reviewed the footage. Alan glanced at the monitor display flickering before his eyes.
 
-Alan’s jaw tightened. *I’m not here to save myself.*
+*45 seconds.*
 
+*Not enough time to crawl to the rear panel.* His options were dwindling fast. He could survive if he jumped before impact, but by then, it’d be too late for the boy gripping his father’s arm and the miserable, pathetic, trembling attendant on the floor.
+
+Alan’s jaw tightened. *I’m not here to save myself.* He leaped from the side of the train.
+
+The popular imagery of time moving in slow motion is misleading. It’s not that the world slows down, but rather that the mind predicts reality with razor-sharp precision before it unfolds. Alan didn’t see events as they were — he saw them as they would be. 
 
 Without him, they would have been speeding to their deaths. Progress!
 
