@@ -28,3 +28,6 @@ Tools you need to remember and use:
 - If you choose to incorporate a story be sure to remember dilemmas, tension, obstacle, goal, risk, echoes and surprises (Chapter 13-16)
     
 - Be prepared to answer questions not only from the teacher, but also from the students regarding your topic.
+
+What do I want to say about precision of language?
+
