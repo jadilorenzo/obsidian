@@ -51,3 +51,19 @@ That squeaking, irritating, miserable, disgusting, provocative disharmony is rep
 
 But for some reason people have lost their ear for beautiful language.
 
+I was playing a game with some friends and one of them said "chat, bro is literally cooking right now"
+
+If bro was literally cooking he would look like this: ==Imitate stirring a pot==
+Instead of: ==holding a controller
+
+
+Unfortunately, this desecration of language is everywhere... even amongst the most educated.
+
+Listen to this single sentence from an article written by Guggenheim Fellowship-winning professor of rhetoric and comparative literature at the University of Californa at Berkely:
+
+The move from a structuralist account in which capital is understood to structure social relations in relatively homologous ways to a view of hegemony in which power relations are subject to repetition, convergence, and rearticulation brought the question of temporality into the thinking of structure, and marked a shift from a form of Althusserian theory that takes structural totalities as theoretical objects to one in which the insights into the contingent possibility of structure inaugurate a renewed conception of hegemony as bound up with the contingent sites and strategies of the rearticulation of power. 
+
+My upcoming speech will investigate 
+why we no longer speak with precision, 
+the consequences of such ambiguity, 
+and what we can do to fix it.
