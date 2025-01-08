@@ -39,7 +39,7 @@ When the tournament started, everyone was there. The whole city poured its inhab
 
 These weren’t slave fights or battles to the death; this event was decent. Contestants entered willingly, drawn by Governor Marcus Kane’s generous rewards and a chance at fame.
 
-What’s more, this event was fair. Beyond the stringent rules and regulations, Governor Kane 
+What’s more, this event was fair. Beyond the stringent rules and regulations, Governor Kane provided armor 
 
 Governor Marcus Kane ensured a level playing field by providing high-grade armor, even to those who lacked it, that neutralized the deadly edges of magnetic blades by converting their energy into concussive electrocution. Weapons, however, were not supplied—contestants had to bring their own, whether it was a sword, quarterstaff, or mace.
 
