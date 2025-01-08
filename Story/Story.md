@@ -37,8 +37,11 @@ During Novar’s annual festival, things reached a feverish mayhem. Foreigners a
 
 When the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. It was massive, taking up tens of thousands of square meters. The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
 
-These weren’t slave fights or battles to the death; this event was decent. Contestants from were provided 
+These weren’t slave fights or battles to the death; this event was decent. Contestants entered willingly, drawn by Governor Marcus Kane’s generous rewards and a chance at fame.
 
+What’s more, this event was fair. Beyond the stringent rules and regulations, Governor Kane 
+
+Governor Marcus Kane ensured a level playing field by providing high-grade armor, even to those who lacked it, that neutralized the deadly edges of magnetic blades by converting their energy into concussive electrocution. Weapons, however, were not supplied—contestants had to bring their own, whether it was a sword, quarterstaff, or mace.
 
 Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning hover trains from their different origins never paused. They never stopped — bar bombing.
 
