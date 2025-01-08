@@ -31,3 +31,23 @@ Tools you need to remember and use:
 
 What do I want to say about precision of language?
 
+
+Preview of good things to come
+
+---
+
+Some things should never be desecrated.
+
+Who here loves good music? 
+
+If a speaker asked me this question, I would be waving my hands from the back of the auditorium saying, "Pick me!"
+
+I don't know how many of you have heard a tone deaf person tried to sing. But if you have, rest in peace.
+
+Now, I know the Bible says make a quote "joyful noise" to the Lord, but someone singing off tune is not a joyful noise. 
+
+That squeaking, irritating, miserable, disgusting, provocative disharmony is reprehensible.
+
+
+But for some reason people have lost their ear for beautiful language.
+
