@@ -224,8 +224,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -238,6 +238,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": true,
       "switcher:Open quick switcher": false,
@@ -245,8 +246,7 @@
       "command-palette:Open command palette": false,
       "templates:Insert template": true,
       "publish:Publish changes...": true,
-      "workspaces:Manage workspace layouts": true,
-      "copilot:Copilot Chat": false
+      "workspaces:Manage workspace layouts": true
     }
   },
   "active": "b15eac17c0da42e2",
