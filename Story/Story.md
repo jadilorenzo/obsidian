@@ -163,15 +163,17 @@ Alan looked to the crest of the hill. Kane’s drones would be in line of sight 
 
 *No use disguising my whole body*, Alan thought, his fingers gripping the train’s edge as the wind howled past him. *I’m on the outside of a train, not giving a public speech.*
 
-Even if the drones scanned him, their visual processors would see someone entirely different—a critical misdirection when Kane’s forces inevitably reviewed the footage. Alan glanced at the monitor display flickering before his eyes.
+If the drones scanned him, their visual processors would see someone entirely different—a critical misdirection when Kane’s forces inevitably reviewed the footage. Alan glanced at the monitor display flickering before his eyes.
 
 *45 seconds.*
 
 *Not enough time to crawl to the rear panel.* His options were dwindling fast. He could survive if he jumped before impact, but by then, it’d be too late for the boy gripping his father’s arm and the miserable, pathetic, trembling attendant on the floor.
 
-Alan’s jaw tightened. *I’m not here to save myself.* 
+Alan’s jaw tightened. *I’m not here to save myself. It’s time to let go.*
 
-The popular imagery of time moving in slow motion is misleading. It’s not that the world slows down, but rather that the mind predicts reality with razor-sharp precision before it unfolds. Alan didn’t see events as they were — he saw them as they would be. 
+Time doesn’t move in slow motion; the speed of thought doesn’t change. Alan’s mind processed every detail—each of the 23 windows to the end of the carriage—before he let go. He prepared for the 315 milliseconds of free fall he’d have before catching the end of the carriage.
+
+He let go.
 
 Without him, they would have been speeding to their deaths. Progress!
 
