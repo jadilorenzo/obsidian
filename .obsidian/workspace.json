@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Story/Story.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Story"
             }
           },
           {
@@ -250,11 +250,11 @@
   },
   "active": "eaabaf4d9a5db6d6",
   "lastOpenFiles": [
+    "Notes.md",
     "Untitled 6.md",
     "Speech.md",
     "Untitled 7.md",
     "Untitled 8.md",
-    "Notes.md",
     "Pasted image 20241126155813 1.png",
     "Pasted image 20241126155813.png",
     "Personal/Set Free Lesson 1.md",
