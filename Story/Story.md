@@ -31,23 +31,11 @@ The days of unified nations were long gone, replaced by a patchwork of large cit
 
 However, an unexpected benefit had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were only limited by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed, combined with discoveries in the arenas of magnetic deflection and magnetic blade technology, reverted all combat to hand-to-hand. Bullets were useless. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The magnetic blade edges could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. Decapitation was as effortless as a single, well-placed stroke of a blade.
 
- Fights like this were everywhere. Even in Novar, the capital of the most prosperous and peaceful region west of the war zone, the clustered streets had to be inundated with military-grade surveillance drones to keep the diverse visitors from murdering each other.
-
-During Novar’s annual festival, things reached a feverish mayhem. Foreigners and miscreants invaded the city.
-
-When the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. It was massive, taking up tens of thousands of square meters. The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
-
-These weren’t slave fights or battles to the death; this event was decent. Contestants entered willingly, drawn by Governor Marcus Kane’s generous rewards and a chance at fame.
-
-What’s more, this event was fair. Beyond the stringent rules and regulations, Governor Kane provided armor 
-
-Governor Marcus Kane ensured a level playing field by providing high-grade armor, even to those who lacked it, that neutralized the deadly edges of magnetic blades by converting their energy into concussive electrocution. Weapons, however, were not supplied—contestants had to bring their own, whether it was a sword, quarterstaff, or mace.
-
-Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning hover trains from their different origins never paused. They never stopped — bar bombing.
-
-So there Alan was… in a lightning train in the 11th car, cruising at  500 kilometers an hour. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
+Alan sat in the 11th car of a lightning train, hurtling toward Novar at 500 kilometers an hour—and the most important person in the world. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
 
 “I said stop the train.” *There’s not time for this. The attack at the station and now this?* Alan didn’t believe in accidents anymore. He began striding toward the car’s attendant.
+
+The carriage was sleek, its dark blue seats a sharp contrast to the metallic body of the train. The rows of seats were firm yet surprisingly comfortable. Large windows lined the sides, offering a wide view of the outside world and the blur of the passing trees.
 
 The attendant, wearing a dark blue uniform and jacket, sat at the front of the train car. Besides the name tag, the uniform and jacket were without adornment or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding, the device of Governor Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
 
@@ -177,3 +165,17 @@ He let go.
 
 Without him, they would have been speeding to their deaths. Progress!
 
+# Other
+Fights like this were everywhere. Even in Novar, the capital of the most prosperous and peaceful region west of the war zone, the clustered streets had to be inundated with military-grade surveillance drones to keep the diverse visitors from murdering each other.
+
+During Novar’s annual festival, things reached a feverish mayhem. Foreigners and miscreants invaded the city.
+
+When the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. It was massive, taking up tens of thousands of square meters. The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
+
+These weren’t slave fights or battles to the death; this event was decent. Contestants entered willingly, drawn by Governor Marcus Kane’s generous rewards and a chance at fame.
+
+What’s more, this event was fair. Beyond the stringent rules and regulations, Governor Kane provided armor 
+
+Governor Marcus Kane ensured a level playing field by providing high-grade armor, even to those who lacked it, that neutralized the deadly edges of magnetic blades by converting their energy into concussive electrocution. Weapons, however, were not supplied—contestants had to bring their own, whether it was a sword, quarterstaff, or mace.
+
+Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning hover trains from their different origins never paused. They never stopped — bar bombing.
