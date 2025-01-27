@@ -8,7 +8,7 @@ Anarchy wasn’t a revolution; it was a bomb. The NEMESIS was the spark.
 
 EMPs have the capacity to violently overload circuitry by causing voltage spikes that fry both capacitors and the now unprotected components. Frying the central nervous system of the western hemisphere was calculated to start WWIII.
 
-Near silent anticipation filled the air as the crew prepared to witness the DETONATION. At precisely 9:59:59 AM, the EMP weapon unleashed its devastating power.
+Near silent anticipation filled the air as the crew prepared to witness the detonation. At precisely 9:59:59 AM, the EMP weapon unleashed its devastating power.
 
 But there had been a slight miscalculation.
 
@@ -25,13 +25,13 @@ As the invisible wave of the EMP raced across the globe, skylines instantly went
 
 The world’s technological symphony had come to a screeching halt. When it began again, it sung a harsher tune.
 
-A century later, the world was more dangerous than fantastical — no aliens, no spaceships, no teleportation. Alan wasn’t the only one wearing armor.
+A century later, the world was dangerous… not fantastical — no aliens, no spaceships, no teleportation. Alan wasn’t the only one wearing armor.
 
-The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy; the weak struggled without hope —hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare.
+The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy; the weak, without hope — hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare.
 
-However, an unexpected benefit had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were only limited by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed, combined with discoveries in the arenas of magnetic deflection and magnetic blade technology, reverted all combat to hand-to-hand. Bullets were useless. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The magnetic blade edges could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. Decapitation was as effortless as a single, well-placed stroke of a blade.
+Nevertheless, humans always adapt. In fact, an unexpected benefit had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were only limited by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed, combined with discoveries in the arenas of magnetic deflection and magnetic blade technology, reverted all combat to hand-to-hand. Bullets were useless. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The magnetic blade edges could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. Decapitation was as effortless as a single, well-placed stroke of a blade.
 
-Alan sat in the 11th car of a lightning train, hurtling toward Novar at 500 kilometers an hour—and the most important person in the world. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown giving him a dirty appearance. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
+Alan sat in the 11th car of a lightning train, hurtling toward Novar at 500 kilometers an hour—and the most consequential leader in the western world. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown dirt and dust although his face was clean. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
 
 “I said stop the train.” *There’s not time for this. The attack at the station and now this?* Alan didn’t believe in accidents anymore. He began striding toward the car’s attendant.
 
@@ -41,23 +41,27 @@ The attendant, wearing a dark blue uniform and jacket, sat at the front of the t
 
 "What is it?" The attendant replied.
 
-“There is a barricade on the tracks undetectable to this train’s magnetic visualizers and invisible to the human eye, getting closer at the speed of 500 kilometers an hour. We have about four minutes till impact." Alan spoke rapidly through his mask, each word precise.
+“There is a barricade on the tracks ahead undetectable to this train’s magnetic visualizers and invisible to the human eye. What’s more, it’s getting closer at the speed of 500 kilometers an hour. We have about four minutes till impact." Alan spoke rapidly through his mask, each word precise.
 
-“Then, why can’t the conductor see it on the monitors?” the attendant said.
+“What do you mean?” the attendant asked, his confusion evident.
 
-Alan sighed, resisting the urge to clench his fists and jaw. “That’s what un-de-tect-a-ble means.” *Incompetent.*
+“I mean what I said.” *This guy…* “There’s a barricade on the tracks ahead, undetectable by the train’s systems. We have about four minutes until impact.”
 
-“But if the monitors don’t say it’s there, then it’s not there… No system can mask the magnetic resonance of physical objects.”
+The attendant blinked, apparently unable to process the situation. “If there is a barricade, why can’t the conductor see it on the monitors?”
 
-“Your reasoning is all wrong,” Alan said, gesturing with his hands to emphasize his train of thought. “I’m telling you the barricade is there, which means the train’s monitors can’t detect it. So clearly, masking magnetic resonance is possible.”*Three and a half minutes now.*
+Alan’s jaw tightened. “That’s what un-de-tec-ta-ble means. The train’s magnetic visualizers aren’t picking it up, and the human eye won’t either. It’s using a magnetic resonance mask.”
+
+The attendant frowned. *Threatening public transportation with such a claim? That’s a crime in Novar, he thought.*
+
+Alan took a deep breath. *This guy aught to be certificated as useless.* “Your reasoning is all wrong,” Alan said, gesturing with his hands to emphasize his train of thought. “I’m telling you the barricade is there, which means the train’s monitors can’t detect it. So clearly, masking magnetic resonance is not only possible, but is already happening.” *Three and a half minutes now.*
 
 “Look, I couldn’t help you even if I wanted to.”
 
-Alan hated the way people used that condescending “Look, …” It was straight code for “You’re the problem and I’m trying to be nice.”
+Alan looked away and took a deep breath. He hated the way people used that condescending word “Look, …” It just means “You’re the problem and I’m trying to be nice.”
 
-“That’s demonstrably false. Why else do you have a console with access to an emergency brake in that compartment?” Alan said, getting in the attendant's face and pointing to a small compartment beside the attendant’s seat which was positioned opposite the carriage’s door. *There’s no way I can hack that in time.*
+“That’s demonstrably false.” Alan continued, “Why else do you have a console strip with access to an emergency brake?” Alan gestured toward the finely textured metal strip embedded along the floor. It worked through direct contact, though its transmissions were heavily encrypted. Hacking was not an option.
 
-“Michael,” Alan said, “I’ve already tried to warn the conductor. We are approximately two and a half minutes to begin deceleration.”
+“Michael,” Alan said, “I’ve already tried to warn the conductor. We have approximately two and a half minutes to begin deceleration.”
 
 “How do you know my name?”
 
@@ -179,3 +183,5 @@ What’s more, this event was fair. Beyond the stringent rules and regulations, 
 Governor Marcus Kane ensured a level playing field by providing high-grade armor, even to those who lacked it, that neutralized the deadly edges of magnetic blades by converting their energy into concussive electrocution. Weapons, however, were not supplied—contestants had to bring their own, whether it was a sword, quarterstaff, or mace.
 
 Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning hover trains from their different origins never paused. They never stopped — bar bombing.
+
+The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories like feudal kingdoms. Novar wasn't just a city—it was a fortress-state, with Governor Marcus Kane ruling more like a medieval monarch than a modern leader. Information was currency, loyalty was bought, and trust was a luxury few could afford.

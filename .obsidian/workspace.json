@@ -81,8 +81,19 @@
               "icon": "lucide-file",
               "title": "Untitled 8"
             }
+          },
+          {
+            "id": "8bb5cdcc2fd66ffb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -248,17 +259,17 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "eaabaf4d9a5db6d6",
+  "active": "8bb5cdcc2fd66ffb",
   "lastOpenFiles": [
-    "Notes.md",
-    "Untitled 6.md",
-    "Speech.md",
-    "Untitled 7.md",
     "Untitled 8.md",
+    "Untitled 7.md",
+    "Speech.md",
+    "Untitled 6.md",
+    "Story/Story.md",
+    "Notes.md",
     "Pasted image 20241126155813 1.png",
     "Pasted image 20241126155813.png",
     "Personal/Set Free Lesson 1.md",
-    "Story/Story.md",
     "inbox/While i'm running.md",
     "Story/Untitled-1.md",
     "Personal/2024 09 07 Screencast Review.md",
