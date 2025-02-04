@@ -77,3 +77,20 @@ Alan drew no weapon but continued his confident stride.
 As Alan drew near, the attendant's uniform transformed into geometrical armor. It was an artistic hologram of course, and any magnetic scan would have revealed the true surface of the attendant's chest. Individual multi-mode scanning units (thermal vision, magnetic vision, sonar vision) were ubiquitous.
 
 </div>
+
+# Other
+Fights like this were everywhere. Even in Novar, the capital of the most prosperous and peaceful region west of the war zone, the clustered streets had to be inundated with military-grade surveillance drones to keep the diverse visitors from murdering each other.
+
+During Novar’s annual festival, things reached a feverish mayhem. Foreigners and miscreants invaded the city.
+
+When the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. It was massive, taking up tens of thousands of square meters. The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
+
+These weren’t slave fights or battles to the death; this event was decent. Contestants entered willingly, drawn by Governor Marcus Kane’s generous rewards and a chance at fame.
+
+What’s more, this event was fair. Beyond the stringent rules and regulations, Governor Kane provided armor 
+
+Governor Marcus Kane ensured a level playing field by providing high-grade armor, even to those who lacked it, that neutralized the deadly edges of magnetic blades by converting their energy into concussive electrocution. Weapons, however, were not supplied—contestants had to bring their own, whether it was a sword, quarterstaff, or mace.
+
+Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning hover trains from their different origins never paused. They never stopped — bar bombing.
+
+The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories like feudal kingdoms. Novar wasn't just a city—it was a fortress-state, with Governor Marcus Kane ruling more like a medieval monarch than a modern leader. Information was currency, loyalty was bought, and trust was a luxury few could afford.

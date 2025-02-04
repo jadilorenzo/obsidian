@@ -15,8 +15,8 @@
               "state": {
                 "file": "Story/Story.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Story"
@@ -37,7 +37,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -152,6 +153,7 @@
   },
   "active": "8f4b1a0f87c515af",
   "lastOpenFiles": [
+    "Story/Untitled-1.md",
     "Story/Story.md",
     "Where are you now... Francis!.md",
     "Set Free Lesson 2.md",

@@ -23,7 +23,7 @@ As the invisible wave of the EMP raced across the globe, skylines instantly went
 
 “Stop the train.” Alan said as he stood up.
 
-The world’s technological symphony had come to a screeching halt. When it began again, it sung a harsher tune.
+The silence after the EMP was deafening.  Then came the screams.
 
 A century later, the world was dangerous… not fantastical — no aliens, no spaceships, no teleportation. Alan wasn’t the only one wearing armor.
 
@@ -121,7 +121,8 @@ Alan was no stranger to catastrophe, not in the world he’d grown up in. Though
 
 Yet here Alan was, clinging to the side of a speeding train, wind battering against him as he crawled his way toward the hardware panel at the back.
 
-Alan received an alert on his monitor. What the attendant called “monitors” were state-of-the-art holographic overlays, projected directly into the user’s line of sight. In Alan’s case, the display hovered mere millimeters from his eyes. These passive holograms emitted no noticeable glow, blending seamlessly into his vision and presenting information as if it were a natural part of his surroundings.
+Alan received an alert on his monitor. What the attendant called “monitors” were state-of-the-art holographic overlays, projected directly into the user’s line of sight. In Alan’s case, the display hovered mere millimeters from his eyes. These holograms emitted no noticeable glow, blending information into his field of vision as if it were a natural part of his surroundings.
+
 
 Alan looked up toward the front of the carriage just in time to see — through the side of the carriage — the attendant preparing to kick the door open himself.
 
@@ -172,21 +173,3 @@ He let go.
 His hands caught the corner of the carriage and slammed him into the back of the carriage. He recovered from the impact within moments. 
 
 That’s one benefit of being 5 years old in a military “orphanage.” You learn to get back up quickly. Your life depended on it.
-
-
-# Other
-Fights like this were everywhere. Even in Novar, the capital of the most prosperous and peaceful region west of the war zone, the clustered streets had to be inundated with military-grade surveillance drones to keep the diverse visitors from murdering each other.
-
-During Novar’s annual festival, things reached a feverish mayhem. Foreigners and miscreants invaded the city.
-
-When the tournament started, everyone was there. The whole city poured its inhabitants and the mass of its security force into the Novar stadium — The Fate. It was massive, taking up tens of thousands of square meters. The branding was intense: the words “The Fate” were inscribed over every arch and painted in giant red diagonal letters across every wall. For the contenders, it may well have read, “YOUR Fate.”
-
-These weren’t slave fights or battles to the death; this event was decent. Contestants entered willingly, drawn by Governor Marcus Kane’s generous rewards and a chance at fame.
-
-What’s more, this event was fair. Beyond the stringent rules and regulations, Governor Kane provided armor 
-
-Governor Marcus Kane ensured a level playing field by providing high-grade armor, even to those who lacked it, that neutralized the deadly edges of magnetic blades by converting their energy into concussive electrocution. Weapons, however, were not supplied—contestants had to bring their own, whether it was a sword, quarterstaff, or mace.
-
-Traffic into Novar leading up to the third and final day of The Fate’s tournament was intense. But, as the third day approached, a noticeable shift occurred. The frenetic pace of the city began to slow, though the lightning hover trains from their different origins never paused. They never stopped — bar bombing.
-
-The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories like feudal kingdoms. Novar wasn't just a city—it was a fortress-state, with Governor Marcus Kane ruling more like a medieval monarch than a modern leader. Information was currency, loyalty was bought, and trust was a luxury few could afford.
