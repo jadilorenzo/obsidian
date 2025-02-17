@@ -29,49 +29,51 @@ A century later, the world was dangerous… not fantastical — no aliens, no sp
 
 The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy; the weak, without hope — hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare.
 
-Nevertheless, humans always adapt. In fact, an unexpected benefit had emerged from the destruction of computer chips: new technology no longer relied on antiquated systems. Fiberglass microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiberglass wire. Previous computers had been fast, but these new machines were only limited by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed, combined with discoveries in the arenas of magnetic deflection and magnetic blade technology, reverted all combat to hand-to-hand. Bullets were useless. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The magnetic blade edges could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. Decapitation was as effortless as a single, well-placed stroke of a blade.
+Nevertheless, humans always adapt. In fact, an unexpected benefit had emerged from the destruction of computer chips: new technology no longer relied on antiquated infrastructure. Fiber optic microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiber optic wire. Previous computers had been fast, but these new machines were only limited by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed, combined with discoveries in the arenas of magnetic deflection and magnetic blade technology, reverted all combat to hand-to-hand. Bullets were useless. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The  blade edges could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. Decapitation was as effortless as a single, well-placed stroke of a blade.
 
 Alan sat in the 11th car of a lightning train, hurtling toward Novar at 500 kilometers an hour—and the most consequential leader in the western world. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown dirt and dust although his face was clean. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
 
 “I said stop the train.” *There’s not time for this.* Alan didn’t believe in accidents anymore. He began striding toward the car’s attendant.
 
-The carriage was sleek, its dark blue seats a sharp contrast to the metallic body of the train. The rows of seats were firm yet surprisingly comfortable. Large windows lined the sides, offering a wide view of the outside world and the blur of the passing trees.
+The train cabin was sleek, its dark blue seats a sharp contrast to the metallic body of the train. The rows of seats were firm yet surprisingly comfortable. Large windows lined the sides, offering a wide view of the outside world and the blur of the passing trees.
 
 The attendant, wearing a dark blue uniform and jacket, sat at the front of the train car. Besides the name tag, the uniform and jacket were without adornment or even a second color to break the rich flow of dark blue other than a white symbol on his chest, the same symbol printed on every banner, engraved into the side of every car of the lightning train, and glowing from every magnetic binding, the device of Governor Marcus Kane. A curved saber hung from the attendant's side, its blade unembellished.
 
-"What is it?" The attendant replied.
+"Calm down, sir." The attendant replied. “What’s wrong?”
 
-“There is a barricade on the tracks ahead undetectable to this train’s magnetic visualizers and invisible to the human eye. What’s more, it’s getting closer at the speed of 500 kilometers an hour. We have about four minutes till impact." Alan spoke rapidly through his mask, each word precise.
+“There is a barricade on the tracks ahead undetectable to this train’s magnetic sensors and invisible to the human eye. What’s more, we have about four minutes till an impact that will undoubtedly kill everyone here." Alan spoke rapidly through his mask, each word precise.
 
-“What do you mean?” the attendant asked, his confusion evident.
+“I’m sorry… could you say that again slower?”
 
-“I mean what I said.” *This guy…* “There’s a barricade on the tracks ahead, undetectable by the train’s systems. We have about four minutes until impact.”
+Alan ground his teeth, took a deep breath, paused, and tried to speak slower. “There’s a barricade on the tracks ahead, undetectable by the train’s systems. We have about four minutes until impact.”
 
-The attendant blinked, apparently unable to process the situation. “If there is a barricade, why can’t the conductor see it on the monitors?”
+“Look, I’ve had enough chaos today with the attack at the station.”
 
-Alan’s jaw tightened. “That’s what un-de-tec-ta-ble means. The train’s magnetic visualizers aren’t picking it up, and the human eye won’t either. It’s using a magnetic resonance mask.”
+Alan hated the way people used that word.*“Look, ….” just means “You’re the problem and I’m trying to be nice.”*
 
-The attendant frowned. “Magnetic masking is impossible. If the conductor can’t see the barricade, then it’s not there.” *Threatening public transportation with such a claim? That’s a crime in Novar, he thought.*
+Alan said, “So you think because you’re done with chaos, chaos is done with you?”
 
-Alan took a deep breath. *This guy aught to be certificated as useless.* “Your reasoning is all wrong,” Alan said, gesturing with his hands to emphasize his train of thought. “I’m telling you the barricade is there, which means the train’s monitors can’t detect it. So clearly, masking magnetic resonance is not only possible, but is already happening.” *Three and a half minutes now.*
+“Look…”
 
-“Look, I couldn’t help you even if I wanted to.”
+*Stop saying that!* Alan thought.
 
-Alan looked away and took a deep breath. He hated the way people used that condescending word “Look, …” It just means “You’re the problem and I’m trying to be nice.”
+“I can’t just believe your story about an imaginary, invisible, undetectable obstacle using magnetic resonance masking - a technology that literally doesn't exist.”
 
-“That’s demonstrably false.” Alan continued, “Why else do you have a console strip with access to an emergency brake?” Alan gestured toward the finely textured metal strip embedded along the floor. It worked through direct contact, though its transmissions were heavily encrypted. Hacking was not an option.
+Alan took a deep breath. *This guy aught to be certificated as useless.* “Your reasoning is all wrong,” Alan said, gesturing with his hands to emphasize his logical sequence. “I’m telling you the barricade is there, which means the train’s monitors can’t detect it. So clearly, masking magnetic resonance not only exists but is approaching us at approximately 500 kilometers per hour.” *Three and a half minutes now.*
 
-“Michael,” Alan said, “I’ve already tried to warn the conductor. We have approximately two and a half minutes to begin deceleration.”
+“Look, this train has a schedule.”
 
-“How do you know my name?”
+Alan restrained his impulse to punch the man’s face off.
 
-Alan restrained his impulse to punch the man’s face off. “Your name tag.” 
+The attendant continued, “The infiltrators who attacked the guards at the station may be crazy but they’re not stupid. Why would they try to stop a train before destroying it?”
 
-The attendant struggled through the confusion typical of the response to Alan pointing out the obvious.
+“Look…” Alan mocked. “This conversation is over.”
 
-*I don’t have time for this if I intend to keep everyone’s spine intact.*
 
-Alan brought his open hands into a fighting stance, activating his gloves which began to glow a faint yellow with the light of their electromagnetic field set for deflect and stun. His jaw was set. *I’m not messing up.*
+
+
+
+
 
 The attendant reached for his sword.
 
