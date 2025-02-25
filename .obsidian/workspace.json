@@ -90,15 +90,27 @@
               "state": {
                 "file": "Untitled 9.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Untitled 9"
             }
+          },
+          {
+            "id": "143ad0e3cf404e2d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -264,7 +276,7 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "8bb5cdcc2fd66ffb",
+  "active": "143ad0e3cf404e2d",
   "lastOpenFiles": [
     "Untitled 10.md",
     "Untitled 9.md",
