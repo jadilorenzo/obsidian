@@ -29,7 +29,7 @@ A century later, the world was dangerous… not fantastical — no aliens, no sp
 
 The days of unified nations were long gone, replaced by a patchwork of large city-states and powerful corporations that governed their territories. The strong ruled without mercy; the weak, without hope — hope to survive under the shadow of war, execution, starvation, or assassination. Trust was rare.
 
-Nevertheless, humans always adapt. In fact, an unexpected benefit had emerged from the destruction of computer chips: new technology no longer relied on antiquated infrastructure. Fiber optic microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiber optic wire. Previous computers had been fast, but these new machines were only limited by the speed of light. Systems designed for the interception of intercontinental ballistic missiles could achieve their goal with relative ease. This boost to computing speed, combined with discoveries in the arenas of magnetic deflection and magnetic blade technology, reverted all combat to hand-to-hand. Bullets were useless. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The  blade edges could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. Decapitation was as effortless as a single, well-placed stroke of a blade.
+Nevertheless, humans always adapt. In fact, an unexpected benefit had emerged from the destruction of computer chips: new technology no longer relied on old infrastructure. Fiber optic microchips replaced their silicon predecessors, and copper wiring gave way to the blazing speed of fiber optic wire. Previous computers had been fast, but these new machines were only limited by the speed of light. This boost to computing speed, combined with discoveries in the arenas of magnetic deflection and magnetic blade technology, reverted all combat to hand-to-hand. Bullets were useless. Depending on the size and variety, these shields could deflect full-blown tank shells, metal or otherwise. The  blade edges could tear through sheet metal. But when brought to bear in hand-to-hand combat, each blade counteracted the other. Decapitation was as effortless as a single, well-placed stroke of a blade.
 
 Alan sat in the 11th car of a lightning train, hurtling toward Novar at 500 kilometers an hour—and the most consequential leader in the western world. Vambraces, greaves, and gloves of a dark, brushed metal were on his forearms, shins, and hands while his chest remained without armor. The near-black cloth covering the surface of his body was splashed with dark brown dirt and dust although his face was clean. A mask of the same near black cloth partially covered his face. No one knew his name… at least not yet.
 
@@ -57,49 +57,39 @@ Alan said, “So you think because you’re done with chaos, chaos is done with 
 
 *Stop saying that!* Alan thought.
 
-“I can’t just believe your story about an imaginary, invisible, undetectable obstacle using magnetic resonance masking - a technology that literally doesn't exist.”
+“I can’t just believe a story about an imaginary, invisible, undetectable obstacle using magnetic resonance masking - a technology that literally doesn't exist.”
 
 Alan took a deep breath. *This guy aught to be certificated as useless.* “Your reasoning is all wrong,” Alan said, gesturing with his hands to emphasize his logical sequence. “I’m telling you the barricade is there, which means the train’s monitors can’t detect it. So clearly, masking magnetic resonance not only exists but is approaching us at approximately 500 kilometers per hour.” *Three and a half minutes now.*
 
-“Look, this train has a schedule.”
+“Look, this train has a tight schedule.”
 
 Alan restrained his impulse to punch the man’s face off.
 
 The attendant continued, “The infiltrators who attacked the guards at the station may be crazy but they’re not stupid. Why would they try to stop a train before destroying it?”
 
-“Look…” Alan mocked. “This conversation is over.”
+“Look…” Alan mocked. “This conversation is over.” Alan took an aggressive step toward the attendant.
 
+The attendant reached for his sword. “I don’t want to hurt you.”
 
+“You know, I’ve would say I appreciate that sentiment, but I don’t.” 
 
+Even though Alan was initiating the fight, he was at a disadvantage. He hadn’t even drawn a weapon. Only attendants were permitted to carry arms inside the train. Even if he somehow managed to rip the attendant’s sword from his grasp, it would immediately power down, its energy link keyed to the attendant’s handprint.
 
+But before the attendant’s sword had completely cleared its sheath, Alan gripped the hilt with both hands, locking it in place.
 
-
-
-The attendant reached for his sword.
-
-The other passengers backed into their seats to avoid being hit by a stray blade. They didn’t fear Alan’s warning… if the conductor couldn’t detect it, the obstacle didn’t exist. As for Alan, he didn’t stand a chance. All Kane’s soldiers were trained hardcore. Besides, the attendant was bigger and taller than Alan.
-
-Alan stepped forward and the attendant launched his sword out of its sheath swinging it in a wide diagonal arc that was sure to cut Alan’s torso open.
-
-But Alan was long gone before the sword cut through the empty space before him. In a fraction of a second, Alan grabbed the attendant’s sword hilt as it began to swing the opposite direction, using his other hand to grab the base of the blade just above the handle.
-
-Had Alan grabbed the blade without his protected gloves, his fingers would have been severed from his hand on contact.
-
-Gripping his sword with both hands, the attendant swung it violently left and right.
+The attendant reacted instantly, tightening his own grip and wrenching the weapon left and right in an attempt to break Alan’s hold, although the confined space made wide swings impossible.
 
 Alan held on. But instead of ripping the sword out of the attendant’s hand, he began walking forward, pushing the attendant toward the front of the carriage.
 
-The more the attendant struggled to free his sword, the more stationary it became as if it had been divinely fixated to only move in one direction, forward. Alan’s eyes met the attendant’s with a cold calibration. His face would have been unreadable… even if the lower half hadn’t been concealed by a mask.
+The more the attendant struggled to free his sword, the more stationary it became… as if it had been divinely fixated to only move in one direction, forward. A flicker of confusion crossed his face, quickly replaced by something colder — realization. He was losing control.
 
-Usually fights are accompanied by an excess of movement and sound, but the only thing to hear was the attendant’s accelerated breathing, the muted buzzing of the magnetic fields, and Alan’s measured footsteps, moving the attendant closer and closer to the front wall of the carriage.
+Alan’s face would have been unreadable… even if the lower half hadn’t been concealed by a mask.
 
-After a few seconds of intense struggle, the attendant had an idea.
+Fights were usually loud, chaotic affairs, but here, the only sounds were the attendant’s accelerated breathing, the muted buzz of the magnetic fields, and Alan’s measured footsteps—each one driving the attendant closer to the front wall of the carriage.
 
-It couldn’t be called a stroke of genius. Alan had considered and accounted for that same revelation before he even left his seat.
 
-Because the fields protecting Alan’s hands operated at a lower energy level to maintain flexibility, any higher-energy field could destabilize their shields, possibly breaking through and delivering a dangerous electric shock.
 
-The attendant simply needed to increase the power to his sword. With a swift motion, he slid the input control on his hilt from 7 to 10 Tesla (a unit of magnetic density).
+
 
 This is what Alan was waiting for. In a near reflexive move, he jammed the sword blade into the magnetic lock holding the right carriage door shut and stepped back.
 
