@@ -96,21 +96,9 @@
               "icon": "lucide-file",
               "title": "Untitled 9"
             }
-          },
-          {
-            "id": "143ad0e3cf404e2d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -276,10 +264,10 @@
       "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "143ad0e3cf404e2d",
+  "active": "8bb5cdcc2fd66ffb",
   "lastOpenFiles": [
-    "Untitled 10.md",
     "Untitled 9.md",
+    "Untitled 10.md",
     "Untitled 8.md",
     "Untitled 7.md",
     "Speech.md",
