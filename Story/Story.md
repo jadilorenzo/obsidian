@@ -85,19 +85,15 @@ The more the attendant struggled to free his sword, the more stationary it becam
 
 Alan’s face would have been unreadable… even if the lower half hadn’t been concealed by a mask.
 
-Fights were usually loud, chaotic affairs, but here, the only sounds were the attendant’s accelerated breathing, the muted buzz of the magnetic fields, and Alan’s measured footsteps—each one driving the attendant closer to the front wall of the carriage.
+Fights were usually loud, chaotic affairs, but here, the only sounds were the attendant’s accelerated breathing, the muted buzz of the swords magnetic field, and Alan’s measured footsteps—each one driving the attendant closer to the front wall of the carriage.
 
+But just before the attendant was forced against the front wall of the carriage, Alan suddenly shifted his stance, rotated the blade’s edge to be vertical, drove it into the crack of the door, let it go, and stepped back.
 
-
-
-
-This is what Alan was waiting for. In a near reflexive move, he jammed the sword blade into the magnetic lock holding the right carriage door shut and stepped back.
-
-The attendant yanked on the sword trying to pull the sword back out.
+The attendant yanked on the sword, trying to pull it free, but Alan’s stroke had done more than just wedge the blade into the door — it had lodged it into the magnetic lock system itself. 
 
 *120 seconds now.*
 
-The buzzing intensified, rising to a sharp, piercing pitch as sparks crackled, growing louder with each burst.
+The buzzing intensified, rising to a sharp, piercing pitch as blue sparks crackled, growing louder with each burst.
 
 Bam! The magnetic lock busted, shooting the sword across the carriage, the hilt making a dent in the over-engineered alloy that made up the body of the carriage.
 
