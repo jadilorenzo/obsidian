@@ -71,7 +71,7 @@ The attendant continued, “The infiltrators who attacked the guards at the stat
 
 The attendant reached for his sword. “I don’t want to hurt you.”
 
-“You know, I’ve would say I appreciate that sentiment, but I don’t.” 
+“You know, I would say I appreciate that sentiment, but I don’t.” 
 
 Even though Alan was initiating the fight, he was at a disadvantage. He hadn’t even drawn a weapon. Only attendants were permitted to carry arms inside the train. Even if he somehow managed to rip the attendant’s sword from his grasp, it would immediately power down, its energy link keyed to the attendant’s handprint.
 
@@ -97,7 +97,7 @@ The buzzing intensified, rising to a sharp, piercing pitch as blue sparks crackl
 
 Bam! The magnetic lock busted, shooting the sword across the carriage, the hilt making a dent in the over-engineered alloy that made up the body of the carriage.
 
-Alan, using the attendant’s moment of slack jawed amazement, kicked him in the chest to get him away from the door. He wanted to kick him harder, but held back, only knocking him off his balance.
+Alan, taking advantage of the attendant’s slack-jawed amazement, drove his boot into the man’s chest, sending him stumbling backward. _Not even a bruised rib. Consider yourself lucky,_ Alan thought, already shifting his focus back to the door.
 
 Alan braced himself beside the door. When he kicked the door open, the sudden rush would pull him out — and he’d be ready, gripping the edge of the train to keep from being thrown into the blur.
 
