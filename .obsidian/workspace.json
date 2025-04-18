@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Where are you now... Francis!.md",
+                "file": "Story/Story.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Where are you now... Francis!"
+              "title": "Story"
             }
           },
           {
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "f032a041d9cf9ab7",
@@ -265,6 +266,7 @@
   },
   "active": "eaabaf4d9a5db6d6",
   "lastOpenFiles": [
+    "Where are you now... Francis!.md",
     "Untitled 11.md",
     "Untitled 10.md",
     "Untitled 9.md",
@@ -290,7 +292,6 @@
     "Daily Note/2024-02-24.md",
     "Daily Note/2024-03-14.md",
     "Daily Note/2024-03-16.md",
-    "The Merchant of Venice – Shylock Act 3, Scene 1.md",
     "Pasted image 20241126155813 1.png",
     "Pasted image 20241126155813.png",
     "inbox",
